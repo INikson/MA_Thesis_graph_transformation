@@ -1,0 +1,1131 @@
+FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Stanczyk-Hugiet, E
+   Piorkowska, K
+   Stanczyk, S
+AF Stanczyk-Hugiet, Ewa
+   Piorkowska, Katarzyna
+   Stanczyk, Sylwia
+TI Demystifying emergence of organizational routines
+SO JOURNAL OF ORGANIZATIONAL CHANGE MANAGEMENT
+LA English
+DT Review
+DE Organizational change; Organizational routines; Emergence theory;
+   Routines' dynamics
+ID CAPABILITY DEVELOPMENT; STABILITY; MICROFOUNDATIONS; DYNAMICS; PATTERNS;
+   MODEL; FIRMS
+AB Purpose - The purpose of this paper is to discourse the essence and utility of (re)emergence theory as the starting point of understanding and interpreting organizational routines dynamics as well as to propose a conceptual framework reflecting both epistemological and methodological value as the keystone of analysing the rationale of organizational routines and the process of their emergence.
+   Design/methodology/approach - The paper is based on extensive literature studies.
+   Findings - Referring to the research problem concerning the reconciliation organizational routines and the emergence phenomenon, the findings complement the insights of the dominant theoretical perspectives in organizational routine theory, providing a more comprehensive understanding of organizational dynamics by directly addressing the heretofore intractable phenomenon of emergence. In addition, it is going to be a well-justified epistemological base to operationalize routines - not only per se, but also with regard to the mechanisms enacted.
+   Originality/value - Routines change over time and the current studies results are not sufficient to understand these changes yet. Interpreting organizational routines from the emergence theory perspective reveals their soft, indeterministic, and unpredictable nature and ought to render the scholars dealing with that phenomenon interpretatively and methodologically cautious. Emergence is a priori embedded in organizational routines' context. The considerations included in the paper are salient regarding ontological and epistemological issues as they emphasize specific thought and research directions in the field of organization study eventually. Emergence ideas may play a part in discussions of spontaneous order, particularly by implementing it to routines construct. A major issue is the role of these ideas and processes within organizational evolution.
+C1 [Stanczyk-Hugiet, Ewa; Piorkowska, Katarzyna; Stanczyk, Sylwia] Wroclaw Univ Econ, Dept Strategy & Management Methods, Wroclaw, Poland.
+RP Piorkowska, K (corresponding author), Wroclaw Univ Econ, Dept Strategy & Management Methods, Wroclaw, Poland.
+EM katarzyna.piorkowska@ue.wroc.pl
+RI Stanczyk, Sylwia/E-1899-2017; Piórkowska, Katarzyna/F-3332-2015; Hugiet,
+   Stanczyk/G-2895-2018
+OI Stanczyk, Sylwia/0000-0002-3539-0075; Piórkowska,
+   Katarzyna/0000-0001-5880-136X; Hugiet, Stanczyk/0000-0002-3218-3812
+FU National Science Centre in Poland [DEC-2013/11/B/HS4/00647]
+FX The research is supported by the National Science Centre in Poland
+   (Grant Number: DEC-2013/11/B/HS4/00647).
+CR Anderson P, 1999, ORGAN SCI, V10, P216, DOI 10.1287/orsc.10.3.216
+   Aroles J, 2016, ORGAN SCI, V27, P535, DOI 10.1287/orsc.2015.1035
+   Austin J. Langshaw, 1975, DO THINGS WORDS
+   Balogun J, 2004, ACAD MANAGE J, V47, P523, DOI 10.2307/20159600
+   Bapuji H, 2012, J MANAGE STUD, V49, P1586, DOI 10.1111/j.1467-6486.2012.01063.x
+   Baum J. A. C., 1994, EVOLUTIONARY DYNAMIC, P3
+   Becker M. C., 2005, WORKING PAPER
+   Becker MC, 2008, J ECON BEHAV ORGAN, V66, P128, DOI 10.1016/j.jebo.2007.04.002
+   Becker MC, 2008, HANDBOOK OF ORGANIZATIONAL ROUTINES, P3
+   Becker MC, 2005, RES POLICY, V34, P1305, DOI 10.1016/j.respol.2005.03.016
+   Becker MC, 2005, IND CORP CHANGE, V14, P775, DOI 10.1093/icc/dth071
+   Becker MC, 2004, IND CORP CHANGE, V13, P643, DOI 10.1093/icc/dth026
+   Bedau MA, 1997, NOUS, P375
+   Bedwell WL, 2012, HUM RESOUR MANAGE R, V22, P128, DOI 10.1016/j.hrmr.2011.11.007
+   Bogaert S, 2016, J MANAGE, V42, P1344, DOI 10.1177/0149206314527129
+   Breslin D, 2011, FUTURES, V43, P1020, DOI 10.1016/j.futures.2011.07.001
+   Breuker D., 2014, 22 EUR C INF SYST TE
+   Butler BS, 2006, MIS QUART, V30, P211
+   Bylund S. C., 2014, ACAD MANAGEMENT P, DOI [10.5465/AMBPP.2014.13467, DOI 10.5465/AMBPP.2014.13467]
+   Campbell D. T., 1974, STUDIES PHILOS BIOL, P179, DOI DOI 10.1007/978-1-349-01892-5_11
+   Chalmers D. J., 2006, RE EMERGENCE EMERGEN, DOI DOI 10.1093/ACPROF:OSO/9780199544318.003.0011
+   Clayton P., 2006, REEMERGENCE EMERGENC
+   COHEN MD, 1994, ORGAN SCI, V5, P554, DOI 10.1287/orsc.5.4.554
+   Cohen MD, 1996, IND CORP CHANGE, V5, P653
+   Cohen MD, 1991, ORGAN SCI, V2, P135, DOI 10.1287/orsc.2.1.135
+   Corning P. A., 2002, Complexity, V7, P18, DOI 10.1002/cplx.10043
+   Dawkins R., 2016, SELFISH GENE
+   de Haan J, 2006, ECOL COMPLEX, V3, P293, DOI 10.1016/j.ecocom.2007.02.003
+   De Muijnck W., 2003, DEPENDENCIES CONNECT
+   DeChurch LA, 2010, GROUP DYN-THEOR RES, V14, P1, DOI 10.1037/a0017455
+   Deken F, 2016, ORGAN SCI, V27, P659, DOI 10.1287/orsc.2016.1051
+   Dionysiou DD, 2013, ACAD MANAGE REV, V38, P181, DOI 10.5465/amr.2011.0215
+   Dosi G., 2000, NATURE DYNAMICS ORG
+   Dosi G, 2008, ORGAN STUD, V29, P1165, DOI 10.1177/0170840608094775
+   Egidi M., 1992, EC BOUNDED RATIONALI, P148
+   Essen A, 2008, HUM RELAT, V61, P1617, DOI 10.1177/0018726708096640
+   Feldman M. S., 2003, ADM SCI Q, V48, P1
+   Feldman MS, 2011, ORGAN SCI, V22, P1240, DOI 10.1287/orsc.1100.0612
+   Feldman MS, 2003, IND CORP CHANGE, V12, P727, DOI 10.1093/icc/12.4.727
+   Feldman MS, 2000, ORGAN SCI, V11, P611, DOI 10.1287/orsc.11.6.611.12529
+   FELDMAN MS, 2016, ORG ROUTINES THEY AR, P23, DOI DOI 10.1093/ACPROF:OSO/9780198759485.003.0002
+   FELIN T, 2004, 0413 DRUID
+   Felin T, 2012, J MANAGE STUD, V49, P1351, DOI 10.1111/j.1467-6486.2012.01052.x
+   Felin T, 2012, J I ECON, V8, P271, DOI 10.1017/S1744137411000506
+   Felin T, 2011, J I ECON, V7, P231, DOI 10.1017/S1744137410000214
+   Foss NJ, 2012, EUR MANAG REV, V9, P173, DOI 10.1111/emre.12001
+   GERSICK CJG, 1990, ORGAN BEHAV HUM DEC, V47, P65, DOI 10.1016/0749-5978(90)90047-D
+   Goldstein J., 1999, EMERGENCE, V1, P49, DOI DOI 10.1207/S15327000EM0101_4
+   Gupta A, 2015, STRATEGIC MANAGE J, V36, P851, DOI 10.1002/smj.2254
+   Gustafsson R, 2016, INT J MANAG REV, V18, P28, DOI 10.1111/ijmr.12057
+   Harper DA, 2012, J ECON BEHAV ORGAN, V82, P352, DOI 10.1016/j.jebo.2011.03.013
+   Hodgson G. M., 2004, ORG ROUTINES ADV EMP, P26
+   Hodgson GM, 2007, ORGAN STUD, V28, P95, DOI 10.1177/0170840607067832
+   Hodgson GM, 2009, ORGANIZATIONAL ROUTINES: ADVANCING EMPIRICAL RESEARCH, P26
+   Hodgson GM, 2008, HANDBOOK OF ORGANIZATIONAL ROUTINES, P15
+   Hodgson GM, 2004, J EVOL ECON, V14, P281, DOI 10.1007/s00191-004-0192-1
+   Hodgson GM., 1993, REV ECON-FR, V54, P355, DOI 10.2307/3503007
+   Howard-Grenville J., 2016, ORG ROUTINES THEY AR
+   Howard-Grenville JA, 2005, ORGAN SCI, V16, P618, DOI 10.1287/orsc.1050.0150
+   Humphreys P, 2008, MIND MACH, V18, P431, DOI 10.1007/s11023-008-9125-3
+   Intille S. S., 2006, SCI REAL TIME DATA C, P308
+   Kim J, 2006, SYNTHESE, V151, P547, DOI 10.1007/s11229-006-9025-0
+   Knudsen T, 2008, HANDBOOK OF ORGANIZATIONAL ROUTINES, P125
+   Latour B., 2005, REASSEMBLING SOCIAL
+   Lazaric N, 2011, J I ECON, V7, P147, DOI 10.1017/S1744137411000130
+   LeBaron CD, 2005, SOURCEBOOK OF NONVERBAL MEASURES: GOING BEYOND WORDS, P493
+   LePine JA, 2008, PERS PSYCHOL, V61, P273, DOI 10.1111/j.1744-6570.2008.00114.x
+   Levinthal D, 2006, ORGAN SCI, V17, P502, DOI 10.1287/orsc.1060.0197
+   Lewes George Henry., 1891, PROBLEMS LIFE MIND 1, V2, P290
+   Loewer B, 2012, INTERFACE FOCUS, V2, P13, DOI 10.1098/rsfs.2011.0072
+   Low B, 2012, J BUS RES, V65, P821, DOI 10.1016/j.jbusres.2010.12.022
+   March J, 1958, ORGANIZATIONS
+   Marks MA, 2001, ACAD MANAGE REV, V26, P356, DOI 10.5465/AMR.2001.4845785
+   McKinley W, 2011, J MANAGE STUD, V48, P804, DOI 10.1111/j.1467-6486.2010.00960.x
+   Mill John Stuart, 1843, SYSTEM LOGIC RATIOCI
+   Miller KD, 2014, STRATEG ORGAN, V12, P109, DOI 10.1177/1476127014521609
+   Morange M, 2006, SYNTHESE, V151, P355, DOI 10.1007/s11229-006-9029-9
+   Morgan CL, 1923, EMERGENT EVOLUTION
+   Murphy M., 1992, REVISIONING PHILOS, P73
+   Mutch A, 2016, ORGAN STUD, V37, P1171, DOI 10.1177/0170840616634134
+   Nelson R.R, 1982, EVOL THEOR
+   Pan S, 2006, J AM SOC INF SCI TEC, V57, P1814, DOI 10.1002/asi.20384
+   Pan SL, 2007, IEEE T ENG MANAGE, V54, P800, DOI 10.1109/TEM.2007.906854
+   Parmigiani A., 2015, ACAD MANAGEMENT ANN, V5, P413
+   Peigne P., 2013, 13 ANN C EURAM IST 2
+   Pentland B. T., 2012, J MANAGE STUD, V49, P8
+   Pentland BT, 2008, HANDBOOK OF ORGANIZATIONAL ROUTINES, P281
+   Pentland BT, 2011, J I ECON, V7, P279, DOI 10.1017/S174413741000041X
+   Pentland BT, 2008, INFORM ORGAN-UK, V18, P235, DOI 10.1016/j.infoandorg.2008.08.001
+   PENTLAND BT, 1994, ADMIN SCI QUART, V39, P484, DOI 10.2307/2393300
+   Pentland BT, 2005, IND CORP CHANGE, V14, P793, DOI 10.1093/icc/dth070
+   Piorkowska K., 2017, INT J SOCIAL BEHAV E, V11, P94
+   Place U. T., 1999, HDB BEHAV, P361
+   Rerup C, 2011, ACAD MANAGE J, V54, P577, DOI 10.5465/AMJ.2011.61968107
+   Robinson WS, 2005, BIOL PHILOS, V20, P117, DOI 10.1007/s10539-005-0414-4
+   Safavi M, 2016, BRIT J MANAGE, V27, P550, DOI 10.1111/1467-8551.12167
+   Salvato C, 2011, J MANAGE, V37, P468, DOI 10.1177/0149206310371691
+   Sargis-Roussel C, 2017, EUR MANAG REV, V14, P101, DOI 10.1111/emre.12100
+   Schulz M., 2008, HDB ORG ROUTINES
+   Sele K, 2016, ORGAN SCI, V27, P722, DOI 10.1287/orsc.2015.1031
+   SILBERSTEIN M, 1999, THE PHILOSOPHICAL QU, V195, P182
+   Simon H., 1962, P AM PHILOS SOC, V106, P467
+   Stanczyk-Hugiet E., 2015, ANN 15 EURAM C WARS
+   Stanczyk-Hugiet E, 2014, MANAG-POL, V18, P73, DOI 10.2478/manment-2014-0043
+   Stene E., 1940, AM POLIT SCI REV, V34, P1124, DOI DOI 10.2307/1948193
+   Sweester P., 2008, EMERGENCY IN GAMES
+   Tornikoski ET, 2007, J BUS VENTURING, V22, P311, DOI 10.1016/j.jbusvent.2005.12.003
+   Vergne JP, 2010, J MANAGE STUD, V47, P736, DOI 10.1111/j.1467-6486.2010.00913.x
+   Whitehead AN., 2010, PROCESS REALITY
+   Williams M. L., 2003, IDENTIFYING ORG ROUT
+   Wimsatt William., 1972, STUDIES HIST PHILOS, V3, P1
+   WINTER SG, 1964, YALE ECON ESSAYS, V4, P225
+   Witt U, 2011, J I ECON, V7, P157, DOI 10.1017/S1744137410000226
+   Yi S, 2016, ORGAN SCI, V27, P782, DOI 10.1287/orsc.2016.1059
+NR 114
+TC 9
+Z9 10
+U1 2
+U2 34
+PU EMERALD GROUP PUBLISHING LTD
+PI BINGLEY
+PA HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN 0953-4814
+EI 1758-7816
+J9 J ORGAN CHANGE MANAG
+JI J. Organ. Chang. Manage.
+PY 2017
+VL 30
+IS 4
+BP 525
+EP 547
+DI 10.1108/JOCM-03-2016-0048
+PG 23
+WC Management
+WE Social Science Citation Index (SSCI)
+SC Business & Economics
+GA EZ6RH
+UT WOS:000404844800005
+DA 2022-09-27
+ER
+
+PT J
+AU Radwan, L
+   Kinder, S
+AF Radwan, Lukas
+   Kinder, Sebastian
+TI Practising the diffusion of organizational routines
+SO ENVIRONMENT AND PLANNING A-ECONOMY AND SPACE
+LA English
+DT Article
+DE diffusion; organizational routines; practice; relational approach
+ID ECONOMIC-GEOGRAPHY; INTERFIRM NETWORKS; TACIT KNOWLEDGE; INSTITUTIONS;
+   INNOVATION; PROXIMITY; EVOLUTION; DISSEMINATION; EMBEDDEDNESS; CREATION
+AB Ever since Nelson and Winter published their Evolutionary Theory of Economic Change in 1982 there has been lively debate in the fields of organizational theory and evolutionary economics about the characteristics and effects of organizational routines. The authors discuss a practice-based perspective on routines in connection with diffusion processes. An approach is developed by placing Feldman and Pentland's concept of routines, which draws on structuration and actor network theories, in relation to a knowing in practice perspective. Within a relational approach, the authors propose taking a practice-based perspective to the diffusion of organizational routines, with (i) knowing, (ii) collaborations, and (iii) policy relevance being the critical categories.
+C1 [Radwan, Lukas; Kinder, Sebastian] Univ Tubingen, Inst Geog, Dept Econ Geog, D-72070 Tubingen, Germany.
+RP Kinder, S (corresponding author), Univ Tubingen, Inst Geog, Dept Econ Geog, Rumelinstr 19-23, D-72070 Tubingen, Germany.
+EM lukas.radwan@uni-tuebingen.de; sebastian.kinder@uni-tuebingen.de
+CR Amin Ash, 2004, ARCHITECTURES OF KNO
+   Asheim B, 2007, ENVIRON PLANN C, V25, P655, DOI 10.1068/c0648
+   Bathelt H, 2005, ENVIRON PLANN A, V37, P1545, DOI 10.1068/a37109
+   Bathelt H, 2004, PROG HUM GEOG, V28, P31, DOI 10.1191/0309132504ph469oa
+   Bathelt H, 2003, J ECON GEOGR, V3, P117, DOI 10.1093/jeg/3.2.117
+   Bathelt H., 2012, WIRTSCHAFTSGEOGRAPHI
+   Bathelt H., 2011, RELATIONAL EC GEOGRA
+   Becker M., 2003, CONOMIE APPLIQU E AR, V56, P65
+   Becker M C, 2008, HANDBOOK OF ORGANIZA
+   Becker MC, 2004, IND CORP CHANGE, V13, P643, DOI 10.1093/icc/dth026
+   Becker MC, 2009, ORGANIZATIONAL ROUTINES: ADVANCING EMPIRICAL RESEARCH, P1
+   Boschma RA, 2005, REG STUD, V39, P61, DOI 10.1080/0034340052000320887
+   Boschma RA, 2004, PAPERS IN EVOLUTIONA, P0504
+   Boschma R, 2010, HANDBOOK OF EVOLUTIONARY ECONOMIC GEOGRAPHY, P3
+   Boschma R, 2011, J ECON GEOGR, V11, P295, DOI 10.1093/jeg/lbq053
+   Boschma R, 2009, ECON GEOGR, V85, P151, DOI 10.1111/j.1944-8287.2009.01018.x
+   Boschma RA, 2006, J ECON GEOGR, V6, P273, DOI 10.1093/jeg/lbi022
+   Cohen MD, 1996, IND CORP CHANGE, V5, P653
+   Cohen MD, 1991, ORGAN SCI, V2, P135, DOI 10.1287/orsc.2.1.135
+   Cohendet P, 2008, HANDBOOK OF ORGANIZATIONAL ROUTINES, P256
+   D'Adderio L, 2008, RES POLICY, V37, P769, DOI 10.1016/j.respol.2007.12.012
+   Dearing JW, 2008, J PUBLIC HEALTH MAN, V14, P99, DOI 10.1097/01.PHH.0000311886.98627.b7
+   Dosi G., 2000, NATURE DYNAMICS ORG, P1
+   Espedal B, 2006, J APPL BEHAV SCI, V42, P468, DOI 10.1177/0021886306291601
+   Essletzbichler J, 2007, J ECON GEOGR, V7, P549, DOI 10.1093/jeg/lbm022
+   Ettlinger N, 2003, J ECON GEOGR, V3, P145, DOI 10.1093/jeg/3.2.145
+   Farole T, 2011, PROG HUM GEOG, V35, P58, DOI 10.1177/0309132510372005
+   Faulconbridge JR, 2006, J ECON GEOGR, V6, P517, DOI 10.1093/jeg/lbi023
+   Feldman MS, 2011, ORGAN SCI, V22, P1240, DOI 10.1287/orsc.1100.0612
+   Feldman MS, 2003, ADMIN SCI QUART, V48, P94, DOI 10.2307/3556620
+   Feldman MS, 2002, J MANAGE STUD, V39, P309, DOI 10.1111/1467-6486.00294
+   Feldman MS, 2000, ORGAN SCI, V11, P611, DOI 10.1287/orsc.11.6.611.12529
+   Gertler Mark., 2001, J ECON GEOGR, V1, P5, DOI [DOI 10.1093/JEG/1.1.5, 10.1093/jeg/1.1.5]
+   Gertler MS, 2010, REG STUD, V44, P1, DOI 10.1080/00343400903389979
+   GERTLER MS, 1993, REG STUD, V27, P665, DOI 10.1080/00343409312331347845
+   Gertler MS, 2005, ECON GEOGR, V81, P31
+   GERTLER MS, 1995, ECON GEOGR, V71, P1, DOI 10.2307/144433
+   Gertler MS, 2003, J ECON GEOGR, V3, P75, DOI 10.1093/jeg/3.1.75
+   Gibson R., 2010, SPACES ONLINE, V8
+   Giddens A., 1984, THE CONSTITUTION OF
+   Gluckler J, 2007, J ECON GEOGR, V7, P619, DOI 10.1093/jeg/lbm023
+   Grabher G, 2006, J ECON GEOGR, V6, P251, DOI 10.1093/jeg/lbi014
+   Green LW, 2009, ANNU REV PUBL HEALTH, V30, P151, DOI 10.1146/annurev.publhealth.031308.100049
+   Hakanson L, 2010, IND CORP CHANGE, V19, P1801, DOI 10.1093/icc/dtq052
+   Hall PA, 2009, SOCIO-ECON REV, V7, P7, DOI 10.1093/ser/mwn020
+   Hodgson GM, 2009, ORGANIZATIONAL ROUTINES: ADVANCING EMPIRICAL RESEARCH, P26
+   Hodgson GM, 2008, HANDBOOK OF ORGANIZATIONAL ROUTINES, P15
+   Hodgson GM, 2006, J ECON ISSUES, V40, P1, DOI 10.1080/00213624.2006.11506879
+   Hodgson GM., 1993, REV ECON-FR, V54, P355, DOI 10.2307/3503007
+   Ibert O, 2006, GEOGR Z, V94, P98
+   Ibert O, 2007, REG STUD, V41, P103, DOI 10.1080/00343400601120346
+   Johannisson B, 2002, ENTREP REGION DEV, V14, P297, DOI 10.1080/08985620210142020
+   Jones A, 2008, PROG HUM GEOG, V32, P71, DOI 10.1177/0309132507084817
+   Jones A, 2011, PROG HUM GEOG, V35, P366, DOI 10.1177/0309132510375585
+   Kinder S, 2010, GEOGR Z, V98, P41
+   Kirat T, 1999, EUR URBAN REG STUD, V6, P27, DOI 10.1177/096977649900600103
+   Labatut J, 2012, ORGAN STUD, V33, P39, DOI 10.1177/0170840611430589
+   Latour B, 2005, REASSAMBLING THE SOC
+   Lounsbury M, 2007, ORGAN STUD, V28, P993, DOI 10.1177/0170840607078111
+   Malmberg A, 2010, HANDBOOK OF EVOLUTIONARY ECONOMIC GEOGRAPHY, P391
+   Maskell P, 2007, J ECON GEOGR, V7, P603, DOI 10.1093/jeg/lbm020
+   Nelson R., 1982, EVOL THEOR
+   Nooteboom B, 2005, WP 05 05
+   Orlikowski WJ, 2002, ORGAN SCI, V13, P249, DOI 10.1287/orsc.13.3.249.2776
+   Parmigiani I, 2011, THE ACADEMY OF MANAG, V5, P1
+   Pelikan P, 2003, J EVOL ECON, V13, P237, DOI 10.1007/s00191-003-0157-9
+   Pentland BT, 2005, IND CORP CHANGE, V14, P793, DOI 10.1093/icc/dth070
+   Rallet A., 2009, SPACES ONLINE, V7
+   Rogers EM, 1995, DIFFUSION OF INNOVAT
+   Schamp EW, 2010, HANDBOOK OF EVOLUTIONARY ECONOMIC GEOGRAPHY, P432
+   Schiller-Merkens S., 2008, INSTITUTIONELLER WAN
+   Sydow J, 2010, ECON GEOGR, V86, P173
+   Uzzi B, 1997, ADMIN SCI QUART, V42, P35, DOI 10.2307/2393808
+   Vallance P, 2011, ENVIRON PLANN A, V43, P1098, DOI 10.1068/a43186
+   Wellstein B, 2011, IND CORP CHANGE, V20, P683, DOI 10.1093/icc/dtr011
+   Werlen B., 1997, SOZIALGEOGRAPHIE ALL, V2
+   WOLFE RA, 1994, J MANAGE STUD, V31, P405, DOI 10.1111/j.1467-6486.1994.tb00624.x
+   Zbaracki M J, 2010, ORGANIZATION SCIENCE, V21, P972
+   Zollo M, 2002, ORGAN SCI, V13, P339, DOI 10.1287/orsc.13.3.339.2780
+NR 79
+TC 11
+Z9 11
+U1 1
+U2 34
+PU SAGE PUBLICATIONS INC
+PI THOUSAND OAKS
+PA 2455 TELLER RD, THOUSAND OAKS, CA 91320 USA
+SN 0308-518X
+EI 1472-3409
+J9 ENVIRON PLANN A
+JI Environ. Plan. A
+PD OCT
+PY 2013
+VL 45
+IS 10
+BP 2442
+EP 2458
+DI 10.1068/a45290
+PG 17
+WC Environmental Studies; Geography
+WE Social Science Citation Index (SSCI)
+SC Environmental Sciences & Ecology; Geography
+GA 256CJ
+UT WOS:000327287000012
+DA 2022-09-27
+ER
+
+PT J
+AU Miller, KD
+   Pentland, BT
+   Choi, S
+AF Miller, Kent D.
+   Pentland, Brian T.
+   Choi, Seungho
+TI Dynamics of Performing and Remembering Organizational Routines
+SO JOURNAL OF MANAGEMENT STUDIES
+LA English
+DT Article
+DE agent-based model; memory; organizational learning; organizational
+   routines
+ID TRANSACTIVE MEMORY-SYSTEMS; COMPLEX WORLDS; COMMUNICATION; KNOWLEDGE;
+   EXPERTISE; EXPERIENCE; MANAGEMENT; NETWORKS; BENEFITS; TEAMS
+AB This study addresses the dynamic interplay between action and memory in organizational routines. We consider three distinct forms of memory procedural, declarative, and transactive and examine their roles in the formation, efficiency, and adaptability of organizational routines. We introduce an agent-based model simulating organizational routines as repeated patterns of sequential tasks accomplished by networks of individuals. We model the formation of new routines, and changes in established organizational routines resulting from loss of personnel (due to downsizing) and changes in environmental demands. We find that transactive memory enhances problem-solving efficiency and facilitates adaptation to novel problems. Declarative memory built from past experience facilitates efficient routines in stable contexts, but obstructs efficiency gains when the organization encounters novel problems.
+C1 [Miller, Kent D.] Michigan State Univ, Eli Broad Grad Sch Management, Dept Management, E Lansing, MI 48824 USA.
+   Ewha Womans Univ, Ewha Business Sch, Dept Management, Seoul, South Korea.
+RP Miller, KD (corresponding author), Michigan State Univ, Eli Broad Grad Sch Management, Dept Management, E Lansing, MI 48824 USA.
+EM millerk@bus.msu.edu
+RI Pentland, Brian/AAT-9506-2021
+OI Pentland, Brian/0000-0001-7526-2476; Choi, Seungho/0000-0001-5078-2045
+CR Abell P, 2008, MANAG DECIS ECON, V29, P489, DOI 10.1002/mde.1413
+   Akgun AE, 2007, J ORGAN CHANGE MANAG, V20, P794, DOI 10.1108/09534810710831028
+   Anderson J. R., 1983, ARCHITECTURE COGNITI
+   Baddeley A. D., 1986, WORKING MEMORY
+   Becker MC, 2005, CAMB J ECON, V29, P249, DOI 10.1093/cje/bei031
+   Birnholtz JP, 2007, ORGAN SCI, V18, P315, DOI 10.1287/orsc.1070.0248
+   Brandon DP, 2004, ORGAN SCI, V15, P633, DOI 10.1287/orsc.1040.0069
+   Bruderer E, 1996, ACAD MANAGE J, V39, P1322, DOI 10.2307/257001
+   COHEN MD, 1994, ORGAN SCI, V5, P554, DOI 10.1287/orsc.5.4.554
+   Cohen MD, 1996, IND CORP CHANGE, V5, P653
+   Cohen MD, 1991, ORGAN SCI, V2, P135, DOI 10.1287/orsc.2.1.135
+   Crowston K, 1996, COMPUTATIONAL MATH O, V2, P29
+   Cyert R.M., 1963, BEHAV THEORY FIRM
+   Davis JP, 2007, ACAD MANAGE REV, V32, P480
+   de Holan P. M., 2004, Strategic Organization, V2, P423, DOI 10.1177/1476127004047620
+   de Holan PM, 2004, MANAGE SCI, V50, P1603, DOI 10.1287/mnsc.1040.0273
+   Edmondson AC, 2001, ADMIN SCI QUART, V46, P685, DOI 10.2307/3094828
+   Faraj S, 2000, MANAGE SCI, V46, P1554, DOI 10.1287/mnsc.46.12.1554.12072
+   Feldman MS, 2004, ORGAN SCI, V15, P295, DOI 10.1287/orsc.1040.0073
+   Feldman MS, 2003, IND CORP CHANGE, V12, P727, DOI 10.1093/icc/12.4.727
+   Feldman MS, 2003, ADMIN SCI QUART, V48, P94, DOI 10.2307/3556620
+   Feldman MS, 2000, ORGAN SCI, V11, P611, DOI 10.1287/orsc.11.6.611.12529
+   FELDMAN MS, 2008, SAGE HDB NEW APPROAC, P302
+   Fisher SR, 2000, ACAD MANAGE REV, V25, P244, DOI 10.2307/259273
+   FREEMAN SJ, 1993, ORGAN SCI, V4, P10, DOI 10.1287/orsc.4.1.10
+   Gavetti G, 2005, STRATEGIC MANAGE J, V26, P691, DOI 10.1002/smj.475
+   Gavetti G, 2000, ADMIN SCI QUART, V45, P113, DOI 10.2307/2666981
+   GIOIA DA, 1984, ACAD MANAGE REV, V9, P449, DOI 10.2307/258285
+   Granstrand O, 1997, CALIF MANAGE REV, V39, P8, DOI 10.2307/41165908
+   Harrison JR, 2007, ACAD MANAGE REV, V32, P1229
+   Hodgson GM, 2008, HANDBOOK OF ORGANIZATIONAL ROUTINES, P15
+   Hodgson GM., 1993, REV ECON-FR, V54, P355, DOI 10.2307/3503007
+   Hollingshead AB, 1998, J EXP SOC PSYCHOL, V34, P423, DOI 10.1006/jesp.1998.1358
+   Hollingshead AB, 2003, HUM COMMUN RES, V29, P607, DOI 10.1093/hcr/29.4.607
+   Lazaric N, 2005, IND CORP CHANGE, V14, P873, DOI 10.1093/icc/dth074
+   Lazaric N, 2008, HANDBOOK OF ORGANIZATIONAL ROUTINES, P205
+   Levinthal DA, 1997, MANAGE SCI, V43, P934, DOI 10.1287/mnsc.43.7.934
+   Levinthal DA, 1999, ORGAN SCI, V10, P342, DOI 10.1287/orsc.10.3.342
+   LEVITT B, 1988, ANNU REV SOCIOL, V14, P319, DOI 10.1146/annurev.so.14.080188.001535
+   Lewis K, 2004, MANAGE SCI, V50, P1519, DOI 10.1287/mnsc.1040.0257
+   LIANG DW, 1995, PERS SOC PSYCHOL B, V21, P384, DOI 10.1177/0146167295214009
+   Littlepage G, 1997, ORGAN BEHAV HUM DEC, V69, P133, DOI 10.1006/obhd.1997.2677
+   March J, 1958, ORGANIZATIONS
+   March JG, 1991, ORGAN SCI, V2, P71, DOI 10.1287/orsc.2.1.71
+   Marengo L., 2000, IND CORP CHANGE, V9, P757, DOI DOI 10.1093/ICC/9.4.757
+   Moreland R.L., 1996, WHATS SOCIAL SOCIAL, P57, DOI DOI 10.4135/9781483327648.N3
+   Moreland RL, 2000, ORGAN BEHAV HUM DEC, V82, P117, DOI 10.1006/obhd.2000.2891
+   Nebus J, 2006, ACAD MANAGE REV, V31, P615, DOI 10.5465/AMR.2006.21318921
+   Nelson S. G., 1982, EVOLUTIONARY THEORY
+   NONAKA I, 1994, ORGAN SCI, V5, P14, DOI 10.1287/orsc.5.1.14
+   Nonaka I., 1995, KNOWLEDGE CREATING C
+   Palazzolo ET, 2006, COMMUN THEOR, V16, P223, DOI 10.1111/j.1468-2885.2006.00269.x
+   PAOLI M, 2003, J MANAGEMENT GOVERNA, V7, P145
+   Pentland BT, 2012, J MANAGE STUD, V49, P1484, DOI 10.1111/j.1467-6486.2012.01064.x
+   PENTLAND BT, 1994, ADMIN SCI QUART, V39, P484, DOI 10.2307/2393300
+   PENTLAND BT, 1992, ADMIN SCI QUART, V37, P527, DOI 10.2307/2393471
+   Pentland BT, 2003, ORGAN SCI, V14, P528, DOI 10.1287/orsc.14.5.528.16760
+   Pentland BT, 2005, IND CORP CHANGE, V14, P793, DOI 10.1093/icc/dth070
+   Polanyi M., 1962, PERSONAL KNOWLEDGE P
+   Reagans R, 2005, MANAGE SCI, V51, P869, DOI 10.1287/mnsc.1050.0366
+   Rivkin JW, 2001, ORGAN SCI, V12, P274, DOI 10.1287/orsc.12.3.274.10106
+   Singley MK., 1989, TRANSFER COGNITIVE S
+   Squire L. R., 1987, MEMORY BRAIN
+   Teece DJ, 1997, STRATEGIC MANAGE J, V18, P509, DOI 10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z
+   Tsang EWK, 2008, HUM RELAT, V61, P1435, DOI 10.1177/0018726708095710
+   Tsoukas H, 2009, ORGAN SCI, V20, P941, DOI 10.1287/orsc.1090.0435
+   WALSH JP, 1991, ACAD MANAGE REV, V16, P57, DOI 10.2307/258607
+   Wegner D. M., 1986, THEORIES GROUP BEHAV, P185, DOI DOI 10.1007/978-1-4612-4634-3_9
+NR 68
+TC 91
+Z9 97
+U1 11
+U2 143
+PU WILEY-BLACKWELL
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0022-2380
+J9 J MANAGE STUD
+JI J. Manage. Stud.
+PD DEC
+PY 2012
+VL 49
+IS 8
+SI SI
+BP 1536
+EP 1558
+DI 10.1111/j.1467-6486.2012.01062.x
+PG 23
+WC Business; Management
+WE Social Science Citation Index (SSCI)
+SC Business & Economics
+GA 040CI
+UT WOS:000311296600012
+DA 2022-09-27
+ER
+
+PT J
+AU Tate, M
+   Campbell-Meier, J
+   Sudfelt, R
+AF Tate, Mary
+   Campbell-Meier, Jennifer
+   Sudfelt, Rory
+TI Organizational routines and teaching innovations: a case study
+SO TEACHING IN HIGHER EDUCATION
+LA English
+DT Article
+DE Organizational routines; flipped classroom; case study
+ID UNIVERSITY; DYNAMICS; MODEL
+AB Adopting new teaching practices, like the 'flipped classroom', disrupts organizational routines within the university. This paper examines flipped classroom implementation from the perspective of four stakeholder groups students, instructors, administrators, and managers), using an organizational routines lens. Disrupting established routines created risk, decreases coordination and shared understanding, and increases time and cognitive load for stakeholders. We conclude that seemingly minor innovations in teaching delivery can have major and disruptive implications for the wider institution.
+C1 [Tate, Mary] Queensland Univ Technol, Sch Informat Syst, Brisbane, Qld, Australia.
+   [Campbell-Meier, Jennifer] Victoria Univ Wellington, Sch Informat Management, Wellington, New Zealand.
+   [Sudfelt, Rory] Educ Review Off, Wellington, New Zealand.
+RP Tate, M (corresponding author), Queensland Univ Technol, Sch Informat Syst, Brisbane, Qld, Australia.
+EM mary.tate@qut.edu.au
+OI Campbell-Meier, Jennifer/0000-0002-4084-6110; Tate,
+   Mary/0000-0002-4284-7467
+FU Australian Research Council [DE160100548]
+FX This work was supported by the Australian Research Council [grant number
+   DE160100548].
+CR Abeysekera L, 2015, HIGH EDUC RES DEV, V34, P1, DOI 10.1080/07294360.2014.934336
+   [Anonymous], 1995, QUALITATIVE REPORT, DOI DOI 10.46743/2160-3715/1995.2069
+   Becker MC, 2004, IND CORP CHANGE, V13, P643, DOI 10.1093/icc/dth026
+   D'Adderio L, 2008, RES POLICY, V37, P769, DOI 10.1016/j.respol.2007.12.012
+   Deken F, 2016, ORGAN SCI, V27, P659, DOI 10.1287/orsc.2016.1051
+   Dionysiou DD, 2013, ACAD MANAGE REV, V38, P181, DOI 10.5465/amr.2011.0215
+   Feldman MS, 2003, ADMIN SCI QUART, V48, P94, DOI 10.2307/3556620
+   Feldman MS, 2002, J MANAGE STUD, V39, P309, DOI 10.1111/1467-6486.00294
+   Feldman MS, 2000, ORGAN SCI, V11, P611, DOI 10.1287/orsc.11.6.611.12529
+   HANNAN MT, 1984, AM SOCIOL REV, V49, P149, DOI 10.2307/2095567
+   Lage MJ, 2000, J ECON EDUC, V31, P30, DOI 10.2307/1183338
+   Miles M., 2013, PHYS EDUC
+   Orlikowski WJ, 2002, ORGAN SCI, V13, P249, DOI 10.1287/orsc.13.3.249.2776
+   Pentland BT, 2012, J MANAGE STUD, V49, P1484, DOI 10.1111/j.1467-6486.2012.01064.x
+   PERKINS JA, 1972, J HIGH EDUC, V43, P679, DOI 10.2307/1978999
+   Pye G, 2016, AUSTRALAS J INF SYST, V20, DOI 10.3127/ajis.v19i0.1251
+   Robertson D., 1997, REPOSITIONING HIGHER, P74
+   Roehl A., 2013, J FAMILY CONSUMER SC, V105, P44, DOI [DOI 10.14307/JFCS105.2.12, 10.14307/JFCS105.2.12]
+   Tate Mary, 2009, Interdisciplinary Journal of e-Learning and Learning Objects, V5, P51
+   Taylor JA, 2013, INTERNET HIGH EDUC, V18, P54, DOI 10.1016/j.iheduc.2012.10.003
+   Turner SF, 2012, ORGAN SCI, V23, P24, DOI 10.1287/orsc.1110.0653
+   WEICK KE, 1990, J MANAGE, V16, P571, DOI 10.1177/014920639001600304
+NR 22
+TC 3
+Z9 3
+U1 0
+U2 9
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1356-2517
+EI 1470-1294
+J9 TEACH HIGH EDUC
+JI Teach. High Educ.
+PY 2018
+VL 23
+IS 7
+BP 885
+EP 901
+DI 10.1080/13562517.2018.1437132
+PG 17
+WC Education & Educational Research
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research
+GA GR5QX
+UT WOS:000442694500007
+DA 2022-09-27
+ER
+
+PT J
+AU Fiol, M
+   O'Connor, E
+AF Fiol, Marlena
+   O'Connor, Edward
+TI Unlearning established organizational routines - Part I
+SO LEARNING ORGANIZATION
+LA English
+DT Article
+DE Organizational routines; Organizational learning; Organizational
+   unlearning
+ID PRODUCT DEVELOPMENT; CONSEQUENCES; CAPABILITIES; ANTECEDENTS;
+   MANAGEMENT; INNOVATION; KNOWLEDGE; DYNAMICS; PATTERNS; CONTEXT
+AB Purpose - The purpose of this two-part paper is to develop a process model of unlearning established organizational routines. The model traces the interactions among three unlearning sub-processes: ostensive aspects of initial destabilization of an established routine; performative aspects of ongoing discarding-from-use of old behaviors and experimenting with new ones; and ostensive aspects of eventual release of prior understandings and development of new ones.
+   Design/methodology/approach - The paper draws on evidence from psychology and cognitive science to explain the mechanisms underlying organizational processes of unlearning embedded routines.
+   Findings - The proposed model contributes to enriching current understanding of unlearning organizational routines without contradicting it. Consistent with prior understanding, destabilizing an old routine may lead to discarding it, and further discarding-from-use is likely required for continued destabilization of embedded routines. Again, consistent with prior understanding, experimenting with new behaviors may be a desired outcome of unlearning an old routine, and ongoing experimentation is likely required to sustain unlearning embedded routines.
+   Originality/value - The organizational unlearning literature provides many examples of organizational members relinquishing old routines to then make new learning possible and also provides little insight into the processes by which this occurs. The paper addresses this gap by modeling the mutually reinforcing nature of three unlearning sub-processes.
+C1 [Fiol, Marlena; O'Connor, Edward] Univ Colorado Denver, Sch Business, Denver, CO 80204 USA.
+RP Fiol, M (corresponding author), Univ Colorado Denver, Sch Business, Denver, CO 80204 USA.
+EM Marlena.Fiol@ucdenver.edu
+CR Ahmadjian CL, 2001, ADMIN SCI QUART, V46, P622, DOI 10.2307/3094826
+   Akgun AE, 2006, J PROD INNOVAT MANAG, V23, P73, DOI 10.1111/j.1540-5885.2005.00182.x
+   Akgun AE, 2003, HUM RELAT, V56, P839, DOI 10.1177/00187267030567004
+   Akgun AE, 2002, J ENG TECHNOL MANAGE, V19, P263, DOI 10.1016/S0923-4748(02)00021-8
+   Akgun AE, 2007, J ENG TECHNOL MANAGE, V24, P203, DOI 10.1016/j.jengtecman.2007.05.008
+   Assink M, 2006, EUR J INNOV MANAG, V9, P215, DOI 10.1108/14601060610663587
+   Baumard Philippe, 2006, IS ORG LEARNING MYTH
+   Becker K., 2005, INT J ORG BEHAV, V9, P659
+   Becker K. L., 2006, P LIF LEARN C, P26
+   Becker K, 2010, J ORGAN CHANGE MANAG, V23, P251, DOI 10.1108/09534811011049590
+   Bouton ME, 2002, BIOL PSYCHIAT, V52, P976, DOI 10.1016/S0006-3223(02)01546-9
+   Bresman H, 2013, ACAD MANAGE J, V56, P35, DOI 10.5465/amj.2010.0725
+   Casillas JC, 2010, FAM BUS REV, V23, P27, DOI 10.1177/0894486509345159
+   Cegarra-Navarro JG, 2006, LEARN ORGAN, V13, P49, DOI 10.1108/09696470610639121
+   Cegarra-Navarro JG, 2011, INT J INFORM MANAGE, V31, P420, DOI 10.1016/j.ijinfomgt.2010.12.006
+   Cegarra-Navarro JG, 2010, J ENVIRON PSYCHOL, V30, P249, DOI 10.1016/j.jenvp.2009.11.009
+   Crossan MM, 1999, ACAD MANAGE REV, V24, P522, DOI 10.2307/259140
+   de Holan PM, 2004, MANAGE SCI, V50, P1603, DOI 10.1287/mnsc.1040.0273
+   de Holan PM, 2004, MIT SLOAN MANAGE REV, V45, P45
+   Devine PG, 2012, J EXP SOC PSYCHOL, V48, P1267, DOI 10.1016/j.jesp.2012.06.003
+   Dionysiou DD, 2013, ACAD MANAGE REV, V38, P181, DOI 10.5465/amr.2011.0215
+   Feldman MS, 2003, ADMIN SCI QUART, V48, P94, DOI 10.2307/3556620
+   Feldman MS, 2000, ORGAN SCI, V11, P611, DOI 10.1287/orsc.11.6.611.12529
+   Felin T, 2012, J MANAGE STUD, V49, P1351, DOI 10.1111/j.1467-6486.2012.01052.x
+   Fotaki M, 2007, PUBLIC ADMIN, V85, P1059, DOI 10.1111/j.1467-9299.2007.00682.x
+   Gawronski B, 2008, J EXP SOC PSYCHOL, V44, P370, DOI 10.1016/j.jesp.2006.12.004
+   Hayes AM, 2007, CLIN PSYCHOL REV, V27, P715, DOI 10.1016/j.cpr.2007.01.008
+   Hedberg B., 1989, SCAND J MANAG, V5, P177, DOI DOI 10.1016/0956-5221(89)90025-0
+   Hedberg B., 1981, HDB ORG DESIGN, P3
+   Howard-Grenville JA, 2005, ORGAN SCI, V16, P618, DOI 10.1287/orsc.1050.0150
+   Howells J., 2008, 02130 CORE U AARH AA, P1
+   Kazdin AE, 2009, PSYCHOTHER RES, V19, P418, DOI 10.1080/10503300802448899
+   KLEIN JI, 1989, J MANAGE STUD, V26, P291, DOI 10.1111/j.1467-6486.1989.tb00729.x
+   Langley A, 2013, ACAD MANAGE J, V56, P1, DOI 10.5465/amj.2013.4001
+   Lazaric N, 2011, J I ECON, V7, P147, DOI 10.1017/S1744137411000130
+   Lee LTS, 2011, R&D MANAGE, V41, P410, DOI 10.1111/j.1467-9310.2011.00645.x
+   MACRAE CN, 1994, J PERS SOC PSYCHOL, V67, P808, DOI 10.1037/0022-3514.67.5.808
+   Martin de Holan P., 2003, BLACKWELL HDB ORG LE, P393
+   de Holan PM, 2011, J MANAGE INQUIRY, V20, P302, DOI 10.1177/1056492611409651
+   Meisel S.I., 1996, MANAGING ORG LEARN, P180
+   Mezias SJ, 2001, J BUS VENTURING, V16, P209, DOI 10.1016/S0883-9026(99)00057-9
+   Nelson R.R, 1982, EVOL THEOR
+   NEWSTROM JW, 1983, TRAIN DEV J, V37, P36
+   Norcross JC, 2011, J CLIN PSYCHOL, V67, P143, DOI 10.1002/jclp.20758
+   NYSTROM PC, 1984, ORGAN DYN, V12, P53, DOI 10.1016/0090-2616(84)90011-1
+   Parmigiani A, 2011, ACAD MANAG ANN, V5, P413, DOI 10.1080/19416520.2011.589143
+   Pentland BT, 2008, INFORM ORGAN-UK, V18, P235, DOI 10.1016/j.infoandorg.2008.08.001
+   Porter M. E., 2006, REDEFINING HLTH CARE
+   PRAHALAD CK, 1986, STRATEGIC MANAGE J, V7, P485, DOI 10.1002/smj.4250070602
+   Prochaska J.O., 2001, HLTH BEHAV HLTH ED, P97
+   Rebernik M, 2007, KYBERNETES, V36, P406, DOI 10.1108/03684920710747039
+   Rerup C, 2011, ACAD MANAGE J, V54, P577, DOI 10.5465/AMJ.2011.61968107
+   Salvato C, 2011, J MANAGE, V37, P468, DOI 10.1177/0149206310371691
+   Schiller D, 2010, TRENDS COGN SCI, V14, P268, DOI 10.1016/j.tics.2010.04.002
+   Sheaffer Z, 2003, J MANAGE STUD, V40, P573, DOI 10.1111/1467-6486.00351
+   Sherwood D., 2000, BUS STRAT REV, V11, P31
+   Sinkula JM, 2002, J BUS IND MARK, V17, P253, DOI 10.1108/08858620210431660
+   Sitkin S.B., 1989, ACAD MANAGE REV, V19, P537
+   Starbuck WH, 1996, INT J TECHNOL MANAGE, V11, P725
+   Starbuck WH, 2008, J ECON BEHAV ORGAN, V66, P7, DOI 10.1016/j.jebo.2007.02.003
+   Tsang EWK, 2008, HUM RELAT, V61, P1435, DOI 10.1177/0018726708095710
+   Tsang EWK, 2008, MANAGE LEARN, V39, P5, DOI 10.1177/1350507607085169
+   Turc E, 2007, INFORM SCI KNOWL MAN, V12, P125
+   Wong KFE, 2006, J APPL PSYCHOL, V91, P282, DOI 10.1037/0021-9010.91.2.282
+   Yildiz HE, 2010, SCAND J MANAG, V26, P448, DOI 10.1016/j.scaman.2010.09.010
+   Zahra SA, 2011, J MANAGE INQUIRY, V20, P323, DOI 10.1177/1056492611408266
+   Zietsma C, 2002, BRIT J MANAGE, V13, pS61, DOI 10.1111/1467-8551.13.s2.6
+NR 67
+TC 41
+Z9 41
+U1 2
+U2 34
+PU EMERALD GROUP PUBLISHING LTD
+PI BINGLEY
+PA HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN 0969-6474
+EI 1758-7905
+J9 LEARN ORGAN
+JI Learn. Organ.
+PY 2017
+VL 24
+IS 1
+BP 13
+EP 29
+DI 10.1108/TLO-09-2016-0056
+PG 17
+WC Management
+WE Emerging Sources Citation Index (ESCI)
+SC Business & Economics
+GA EP2PE
+UT WOS:000397224700002
+DA 2022-09-27
+ER
+
+PT J
+AU Pluye, P
+   Potvin, L
+   Denis, JL
+   Pelletier, J
+AF Pluye, P
+   Potvin, L
+   Denis, JL
+   Pelletier, J
+TI Program sustainability: focus on organizational routines
+SO HEALTH PROMOTION INTERNATIONAL
+LA English
+DT Article
+DE program sustainability; organizational routines; organizational learning
+ID HEALTH PROMOTION PROGRAMS; INSTITUTIONALIZATION SCALES;
+   COMMUNITY-HEALTH; PREVENTION; MEMORY; LEVEL
+AB Program sustainability is an ongoing concern for most people in health promotion. However, the current notion of sustainability in organizations, namely routinization, needs refinement. This article examines organizational routines. In so doing, it refines the notion of sustainability and the assessment of routines. Drawing on the organizational literature, a routinized program is defined by the presence of routinized activities, meaning that these activities exhibit four characteristics of organizational routines: memory, adaptation, values and rules. To answer the question of how these characteristics are useful, we conducted an empirical study of the routinization of the Quebec Heart Health Demonstration Project in five community health centers. Our method consisted of a multiple-case study. We observed project activities in each center in 2000. The data came from documents and interviews with project actors. Our results show that, in one of the centers, no resources had been officially committed to project activities. Even so, the actors continued some activities on an informal basis. In another center, the activities satisfied three of the four routine characteristics. In the three others, activities satisfied all of the characteristics. These results suggest focusing the study of program sustainability on the routinization of activities resulting from it. They indicate four distinct degrees of sustainability: (1) the absence of sustainability; no program activity is continued; (2) precarious sustainability; some residual activities are pursued, at least unofficially; (3) weak sustainability; the program produces some official activities that are not routinized; and (4) sustainability through routinization; routinized activities result from the program.
+C1 McGill Univ, Dept Social Studies Med, Montreal, PQ H3A 1X1, Canada.
+   Univ Montreal, Grp Rech Interdisciplinaire Sante, Montreal, PQ H3C 3J7, Canada.
+   Ctr Hosp Grand Portage, Regie Reg Sante & Serv Sociaux Bas Saint Laurent, Riviere Du Loup, PQ G5R 2A4, Canada.
+RP Pluye, P (corresponding author), McGill Univ, Dept Social Studies Med, 3647 Peel St, Montreal, PQ H3A 1X1, Canada.
+EM pierre.pluye@mail.mcgill.ca
+CR Altman D G, 1991, J Community Health, V16, P299, DOI 10.1007/BF01324515
+   ARGOTE L, 1969, ORG LEARNING CREATIN
+   ARGYRIS C, 1993, KNOWLEDGE ACTION
+   ARGYRIS C, 1999, THEORIE PRATIQUE PRO
+   Barab S A, 1998, J Nurs Meas, V6, P19
+   Carley K., 1996, ORG LEARNING, P230
+   COHEN MD, 1996, ORG LEARNING, P403
+   Cook S., 1996, ORG LEARNING, P430
+   CYERT RM, 1970, PROCESSUS DECISION E
+   DODGSON M, 1993, ORGAN STUD, V14, P375, DOI 10.1177/017084069301400303
+   Edmondson A, 1998, MANAGE LEARN, V29, P5, DOI 10.1177/1350507698291001
+   Feldman MS, 2000, ORGAN SCI, V11, P611, DOI 10.1287/orsc.11.6.611.12529
+   Florin P., 1992, ANAL DYNAMIC PSYCHOL, V2, P215
+   GIRODSEVILLE M, 1996, MEMOIRE ORG
+   GOODMAN RM, 1993, HEALTH EDUC QUART, V20, P161, DOI 10.1177/109019819302000208
+   GOODMAN RM, 1988, INT Q COMMUNITY HLTH, V8, P5
+   Goodson P, 2001, AM J PREV MED, V20, P184, DOI 10.1016/S0749-3797(00)00310-X
+   Green L W, 1989, Am J Health Promot, V3, P44, DOI 10.4278/0890-1171-3.4.44
+   Hedberg B., 1981, HDB ORG DESIGN, P3
+   HUBER GP, 1996, ORG LEARNING, P124
+   Hutchins E, 1996, ORG LEARNING, P20
+   Katz D., 1978, SOCIAL PSYCHOL ORG
+   Lackey JF, 2000, EVAL PROGRAM PLANN, V23, P355, DOI 10.1016/S0149-7189(00)00024-0
+   Levitt B., 1996, ORG LEARNING, P516
+   Lichtenstein E, 1996, HEALTH EDUC RES, V11, P527, DOI 10.1093/her/11.4.527
+   Manfredi C, 2001, PUBLIC HEALTH REP, V116, P120, DOI 10.1093/phr/116.S1.120
+   Nancholas S, 1998, HEALTH POLICY PLANN, V13, P189, DOI 10.1093/heapol/13.2.189
+   Pelletier J, 1997, HEALTH PROMOT INT, V12, P291, DOI 10.1093/heapro/12.4.291
+   Pluye P, 2004, EVAL PROGRAM PLANN, V27, P121, DOI 10.1016/j.evalprogplan.2004.01.001
+   PLUYE P, 2002, T0204 GRIS U MONTR F
+   PLUYE P, 2000, RUPTURES REV TRANSDI, V7, P99
+   Pluye Pierre, 2004, Promot Educ, V11, P17
+   Potvin L, 1992, Hygie, V11, P17
+   PUSKA P, 1996, HLTH PROMOTION ANTHO, P89
+   RISSEL C, 1995, HEALTH PROMOT INT, V10, P199, DOI 10.1093/heapro/10.3.199
+   Roussos ST, 2000, ANNU REV PUBL HEALTH, V21, P369, DOI 10.1146/annurev.publhealth.21.1.369
+   SCHEIRER MA, 1993, HEALTH EDUC QUART, V20, P179, DOI 10.1177/109019819302000209
+   Schon D. A., 1974, THEORY PRACTICE
+   Shediac-Rizkallah MC, 1998, HEALTH EDUC RES, V13, P87, DOI 10.1093/her/13.1.87
+   Steckler A, 1989, Am J Health Promot, V3, P34, DOI 10.4278/0890-1171-3.4.34
+   STEIN EW, 1995, INT J INFORM MANAGE, V15, P17, DOI 10.1016/0268-4012(94)00003-C
+   WALSH JP, 1991, ACAD MANAGE REV, V16, P57, DOI 10.2307/258607
+   Weber M., 1995, EC SOC CATEGORIES SO
+   Weick KE, 1996, INT J TECHNOL MANAGE, V11, P738
+   Wickizer TM, 1998, MILBANK Q, V76, P121, DOI 10.1111/1468-0009.00081
+   Yin R. K., 1994, CASE STUDY RES DESIG
+   YIN RK, 1979, CHANGING URBAN BUREA
+NR 47
+TC 77
+Z9 80
+U1 0
+U2 18
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0957-4824
+EI 1460-2245
+J9 HEALTH PROMOT INT
+JI Health Promot. Int.
+PD DEC 1
+PY 2004
+VL 19
+IS 4
+BP 489
+EP 500
+DI 10.1093/heapro/dah411
+PG 12
+WC Health Policy & Services; Public, Environmental & Occupational Health
+WE Social Science Citation Index (SSCI)
+SC Health Care Sciences & Services; Public, Environmental & Occupational
+   Health
+GA 874PI
+UT WOS:000225361900011
+PM 15520036
+OA Bronze
+DA 2022-09-27
+ER
+
+PT J
+AU Hubers, MD
+   Schildkamp, K
+   Poortman, CL
+   Pieters, JM
+AF Hubers, Mireille D.
+   Schildkamp, Kim
+   Poortman, Cindy L.
+   Pieters, Jules M.
+TI The quest for sustained data use: Developing organizational routines
+SO TEACHING AND TEACHER EDUCATION
+LA English
+DT Article
+DE Data use; Professional development; Organizational routines;
+   Sustainability
+ID DRIVEN DECISION-MAKING; PROFESSIONAL LEARNING COMMUNITIES; DATA USE
+   INTERVENTION; STUDENT-ACHIEVEMENT; SCHOOL IMPROVEMENT; TEACHERS; IMPACT;
+   COLLABORATION; FRAMEWORK; EDUCATION
+AB The data team intervention was designed to support schools' data use. The sustainability of schools' data use was investigated by studying the schools' development of the ostensive and performative aspects of organizational routines for: engaging in the data team intervention, acting upon their data team's improvement plan, and using data for school development and instruction. Six Dutch secondary schools participated in this longitudinal mixed-methods study. Data were collected through questionnaires, policy documents, and interviews. Results indicated that schools struggled to develop organizational routines for data use, especially the ostensive aspects. This illuminated the process by which schools did not sustain their use of data. The findings showed that interventions for data use should more clearly target the development of organizational routines. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [Hubers, Mireille D.; Schildkamp, Kim; Poortman, Cindy L.; Pieters, Jules M.] Univ Twente, POB 217, NL-7500 AE Enschede, Netherlands.
+RP Hubers, MD (corresponding author), Univ Twente, POB 217, NL-7500 AE Enschede, Netherlands.
+EM m.d.hubers@utwente.nl; k.schildkamp@utwente.nl; c.l.poortman@utwente.nl;
+   j.m.pieters@utwente.nl
+RI Post - Hubers, Mireille D/G-8636-2015
+OI Post - Hubers, Mireille D/0000-0001-5681-5135; Schildkamp,
+   Kim/0000-0001-6154-6857
+FU Dutch Ministry of Education, Culture Science
+FX The authors are grateful to the Dutch Ministry of Education, Culture &
+   Science for funding the data team project. Although government-funded,
+   the present study was independently designed and conducted.
+CR Blanc S., 2010, PEABODY J EDUC, V85, P205, DOI DOI 10.1080/01619561003685379
+   Blau PM, 1955, DYNAMICS BUREAUCRACY, V2
+   Breiter A, 2006, EDUC TECHNOL SOC, V9, P206
+   Bryk A. S., 2015, LEARNING IMPROVE AME
+   Campbell C., 2006, UNLOCKING POTENTIAL
+   Carlson D, 2011, EDUC EVAL POLICY AN, V33, P378, DOI 10.3102/0162373711412765
+   Chapman C, 2014, SCH EFF SCH IMPROV, V25, P351, DOI 10.1080/09243453.2013.840319
+   Coburn CE, 2008, EDUC EVAL POLICY AN, V30, P203, DOI 10.3102/0162373708321829
+   Coburn CE, 2006, AM J EDUC, V112, P469, DOI 10.1086/505056
+   Coburn CE, 2011, MEAS-INTERDISCIP RES, V9, P173, DOI 10.1080/15366367.2011.626729
+   Crossan MM, 2010, J MANAGE STUD, V47, P1154, DOI [10.1111/j.1467-6486.2009.00880.x, 10.1111/J.1467-6486.2009.00880.X]
+   Datnow A., 2007, ACHIEVING DATA HIGH
+   Datnow A, 2015, TEACH COLL REC, V117
+   Datnow A, 2013, J EDUC ADMIN, V51, P341, DOI 10.1108/09578231311311500
+   Dede C., 2007, THRESHOLD, P4
+   Desimone L, 2002, REV EDUC RES, V72, P433, DOI 10.3102/00346543072003433
+   Desimone LM, 2009, EDUC RESEARCHER, V38, P181, DOI 10.3102/0013189X08331140
+   Dutch Inspectorate of Education, 2014, STAAT OND
+   Ebbeler J, 2016, STUD EDUC EVAL, V48, P19, DOI 10.1016/j.stueduc.2015.11.002
+   EGGEN T.J.M.H., 1993, PSYCHOMETRIE PRAKTIJ
+   Farley-Ripple EN, 2014, STUD EDUC EVAL, V42, P41, DOI 10.1016/j.stueduc.2013.09.006
+   Feldman MS, 2003, ADMIN SCI QUART, V48, P94, DOI 10.2307/3556620
+   Fullan M.G., 1991, NEW MEANING ED CHANG, P30
+   Gallimore R, 2009, ELEM SCHOOL J, V109, P537, DOI 10.1086/597001
+   Gerzon N., 2015, TEACH COLL REC, V117, P1
+   Gummesson E., 1991, QUALITATIVE METHODS
+   Harris A, 2010, IMPROV SCH, V13, P172, DOI 10.1177/1365480210376487
+   Hattie JAC, 2009, VISIBLE LEARNING: A SYNTHESIS OF OVER 800 META-ANALYSES RELATING TO ACHIEVEMENT, P1
+   Higgins TE, 2008, J SCI EDUC TECHNOL, V17, P511, DOI 10.1007/s10956-008-9118-2
+   Honig MI, 2008, AM J EDUC, V114, P627, DOI 10.1086/589317
+   Hox JJ., 2017, MULTILEVEL ANAL TECH, V3, DOI 10.4324/9781315650982
+   Hubers M.D., SPREADING WORD UNPUB
+   Hubers M. D., 2017, RES PAPERS ED
+   Huffman D, 2003, TEACH TEACH EDUC, V19, P569, DOI 10.1016/S0742-051X(03)00054-4
+   Ikemoto G. S, 2010, RES PRACTICE ED BUIL
+   Imants J, 2013, VOCAT LEARN, V6, P323, DOI 10.1007/s12186-013-9098-0
+   Johnson D, 1994, RES METHODS ED MANAG
+   Keller-Margulis MA, 2012, PSYCHOL SCHOOLS, V49, P342, DOI 10.1002/pits.21602
+   Kerr KA, 2006, AM J EDUC, V112, P496, DOI 10.1086/505057
+   Kuiper W., 2006, CURRICULUM DEV REINV, P56
+   Kurland H, 2010, J EDUC ADMIN, V48, P7, DOI 10.1108/09578231011015395
+   Lachat MA, 2005, J EDUC STUDENTS PLAC, V10, P333, DOI 10.1207/s15327671espr1003_7
+   Lai MK., 2013, DATA BASED DECISION, V17, P9, DOI [10.1007/978-94-007-4816-3_2, DOI 10.1007/978-94-007-4816-3_2]
+   Levin JA, 2012, SCH EFF SCH IMPROV, V23, P179, DOI 10.1080/09243453.2011.599394
+   LEVITT B, 1988, ANNU REV SOCIOL, V14, P319, DOI 10.1146/annurev.so.14.080188.001535
+   Little JW, 2012, AM J EDUC, V118, P143, DOI 10.1086/663271
+   Lomos C, 2011, SCH EFF SCH IMPROV, V22, P121, DOI 10.1080/09243453.2010.550467
+   Mandinach E.B., 2008, DATA DRIVEN SCH IMPR, P13, DOI DOI 10.4135/9781506335568
+   March J, 1958, ORGANIZATIONS
+   Marsh JA., 2015, TEACH COLL REC, V117, P1
+   Marsh JA., 2012, TEACH COLL REC, V114, P1, DOI [10.1177/016146811211401106, DOI 10.1177/016146811211401106]
+   Marsh JA, 2015, EDUC MANAG ADM LEAD, V43, P269, DOI 10.1177/1741143214537229
+   Marsh JA, 2010, EDUC POLICY, V24, P872, DOI 10.1177/0895904809341467
+   McDougall D, 2007, INT J DISABIL DEV ED, V54, P51, DOI DOI 10.1080/10349120601149755
+   Means B., 2011, TEACHERS ABILITY USE
+   Nelson R.R, 1982, EVOL THEOR
+   Olah L., 2010, PEABODY J EDUC, V85, P226
+   Pawson R., 1997, REALISTIC EVALUATION
+   Penuel WR, 2011, EDUC RESEARCHER, V40, P331, DOI 10.3102/0013189X11421826
+   Poortman C., 2015, TEACH COLL REC, V117, P1
+   Poortman CL, 2016, TEACH TEACH EDUC, V60, P425, DOI 10.1016/j.tate.2016.06.010
+   Schildkamp K., 2013, DATA BASED DECISION, P49, DOI [10.1007/978-94-007-4816-3_4, DOI 10.1007/978-94-007-4816-3_4]
+   Schildkamp K, 2017, SCH EFF SCH IMPROV, V28, P242, DOI 10.1080/09243453.2016.1256901
+   Schildkamp K, 2016, SCH EFF SCH IMPROV, V27, P228, DOI 10.1080/09243453.2015.1056192
+   Schildkamp K, 2010, TEACH TEACH EDUC, V26, P482, DOI 10.1016/j.tate.2009.06.007
+   Sherer JZ, 2011, TEACH COLL REC, V113, P611
+   Sleegers P., 2010, INT ENCY ED, P557, DOI DOI 10.1016/B978-0-08-044894-7.00661-8
+   Spillane JP, 2012, AM J EDUC, V118, P113, DOI 10.1086/663283
+   Spillane JP, 2011, AM EDUC RES J, V48, P586, DOI 10.3102/0002831210385102
+   van Driel JH, 2012, STUD SCI EDUC, V48, P129, DOI 10.1080/03057267.2012.738020
+   van Geel M, 2016, AM EDUC RES J, V53, P360, DOI 10.3102/0002831216637346
+   Van Veen K., 2010, PROFESSIONELE ONTWIK
+   Verbeek C., 2014, LEIDINGGEVEN ONDERZO, P67
+   Verhaeghe G, 2010, SCH EFF SCH IMPROV, V21, P167, DOI 10.1080/09243450903396005
+   Vescio V, 2008, TEACH TEACH EDUC, V24, P80, DOI 10.1016/j.tate.2007.01.004
+   Visscher A, 2002, SCH IMPROVEMENT PERF, P41
+   Weiss C.H., 1998, EVALUATION METHODS S
+   Wohlstetter P, 2008, SCH EFF SCH IMPROV, V19, P239, DOI 10.1080/09243450802246376
+   Yin RK., 2010, QUALITATIVE RES STAR
+NR 79
+TC 21
+Z9 21
+U1 0
+U2 28
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0742-051X
+J9 TEACH TEACH EDUC
+JI Teach. Teach. Educ.
+PD OCT
+PY 2017
+VL 67
+BP 509
+EP 521
+DI 10.1016/j.tate.2017.07.007
+PG 13
+WC Education & Educational Research
+WE Social Science Citation Index (SSCI)
+SC Education & Educational Research
+GA FH9PI
+UT WOS:000411543800048
+OA Green Submitted
+DA 2022-09-27
+ER
+
+PT J
+AU Lin, HF
+   Murphree, M
+   Li, SL
+AF Lin, Haifen
+   Murphree, Michael
+   Li, Sali
+TI Emergence of organizational routines in entrepreneurial ventures
+SO CHINESE MANAGEMENT STUDIES
+LA English
+DT Article
+DE Management; Entrepreneurship; Organizational routines; Interaction
+   patterns; Shared schemata
+ID RESOURCE-BASED THEORY; STRATEGIC MANAGEMENT; MICROFOUNDATIONS;
+   CAPABILITIES; PERFORMANCE; SENSEMAKING; IMPLEMENTATION; FLEXIBILITY;
+   TECHNOLOGY; EXPERTISE
+AB Purpose - The purpose of this paper is to expand the understanding of the process by which organizational routines emerge in entrepreneurial ventures. The emphasis is on the role of management and interaction in shaping shared schemata among members of the enterprise. D
+   Design/methodology/approach - This paper uses a longitudinal interpretive and exploratory case study based on semi-structured interviews, archival material and naturalistic observation at a startup enterprise in China.
+   Findings - Focusing on the process through which shared schemata emerge to lay the foundation for routines in new firms, the authors find shared schemata emerge through a three-stage process: individual schemata emergence, partially shared schemata emergence and organizationally shared schemata emergence. Analogical transfer, strong foundational leadership and horizontal interaction among employees facilitate the development of individual schemata and their evolution into the shared schemata underlying organizational routines.
+   Research limitations/implications - This paper contributes to the understanding of routine formation in entrepreneurial ventures by creating a framework of the stages of development of organizational routines, as well as the role management plays in each stage. This contribution fits within the emergent field of microfoundations, linking individual actions and cognition to organizational outcomes and adding to this the contribution of social interaction.
+   Practical implications - Managers in new Chinese enterprises could benefit from understanding the importance of routinization and the managerial approaches which facilitate routine formation. This will increase the likelihood of firm survival as well as the competitive strength of the firm.
+   Originality/value - To date, there has been little research on how routines arise in entrepreneurial ventures, and none on explicitly the role for management and interaction in fostering routinization.
+C1 [Lin, Haifen] Dalian Univ Technol, Dalian, Peoples R China.
+   [Murphree, Michael; Li, Sali] Univ South Carolina, Moore Sch Business, Columbia, SC 29208 USA.
+RP Murphree, M (corresponding author), Univ South Carolina, Moore Sch Business, Columbia, SC 29208 USA.
+EM michael.murphree@moore.sc.edu
+FU National Natural Science Foundation of China [71572025, 71302045,
+   71372082]; Postdoctoral Science Foundation of China [2014T70256];
+   Fundamental Research Funds for the Central Universities [DUT15RW214]
+FX The authors are supported by the National Natural Science Foundation of
+   China Project (71572025, 71302045, 71372082), Postdoctoral Science
+   Foundation of China (2014T70256) and the Fundamental Research Funds for
+   the Central Universities (DUT15RW214). The sponsoring agencies had no
+   editorial influence on the case selection, methodology, analysis,
+   writing and decision for submission of this paper.
+CR Abell P, 2008, MANAG DECIS ECON, V29, P489, DOI 10.1002/mde.1413
+   Andriopoulos C, 2009, ORGAN SCI, V20, P696, DOI 10.1287/orsc.1080.0406
+   Balogun J, 2004, ACAD MANAGE J, V47, P523, DOI 10.2307/20159600
+   BARLEY SR, 1986, ADMIN SCI QUART, V31, P78, DOI 10.2307/2392767
+   Barney JB, 2011, J MANAGE, V37, P1299, DOI 10.1177/0149206310391805
+   Basu S, 2015, J BUS VENTURING, V30, P322, DOI 10.1016/j.jbusvent.2014.06.002
+   Baxter P, 2008, QUAL REP, V13, P544
+   Becker MC, 2004, IND CORP CHANGE, V13, P643, DOI 10.1093/icc/dth026
+   Berger P, 1966, SOCIAL CONSTRUCTION
+   Bingham CB, 2013, ACAD MANAGE J, V56, P14, DOI 10.5465/amj.2010.0723
+   Blanchette I, 2000, MEM COGNITION, V28, P108, DOI 10.3758/BF03211580
+   Busenitz LW, 1997, J BUS VENTURING, V12, P9, DOI 10.1016/S0883-9026(96)00003-1
+   Chen CH, 2015, CHIN MANAG STUD, V9, P150, DOI 10.1108/CMS-04-2013-0057
+   Cohen M.D., 1996, CONT RES ISSUES IND, V5, P653
+   COHEN MD, 1994, ORGAN SCI, V5, P554, DOI 10.1287/orsc.5.4.554
+   Cronin MA, 2007, ACAD MANAGE REV, V32, P761
+   D'Adderio L, 2008, RES POLICY, V37, P769, DOI 10.1016/j.respol.2007.12.012
+   Dane E, 2010, ACAD MANAGE REV, V35, P579, DOI 10.5465/AMR.2010.53502832
+   DiMaggio P, 1997, ANNU REV SOCIOL, V23, P263, DOI 10.1146/annurev.soc.23.1.263
+   Dionysiou DD, 2013, ACAD MANAGE REV, V38, P181, DOI 10.5465/amr.2011.0215
+   Dooley L. M., 2002, ADV DEV HUMAN RESOUR, V4, P335, DOI DOI 10.1177/1523422302043007
+   Edmondson AC, 2001, ADMIN SCI QUART, V46, P685, DOI 10.2307/3094828
+   Eisenhardt KM, 2007, ACAD MANAGE J, V50, P25, DOI 10.5465/AMJ.2007.24160888
+   EISENHARDT KM, 1991, ACAD MANAGE REV, V16, P620, DOI 10.2307/258921
+   EISENHARDT KM, 1989, ACAD MANAGE REV, V14, P532, DOI 10.2307/258557
+   Feldman MS, 2003, ADMIN SCI QUART, V48, P94, DOI 10.2307/3556620
+   Feldman MS, 2002, J MANAGE STUD, V39, P309, DOI 10.1111/1467-6486.00294
+   Feldman MS, 2000, ORGAN SCI, V11, P611, DOI 10.1287/orsc.11.6.611.12529
+   Felin T., 2005, Strategic Organization, V3, P441, DOI 10.1177/1476127005055796
+   Felin T., 2004, DRUID WORKING PAPERS, V04-13
+   Felin T, 2012, J MANAGE STUD, V49, P1351, DOI 10.1111/j.1467-6486.2012.01052.x
+   Fiske SusanT., 1991, SOC COGNITION
+   Foo C. T., 2008, CHINESE MANAGEMENT S, V2
+   Foss NJ, 2011, J MANAGE, V37, P1413, DOI 10.1177/0149206310390218
+   Foss NJ, 2010, CUAD ECON DIR EMPRES, P11
+   Gal A., 2010, MODELING MICROFOUNDA
+   Gao D, 2014, J SIMUL, V8, P215, DOI [10.1057/jos.2014, 10.1057/jos.2014.1]
+   Gentner Dedre, 2001, ANALOGICAL MIND PERS
+   GERSICK CJG, 1990, ORGAN BEHAV HUM DEC, V47, P65, DOI 10.1016/0749-5978(90)90047-D
+   Gioia DA, 1996, ADMIN SCI QUART, V41, P370, DOI 10.2307/2393936
+   Glaser B., 1978, ADV METHODOLOGY GROU
+   Gummesson E., 2000, QUALITATIVE RES METH
+   HARRIS SG, 1994, ORGAN SCI, V5, P309, DOI 10.1287/orsc.5.3.309
+   Hodgson GM, 2012, J MANAGE STUD, V49, P1389, DOI 10.1111/j.1467-6486.2012.01079.x
+   Hogg MA, 2000, ACAD MANAGE REV, V25, P121, DOI 10.1093/cdj/bsi087
+   Holyoak K. J., 1997, MENTAL LEAPS ANALOGY
+   Howard-Grenville JA, 2005, ORGAN SCI, V16, P618, DOI 10.1287/orsc.1050.0150
+   Kolodner JL, 1997, AM PSYCHOL, V52, P57, DOI 10.1037/0003-066X.52.1.57
+   Labianca G, 2000, ORGAN SCI, V11, P235, DOI 10.1287/orsc.11.2.235.12512
+   Lazaric N, 2008, HANDBOOK OF ORGANIZATIONAL ROUTINES, P205
+   Lincoln Y., 1985, NATURALIST INQUIRY
+   Markus H., 1985, HDB SOCIAL PSYCHOL, P137
+   Marshall S. P, 1995, SCHEMAS PROBLEM SOLV
+   McVee MB, 2005, REV EDUC RES, V75, P531, DOI 10.3102/00346543075004531
+   Miller KD, 2012, J MANAGE STUD, V49, P1536, DOI 10.1111/j.1467-6486.2012.01062.x
+   Miner AS, 2008, HANDBOOK OF ORGANIZATIONAL ROUTINES, P152
+   Molina-Azorin JF, 2014, BRQ-BUS RES Q, V17, P102, DOI 10.1016/j.brq.2014.01.001
+   MORAN ET, 1992, HUM RELAT, V45, P19, DOI 10.1177/001872679204500102
+   Nelson R.R, 1982, EVOL THEOR
+   NOVICK LR, 1991, J EXP PSYCHOL LEARN, V17, P398, DOI 10.1037/0278-7393.17.3.398
+   Ortmann G, 2010, SCAND J MANAG, V26, P204, DOI 10.1016/j.scaman.2010.02.004
+   Parmigiani A, 2011, ACAD MANAG ANN, V5, P413, DOI 10.1080/19416520.2011.589143
+   Pentland BT, 2010, ORGAN STUD, V31, P917, DOI 10.1177/0170840610373200
+   Rentsch J. R., 2008, PEOPLE MAKE PLACE EX, P127
+   Rerup C, 2011, ACAD MANAGE J, V54, P577, DOI 10.5465/AMJ.2011.61968107
+   SCHUSTACK MW, 1979, J VERB LEARN VERB BE, V18, P565, DOI 10.1016/S0022-5371(79)90314-1
+   SMIRCICH L, 1985, ACAD MANAGE REV, V10, P724, DOI 10.2307/258041
+   Strauss A., 1990, BASICS QUALITATIVE R
+   Taylor S. E., 1981, SOCIAL COGNITION ONT, V1, P89
+   THOMAS JB, 1993, ACAD MANAGE J, V36, P239, DOI 10.2307/256522
+   Tucker AL, 2003, CALIF MANAGE REV, V45, P55, DOI 10.2307/41166165
+   Turner SF, 2012, ORGAN SCI, V23, P24, DOI 10.1287/orsc.1110.0653
+   Van Evera Stephen, 1997, GUIDE METHODS STUDEN
+   Vlaar PWL, 2008, MIS QUART, V32, P227
+   Vogel R., 2011, EC MANAGEMENT FINANC, V6, P86
+   WEZEL WV, 2006, PLANNING INTELLIGENT
+   WINSTON PH, 1980, COMMUN ACM, V23, P689, DOI 10.1145/359038.359042
+   Xie X., 2016, CHINESE MANAGEMENT S, V10
+   Yin R. K., 1994, CASE STUDY RES DESIG
+   Zhao J., 2017, CHINESE MANAGEMENT S, V11
+   Zhen T, 2012, CHIN MANAG STUD, V6, P137, DOI 10.1108/17506141211213889
+NR 81
+TC 4
+Z9 4
+U1 1
+U2 44
+PU EMERALD GROUP PUBLISHING LTD
+PI BINGLEY
+PA HOWARD HOUSE, WAGON LANE, BINGLEY BD16 1WA, W YORKSHIRE, ENGLAND
+SN 1750-614X
+EI 1750-6158
+J9 CHIN MANAG STUD
+JI Chin. Manag. Stud.
+PY 2017
+VL 11
+IS 3
+BP 498
+EP 519
+DI 10.1108/CMS-05-2017-0130
+PG 22
+WC Management
+WE Social Science Citation Index (SSCI)
+SC Business & Economics
+GA FD2GK
+UT WOS:000407353200007
+DA 2022-09-27
+ER
+
+PT J
+AU Pentland, BT
+   Feldman, MS
+   Becker, MC
+   Liu, P
+AF Pentland, Brian T.
+   Feldman, Martha S.
+   Becker, Markus C.
+   Liu, Peng
+TI Dynamics of Organizational Routines: A Generative Model
+SO JOURNAL OF MANAGEMENT STUDIES
+LA English
+DT Article
+DE organizational capabilities; organizational routines; path dependence;
+   patterns of action; sociomaterial systems; variation and selective
+   retention
+ID PATH DEPENDENCE; TECHNOLOGY; CAPABILITIES; PERFORMANCE; STABILITY;
+   EVOLUTION; PATTERNS; TASKS; FIRM
+AB This paper introduces a generative model of organizational routines and their change over time. The model demonstrates that variation and selective retention of patterns of action are necessary and sufficient to explain the features of organizational routines that are most relevant in relation to dynamic capabilities, such as formation, inertia, endogenous change, and learning. The model directly links micro-level actions to the macro-level dynamics of routines. The results suggest that focusing on action provides a useful and parsimonious foundation for a theory of organizational routines and capabilities.
+C1 [Pentland, Brian T.] Michigan State Univ, Eli Broad Grad Sch Management, E Lansing, MI 48824 USA.
+   Univ Calif Irvine, Irvine, CA USA.
+   Univ So Denmark, Odense, Denmark.
+RP Pentland, BT (corresponding author), Michigan State Univ, Eli Broad Grad Sch Management, E Lansing, MI 48824 USA.
+EM pentland@bus.msu.edu
+RI Pentland, Brian/AAT-9506-2021
+OI Pentland, Brian/0000-0001-7526-2476
+CR ABBOTT A, 1992, SOCIOL METHOD RES, V20, P428, DOI 10.1177/0049124192020004002
+   Abell P, 2008, MANAG DECIS ECON, V29, P489, DOI 10.1002/mde.1413
+   ANDERSON TW, 1957, ANN MATH STAT, V28, P89, DOI 10.1214/aoms/1177707039
+   ARGOTE L, 1990, SCIENCE, V247, P920, DOI 10.1126/science.247.4945.920
+   ASHFORTH BE, 1988, HUM RELAT, V41, P305, DOI 10.1177/001872678804100403
+   Barney JB, 2001, J MANAGE, V27, P643, DOI 10.1177/014920630102700602
+   Baum JAC, 1998, MANAGE SCI, V44, P996, DOI 10.1287/mnsc.44.7.996
+   Becker M, 2008, SPEKTRUM AUGENHEILKD, V22, P3, DOI 10.1007/s00717-008-0241-5
+   Becker MC, 2008, J ECON BEHAV ORGAN, V66, P128, DOI 10.1016/j.jebo.2007.04.002
+   Becker MC, 2006, IND CORP CHANGE, V15, P353, DOI 10.1093/icc/dtl003
+   Becker MC, 2005, CAMB J ECON, V29, P249, DOI 10.1093/cje/bei031
+   Becker MC, 2004, IND CORP CHANGE, V13, P643, DOI 10.1093/icc/dth026
+   Berg Marc, 1997, RATIONALIZING MED WO
+   Bickhard M. H., 2003, FOUND SCI, V8, P215, DOI DOI 10.1023/A:1025046917589
+   Birnholtz JP, 2007, ORGAN SCI, V18, P315, DOI 10.1287/orsc.1070.0248
+   Campbell D. T., 1965, SOCIAL CHANGE DEV AR, P19
+   Cetina KK, 1997, THEOR CULT SOC, V14, P1, DOI 10.1177/026327697014004001
+   Ciborra Claudio U., 2000, CONTROL DRIFT DYNAMI, P1
+   COHEN MD, 1994, ORGAN SCI, V5, P554, DOI 10.1287/orsc.5.4.554
+   Cohen MD, 1996, IND CORP CHANGE, V5, P653
+   Cohen MD, 2007, ORGAN STUD, V28, P773, DOI 10.1177/0170840606077620
+   Coleman JS., 1990, FDN SOCIAL THEORY
+   D'Adderio L, 2008, RES POLICY, V37, P769, DOI 10.1016/j.respol.2007.12.012
+   de Holan P. M., 2004, Strategic Organization, V2, P423, DOI 10.1177/1476127004047620
+   de Holan PM, 2004, MANAGE SCI, V50, P1603, DOI 10.1287/mnsc.1040.0273
+   Egidi M, 1997, INT J IND ORGAN, V15, P677, DOI 10.1016/S0167-7187(97)00007-6
+   Eisenhardt KM, 2000, STRATEGIC MANAGE J, V21, P1105, DOI 10.1002/1097-0266(200010/11)21:10/11<1105::AID-SMJ133>3.0.CO;2-E
+   Emirbayer M, 1998, AM J SOCIOL, V103, P962, DOI 10.1086/231294
+   Farjoun M, 2010, ACAD MANAGE REV, V35, P202, DOI 10.5465/AMR.2010.48463331
+   Feldman MS, 2003, ADMIN SCI QUART, V48, P94, DOI 10.2307/3556620
+   Feldman MS, 2000, ORGAN SCI, V11, P611, DOI 10.1287/orsc.11.6.611.12529
+   Galunic DC, 1998, STRATEGIC MANAGE J, V19, P1193, DOI 10.1002/(SICI)1097-0266(1998120)19:12<1193::AID-SMJ5>3.3.CO;2-6
+   Garud R, 2010, J MANAGE STUD, V47, P760, DOI 10.1111/j.1467-6486.2009.00914.x
+   Gavetti G, 2000, ADMIN SCI QUART, V45, P113, DOI 10.2307/2666981
+   GERSICK CJG, 1990, ORGAN BEHAV HUM DEC, V47, P65, DOI 10.1016/0749-5978(90)90047-D
+   Gherardi S., 2009, ORG KNOWLEDGE TEXTUR
+   Gong Y., 2005, FRONTIERS ENTREPRENE, P375
+   Greve HR, 2008, HANDBOOK OF ORGANIZATIONAL ROUTINES, P187
+   Griffin A, 1996, J PROD INNOVAT MANAG, V13, P191, DOI 10.1111/1540-5885.1330191
+   Helfat CE., 2007, DYNAMIC CAPABILITIES
+   Hodgson G., 2010, DARWINS CONJECTURE
+   Hodgson GM, 2008, HANDBOOK OF ORGANIZATIONAL ROUTINES, P15
+   Hodgson GM, 2004, J EVOL ECON, V14, P281, DOI 10.1007/s00191-004-0192-1
+   Howard-Grenville JA, 2005, ORGAN SCI, V16, P618, DOI 10.1287/orsc.1050.0150
+   Hull D., 1982, PHILOS SCI ASS, V1, P315
+   HUTCHINS E, 1995, COGNITIVE SCI, V19, P265, DOI 10.1207/s15516709cog1903_1
+   Hutchins E., 1995, COGNITION WILD
+   Karim S, 2000, STRATEGIC MANAGE J, V21, P1061, DOI 10.1002/1097-0266(200010/11)21:10/11<1061::AID-SMJ116>3.0.CO;2-G
+   KILDUFF M, 1992, J INT BUS STUD, V23, P133, DOI 10.1057/palgrave.jibs.8490262
+   Knudsen T, 2008, HANDBOOK OF ORGANIZATIONAL ROUTINES, P125
+   Latour B., 2005, REASSEMBLING SOCIAL
+   Lave J., 1988, COGNITION PRACTICE, DOI DOI 10.1017/CBO9780511609268
+   Law J., 2004, METHOD MESS SOCIAL S, DOI 10.4324/9780203481141
+   Lazaric N, 2005, IND CORP CHANGE, V14, P873, DOI 10.1093/icc/dth074
+   Lazaric N, 2008, HANDBOOK OF ORGANIZATIONAL ROUTINES, P205
+   Leonardi PM, 2011, MIS QUART, V35, P147
+   Leonardi PM, 2008, INFORM ORGAN-UK, V18, P159, DOI 10.1016/j.infoandorg.2008.03.001
+   LEVITT B, 1988, ANNU REV SOCIOL, V14, P319, DOI 10.1146/annurev.so.14.080188.001535
+   Malzkorn W, 2001, STUD HIST PHILOS SCI, V32A, P335, DOI 10.1016/S0039-3681(00)00042-X
+   Merrifield R, 2008, HARVARD BUS REV, V86, P72
+   Miner AS, 2008, HANDBOOK OF ORGANIZATIONAL ROUTINES, P152
+   NARDUZZO A, 2000, NATURE DYNAMICS ORG, P27
+   Nelson R.R, 1982, EVOL THEOR
+   Nicolini D, 2011, ORGAN SCI, V22, P602, DOI 10.1287/orsc.1100.0556
+   Norman D. A., 2014, THINGS MAKE US SMART
+   Orlikowski WJ, 2007, ORGAN STUD, V28, P1435, DOI 10.1177/0170840607081138
+   Orlikowski WJ, 2008, ACAD MANAG ANN, V2, P433, DOI 10.1080/19416520802211644
+   ORLIKOWSKI WJ, 1992, ORGAN SCI, V3, P398, DOI 10.1287/orsc.3.3.398
+   Paim R, 2008, BUS PROCESS MANAG J, V14, P694, DOI 10.1108/14637150810903066
+   Papazoglou MP, 2003, COMMUN ACM, V46, P25
+   Parmigiani A, 2011, ACAD MANAG ANN, V5, P413, DOI 10.1080/19416520.2011.589143
+   Pentland BT, 2007, ORGAN SCI, V18, P781, DOI 10.1287/orsc.1070.0283
+   Pentland BT, 2011, ORGAN SCI, V22, P1369, DOI 10.1287/orsc.1110.0624
+   Pentland BT, 2008, HANDBOOK OF ORGANIZATIONAL ROUTINES, P281
+   Pentland BT, 2010, ORGAN STUD, V31, P917, DOI 10.1177/0170840610373200
+   PENTLAND BT, 1994, ADMIN SCI QUART, V39, P484, DOI 10.2307/2393300
+   PENTLAND BT, 1992, ADMIN SCI QUART, V37, P527, DOI 10.2307/2393471
+   PENTLAND BT, 1995, ORGAN SCI, V6, P541, DOI 10.1287/orsc.6.5.541
+   Reason J., 1990, HUMAN ERROR, DOI DOI 10.1017/CBO9781139062367
+   Rerup C, 2011, ACAD MANAGE J, V54, P577, DOI 10.5465/AMJ.2011.61968107
+   Salvato C, 2011, J MANAGE, V37, P468, DOI 10.1177/0149206310371691
+   Salvato C, 2009, ORGAN SCI, V20, P384, DOI 10.1287/orsc.1080.0408
+   Schulz M, 2008, HANDBOOK OF ORGANIZATIONAL ROUTINES, P228
+   Schumpeter J.A., 1934, THEORY EC DEV
+   Suchman L, 2007, LEARN DOING, P1, DOI 10.2277/052167588X
+   Sydow J, 2009, ACAD MANAGE REV, V34, P689, DOI 10.5465/AMR.2009.44885978
+   Teece DJ, 1997, STRATEGIC MANAGE J, V18, P509, DOI 10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z
+   Tsang EWK, 2008, HUM RELAT, V61, P1435, DOI 10.1177/0018726708095710
+   Turner SF, 2012, ORGAN SCI, V23, P24, DOI 10.1287/orsc.1110.0653
+   van der Aalst WMP, 2007, INFORM SYST, V32, P713, DOI 10.1016/j.is.2006.05.003
+   VANDEVEN AH, 1995, ACAD MANAGE REV, V20, P510, DOI 10.2307/258786
+   Vergne JP, 2010, J MANAGE STUD, V47, P736, DOI 10.1111/j.1467-6486.2010.00913.x
+   WALSH JP, 1991, ACAD MANAGE REV, V16, P57, DOI 10.2307/258607
+   Weick K.E., 1969, SOCIAL PSYCHOL ORG
+   Winter SG, 2003, STRATEGIC MANAGE J, V24, P991, DOI 10.1002/smj.318
+   Zahra SA, 2002, ACAD MANAGE REV, V27, P185, DOI 10.2307/4134351
+   Zbaracki MJ, 2010, ORGAN SCI, V21, P955, DOI 10.1287/orsc.1090.0513
+   Zollo M, 2002, ORGAN SCI, V13, P339, DOI 10.1287/orsc.13.3.339.2780
+NR 98
+TC 208
+Z9 220
+U1 5
+U2 281
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0022-2380
+EI 1467-6486
+J9 J MANAGE STUD
+JI J. Manage. Stud.
+PD DEC
+PY 2012
+VL 49
+IS 8
+SI SI
+BP 1484
+EP 1508
+DI 10.1111/j.1467-6486.2012.01064.x
+PG 25
+WC Business; Management
+WE Social Science Citation Index (SSCI)
+SC Business & Economics
+GA 040CI
+UT WOS:000311296600010
+DA 2022-09-27
+ER
