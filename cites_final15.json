@@ -1,0 +1,3673 @@
+[
+    {
+        "name": "Modeling collaborative behavior  Foundations for collaboration technologies",
+        "year": 2009,
+        "yearinfo": "S Poltrock, M Handel - 2009 42nd Hawaii International …, 2009 - ieeexplore.ieee.org",
+        "writer": [
+            "S Poltrock, M Handel "
+        ],
+        "cites_nr": 21,
+        "cites": [
+            {
+                "name": "Division of labour and sharing of knowledge for synchronous collaborative information retrieval",
+                "year": 2010,
+                "yearinfo": "C Foley, AF Smeaton - Information processing \u0026 management, 2010 - Elsevier",
+                "writer": [
+                    "C Foley",
+                    "AF Smeaton"
+                ],
+                "cites_nr": 84,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=13381550673638612425\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Division of labour and sharing of knowledge for synchronous collaborative information retrieval.pdf",
+                "file_url": "http://doras.dcu.ie/552/1/cfoley-PhD_thesis.pdf"
+            },
+            {
+                "name": "Building socially embedded technologies  Implications about design",
+                "year": 2015,
+                "yearinfo": "F Cabitza, C Simone - Designing socially embedded technologies in the …, 2015 - Springer",
+                "writer": [
+                    "F Cabitza",
+                    "C Simone"
+                ],
+                "cites_nr": 47,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=8260542637770674250\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Designing collaboration  Comparing cases exploring cultural probes as boundary-negotiating objects",
+                "year": 2013,
+                "yearinfo": "MK Halpern, I Erickson, L Forlano, GK Gay - Proceedings of the 2013 …, 2013 - dl.acm.org",
+                "writer": [
+                    "MK Halpern",
+                    "I Erickson",
+                    "L Forlano",
+                    "GK Gay"
+                ],
+                "cites_nr": 35,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=17034010342925005291\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Designing collaboration  Comparing cases exploring cultural probes as boundary-negotiating objects.pdf",
+                "file_url": "https://id.iit.edu/wp-content/uploads/2015/06/Designing-collaboration.pdf"
+            },
+            {
+                "name": "Integrating decision support and social networks",
+                "year": 2012,
+                "yearinfo": "F Antunes, JP Costa - Advances in Human-Computer Interaction, 2012 - dl.acm.org",
+                "writer": [
+                    "JP Costa"
+                ],
+                "cites_nr": 30,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=11010942145537227309\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Integrating decision support and social networks.pdf",
+                "file_url": "https://downloads.hindawi.com/journals/ahci/2012/574276.pdf"
+            },
+            {
+                "name": "Models of collaboration as the foundation for collaboration technologies",
+                "year": 2010,
+                "yearinfo": "S Poltrock, M Handel - Journal of Management Information …, 2010 - Taylor \u0026 Francis",
+                "writer": [
+                    "S Poltrock, M Handel "
+                ],
+                "cites_nr": 27,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=2652317908995365693\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Decision support social network",
+                "year": 2011,
+                "yearinfo": "F Antunes, JP Costa - 6th Iberian Conference on Information …, 2011 - ieeexplore.ieee.org",
+                "writer": [
+                    "JP Costa"
+                ],
+                "cites_nr": 7,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=753635238377364302\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Decision support social network.pdf",
+                "file_url": "https://www.researchgate.net/profile/Francisco-Antunes-2/publication/259656794_Decision_Support_Social_Network/links/0c96052e289d15d00d000000/Decision-Support-Social-Network.pdf"
+            },
+            {
+                "name": "Defining and using collaboration patterns for software process development",
+                "year": 2015,
+                "yearinfo": "TT Vo, B Coulette, HN Tran… - 2015 3rd International …, 2015 - ieeexplore.ieee.org",
+                "writer": [
+                    "B Coulette"
+                ],
+                "cites_nr": 5,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=17593327064394022486\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Defining and using collaboration patterns for software process development.pdf",
+                "file_url": "http://publications.ut-capitole.fr/29661/1/assistant_17203852_3908371520_0.pdf"
+            },
+            {
+                "name": "An approach to define and apply collaboration process patterns for software development",
+                "year": 2015,
+                "yearinfo": "TT Vo, B Coulette, HN Tran, R Lbath - International Conference on Model …, 2015 - Springer",
+                "writer": [
+                    "B Coulette"
+                ],
+                "cites_nr": 4,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=12464786063043982305\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Workflow interpretation via social networks",
+                "year": 2016,
+                "yearinfo": "ED Kim, P Busch - Pacific Rim Knowledge Acquisition Workshop, 2016 - Springer",
+                "writer": [
+                    "ED Kim",
+                    "P Busch"
+                ],
+                "cites_nr": 4,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=14933364784779950899\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "A service delivery framework to support opportunistic collaborations",
+                "year": 2013,
+                "yearinfo": "G Katsaros, E Wittern, B Gray, S Tai - European Conference on Service …, 2013 - Springer",
+                "writer": [
+                    "G Katsaros",
+                    "S Tai"
+                ],
+                "cites_nr": 4,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=8311412164308844814\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "A service delivery framework to support opportunistic collaborations.pdf",
+                "file_url": "https://okread.net/ebook/computer/New%20Service%20Oriented%20and%20Cloud.pdf#page=14"
+            },
+            {
+                "name": "Pattern-based competence management  On the gap between intentions and reality",
+                "year": 2010,
+                "yearinfo": "R Klamma, Z Petrushyna - Working Conference on Virtual Enterprises, 2010 - Springer",
+                "writer": [
+                    "R Klamma",
+                    "Z Petrushyna"
+                ],
+                "cites_nr": 3,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=11376529424411387371\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Pattern-based competence management  On the gap between intentions and reality.pdf",
+                "file_url": "https://link.springer.com/content/pdf/10.1007/978-3-642-15961-9_43.pdf"
+            },
+            {
+                "name": "",
+                "year": 2012,
+                "yearinfo": "M Arias - Pontificia Universidad Javeriana, 2012",
+                "writer": [
+                    "M Arias "
+                ],
+                "cites_nr": 4,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=5264798404595676847\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Understanding and Supporting Cross-modal Collaborative Information Seeking",
+                "year": 2016,
+                "yearinfo": "DAS Al-Thani - 2016 - qmro.qmul.ac.uk",
+                "writer": [
+                    "DAS Al-Thani"
+                ],
+                "cites_nr": 2,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=4969763503717519372\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Understanding and Supporting Cross-modal Collaborative Information Seeking.pdf",
+                "file_url": "https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/12528/Al-Thani_Dena_PhD_Final_020316.pdf?isAllowed=y\u0026sequence=1"
+            },
+            {
+                "name": "Interpreting overlaps in business process mapping via organisational soft knowledge flows",
+                "year": 2014,
+                "yearinfo": "A Keshishi, P Busch - Pacific Rim Knowledge Acquisition Workshop, 2014 - Springer",
+                "writer": [
+                    "P Busch"
+                ],
+                "cites_nr": 2,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=14394136235049084539\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Interpreting overlaps in business process mapping via organisational soft knowledge flows.pdf",
+                "file_url": "http://ecite.utas.edu.au/98443/1/proceeding_pkaw.pdf#page=219"
+            },
+            {
+                "name": "Harnessing Collective Intelligence for Translation  An Assessment of Crowdsourcing as a Means of Bridging the Canadian Linguistic Digital Divide",
+                "year": 2011,
+                "yearinfo": "S O'Brien - 2011 - search.proquest.com",
+                "writer": [
+                    "S O'Brien "
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=16092498687874024748\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Harnessing Collective Intelligence for Translation  An Assessment of Crowdsourcing as a Means of Bridging the Canadian Linguistic Digital Divide.pdf",
+                "file_url": "https://ruor.uottawa.ca/bitstream/10393/20025/3/OBrien_Steven_2011_thesis.pdf"
+            },
+            {
+                "name": "Modélisation et mise en œuvre de processus collaboratifs ad hoc",
+                "year": 2013,
+                "yearinfo": "KA Kedji - 2013 - tel.archives-ouvertes.fr",
+                "writer": [
+                    "KA Kedji"
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=6997668481550523358\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Modélisation et mise en œuvre de processus collaboratifs ad hoc.pdf",
+                "file_url": "https://tel.archives-ouvertes.fr/tel-00912975/document"
+            },
+            {
+                "name": "",
+                "year": 2011,
+                "yearinfo": "Y Lim - 2011",
+                "writer": [
+                    "Y Lim "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "AYPUY  A resource management system for collaborative environments",
+                "year": 2012,
+                "yearinfo": "AP Quimbaya, LG Torres-Ribero… - 2012 7th Colombian …, 2012 - ieeexplore.ieee.org",
+                "writer": [
+                    "AP Quimbaya",
+                    "LG Torres-Ribero"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "CASMAS-WOAD to Achieve Integrated Care and Coordination among Heterogeneous Care Communities",
+                "year": 2011,
+                "yearinfo": "F Cabitza, MP Locatelli, C Simone - International Journal of Computer …, 2011 - mirlabs.net",
+                "writer": [
+                    "F Cabitza",
+                    "C Simone"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "CASMAS-WOAD to Achieve Integrated Care and Coordination among Heterogeneous Care Communities.pdf",
+                "file_url": "https://www.mirlabs.net/ijcisim/regular_papers_2011/Paper52.pdf"
+            },
+            {
+                "name": "Overlaying business protocols with social networks",
+                "year": 2015,
+                "yearinfo": "ED Kim - 2015 - researchonline.mq.edu.au",
+                "writer": [
+                    "ED Kim"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Overlaying business protocols with social networks.pdf",
+                "file_url": "https://www.researchonline.mq.edu.au/vital/access/services/Download/mq:44807/SOURCE1"
+            },
+            {
+                "name": "A Survey on Social Business Intelligence  A Case Study of Application of Dynamic Social Networks for Decision Making",
+                "year": 2020,
+                "yearinfo": "S Paul, C Koner, A Mitra - Natural Language Processing in …, 2020 - taylorfrancis.com",
+                "writer": [
+                    "C Koner",
+                    "A Mitra"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "A Survey on Social Business Intelligence  A Case Study of Application of Dynamic Social Networks for Decision Making.pdf",
+                "file_url": "https://li.dikpora.sumbawabaratkab.go.id/natural-language-processing-in-artificial-intelligence_YTo2Ojc.pdf#page=20"
+            }
+        ],
+        "url": "https://scholar.google.de/scholar?cites=18372414873868279069\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+        "file": "",
+        "file_url": ""
+    },
+    {
+        "name": "Capabilities for Ambidextrous Innovation of Digital Service.",
+        "year": 2020,
+        "yearinfo": "V Wolf, H Lüttenberg - Wirtschaftsinformatik (Zentrale Tracks), 2020 - library.gito.de",
+        "writer": [
+            "V Wolf"
+        ],
+        "cites_nr": 1,
+        "cites": [
+            {
+                "name": "Removing barriers for digital health through organizing ambidexterity in hospitals",
+                "year": 2022,
+                "yearinfo": "A Gleiss, S Lewandowski - Journal of Public Health, 2022 - Springer",
+                "writer": [
+                    "A Gleiss"
+                ],
+                "cites_nr": 10,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=9904891714564446551\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Removing barriers for digital health through organizing ambidexterity in hospitals.pdf",
+                "file_url": "https://link.springer.com/article/10.1007/s10389-021-01532-y"
+            }
+        ],
+        "url": "https://scholar.google.de/scholar?cites=17661385725593673004\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+        "file": "Capabilities for Ambidextrous Innovation of Digital Service..pdf",
+        "file_url": "https://library.gito.de/wp-content/uploads/2021/08/J13_Capabilities_for_Ambidextrous_Innovation_of_Digital_Service_Revision_final_upload_version.pdf"
+    },
+    {
+        "name": "Value-based knowledge management  the contribution of group processes",
+        "year": 2006,
+        "yearinfo": "T Dingsøyr - Value-Based Software Engineering, 2006 - Springer",
+        "writer": [
+            "T Dingsøyr"
+        ],
+        "cites_nr": 4,
+        "cites": [
+            {
+                "name": "Understanding knowledge management in agile software development practice",
+                "year": 2017,
+                "yearinfo": "Y Andriyani, R Hoda, R Amor - International Conference on Knowledge …, 2017 - Springer",
+                "writer": [
+                    "Y Andriyani",
+                    "R Hoda",
+                    "R Amor"
+                ],
+                "cites_nr": 28,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=645712502860064297\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Understanding knowledge management in agile software development practice.pdf",
+                "file_url": "https://researchspace.auckland.ac.nz/bitstream/handle/2292/40899/KMSLR-KSEM2017-CamReady.pdf?sequence=2"
+            },
+            {
+                "name": "総論  知識創造デザイン技術の展開",
+                "year": 2008,
+                "yearinfo": "山本修一郎 - NTT 技術ジャーナル, 2008 - journal.ntt.co.jp",
+                "writer": [
+                    "山本修一郎 "
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=6324104025456926975\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "総論  知識創造デザイン技術の展開.pdf",
+                "file_url": "https://journal.ntt.co.jp/backnumber2/0805/files/jn200805008.pdf"
+            },
+            {
+                "name": "CROSS-TEAM REFLECTION WORKSHOPS IN SOFTWARE ENGINEERING STUDENT PROJECTS",
+                "year": 0,
+                "yearinfo": "IC Calori, M Divitini, BR Krogstie - core.ac.uk",
+                "writer": [
+                    "IC Calori",
+                    "M Divitini",
+                    "BR Krogstie"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "CROSS-TEAM REFLECTION WORKSHOPS IN SOFTWARE ENGINEERING STUDENT PROJECTS.pdf",
+                "file_url": "https://core.ac.uk/download/pdf/228627909.pdf"
+            },
+            {
+                "name": "Lärande och meningsskapande i en agil organisation  Upplevelsen av ett knowledge management-initiativ ur ett medarbetarperspektiv",
+                "year": 2022,
+                "yearinfo": "I Brandt, M Sturesson - 2022 - diva-portal.org",
+                "writer": [
+                    "I Brandt, M Sturesson "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Lärande och meningsskapande i en agil organisation  Upplevelsen av ett knowledge management-initiativ ur ett medarbetarperspektiv.pdf",
+                "file_url": "https://www.diva-portal.org/smash/get/diva2:1638797/FULLTEXT01.pdf"
+            }
+        ],
+        "url": "https://scholar.google.de/scholar?cites=12959126143026425099\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+        "file": "Value-based knowledge management  the contribution of group processes.pdf",
+        "file_url": "https://www.researchgate.net/profile/Torgeir-Dingsoyr/publication/288764562_Value-Based_Knowledge_Management_the_Contribution_of_Group_Processes/links/57062e8108ae0f37fee08053/Value-Based-Knowledge-Management-the-Contribution-of-Group-Processes.pdf"
+    },
+    {
+        "name": "Behind the blackbox of digital business models",
+        "year": 2020,
+        "yearinfo": "M Ahmad, T Botzkowski, C Klötzer, M Papert - 2020 - aisel.aisnet.org",
+        "writer": [
+            "M Ahmad"
+        ],
+        "cites_nr": 12,
+        "cites": [
+            {
+                "name": "Towards a Unifying Understanding of Digital Business Models.",
+                "year": 2020,
+                "yearinfo": "T Guggenberger, F Möller, K Boualouch, B Otto - PACIS, 2020 - researchgate.net",
+                "writer": [
+                    "T Guggenberger",
+                    "F Möller",
+                    "B Otto"
+                ],
+                "cites_nr": 31,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=64115813765784671\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Towards a Unifying Understanding of Digital Business Models..pdf",
+                "file_url": "https://www.researchgate.net/profile/Tobias-Guggenberger-2/publication/341452557_Towards_a_Unifying_Understanding_of_Digital_Business_Models/links/5ec2300f458515626cb0b27d/Towards-a-Unifying-Understanding-of-Digital-Business-Models.pdf"
+            },
+            {
+                "name": "Discovering the Value Creation System in IoT Ecosystems",
+                "year": 2021,
+                "yearinfo": "CA Lopez, LF Castillo, JM Corchado - Sensors, 2021 - mdpi.com",
+                "writer": [
+                    "CA Lopez",
+                    "LF Castillo",
+                    "JM Corchado"
+                ],
+                "cites_nr": 12,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=1310166043148417615\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Discovering the Value Creation System in IoT Ecosystems.pdf",
+                "file_url": "https://www.mdpi.com/1424-8220/21/2/328/pdf"
+            },
+            {
+                "name": "The digital supply chain of the future  from drivers to technologies and applications",
+                "year": 2018,
+                "yearinfo": "A Pflaum, OFU Bamberg… - … of the 51st …, 2018 - scholarspace.manoa.hawaii.edu",
+                "writer": [
+                    "A Pflaum"
+                ],
+                "cites_nr": 10,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=8823834018089601911\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "The digital supply chain of the future  from drivers to technologies and applications.pdf",
+                "file_url": "https://scholarspace.manoa.hawaii.edu/bitstreams/056ce100-230b-42c7-af35-184c5c2b6469/download"
+            },
+            {
+                "name": "Understanding Value Creation in Digital Companies-a Taxonomy of IoT Enabled Business Models.",
+                "year": 2021,
+                "yearinfo": "R Woroch, G Strobel - ECIS, 2021 - researchgate.net",
+                "writer": [
+                    "G Strobel"
+                ],
+                "cites_nr": 3,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=3452265506656219795\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Understanding Value Creation in Digital Companies-a Taxonomy of IoT Enabled Business Models..pdf",
+                "file_url": "https://www.researchgate.net/profile/Robert-Woroch/publication/351451715_UNDERSTANDING_VALUE_CREATION_IN_DIGITAL_COMPANIES_-_A_TAXONOMY_OF_IOT-ENABLED_BUSINESS_MODELS/links/6277b10b107cae291994c408/UNDERSTANDING-VALUE-CREATION-IN-DIGITAL-COMPANIES-A-TAXONOMY-OF-IOT-ENABLED-BUSINESS-MODELS.pdf"
+            },
+            {
+                "name": "Introduction to the Minitrack on The Digital Supply Chain of the Future  Applications, Implications, Business Models",
+                "year": 2022,
+                "yearinfo": "A Pflaum, F Bodendorf, G Prockl… - … of the 55th …, 2022 - scholarspace.manoa.hawaii.edu",
+                "writer": [
+                    "A Pflaum",
+                    "G Prockl"
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=1873855760805240334\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Introduction to the Minitrack on The Digital Supply Chain of the Future  Applications, Implications, Business Models.pdf",
+                "file_url": "https://scholarspace.manoa.hawaii.edu/bitstream/10125/79950/1/m-intro-0120.pdf"
+            },
+            {
+                "name": "STUDI LITERATUR PENGEMBANGAN E-COMMERCE SEKOLAH MENGGUNAKAN PROGRESSIVE WEB APPS (PWA)",
+                "year": 2020,
+                "yearinfo": "HB Putra, SC Wibawa - IT-Edu: Jurnal Information Technology …, 2020 - ejournal.unesa.ac.id",
+                "writer": [
+                    "HB Putra, SC Wibawa "
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=13719284717646951676\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "STUDI LITERATUR PENGEMBANGAN E-COMMERCE SEKOLAH MENGGUNAKAN PROGRESSIVE WEB APPS (PWA).pdf",
+                "file_url": "https://ejournal.unesa.ac.id/index.php/it-edu/article/download/37931/33501"
+            },
+            {
+                "name": "Plankostenrechnung für das digitale Performance Measurement und Management in der Unternehmenspraxis",
+                "year": 2022,
+                "yearinfo": "JR Pampel, T Botzkowski - Handbuch Controlling, 2022 - Springer",
+                "writer": [
+                    "JR Pampel"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Conceptual model for the digital transformation of incumbent SMEs' business models",
+                "year": 2022,
+                "yearinfo": "K Pergande - 2022 - epubl.ktu.edu",
+                "writer": [
+                    "K Pergande "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Conceptual model for the digital transformation of incumbent SMEs' business models.pdf",
+                "file_url": "https://epubl.ktu.edu/object/elaba:131284060/131284060.pdf"
+            },
+            {
+                "name": "Evaluating a Forward-Looking Maturity Model for Enterprise Performance Management",
+                "year": 2021,
+                "yearinfo": "JH Mayer, C Hebeler, M Esswein, M Göbel… - … the Transformation of the …, 2021 - Springer",
+                "writer": [
+                    "JH Mayer, C Hebeler, M Esswein, M Göbel… "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Show me the Money  How to monetize data in data-driven business models?",
+                "year": 2022,
+                "yearinfo": "R Woroch, G Strobel - 2022 - aisel.aisnet.org",
+                "writer": [
+                    "G Strobel"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Show me the Money  How to monetize data in data-driven business models?.pdf",
+                "file_url": "https://www.researchgate.net/profile/Robert-Woroch/publication/356878773_Show_me_the_Money_How_to_monetize_data_in_data-driven_business_models/links/6277b362973bbb29cc6d5ed4/Show-me-the-Money-How-to-monetize-data-in-data-driven-business-models.pdf"
+            },
+            {
+                "name": "Thinking globally, acting locally  Reviving and sustaining South African journalism in a post-Covid world",
+                "year": 2021,
+                "yearinfo": "H Dugmore - 2021 - research.usc.edu.au",
+                "writer": [
+                    "H Dugmore"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Diseño de un Ecosistema de Internet de las Cosas para el Hogar Conectado Integrando Electrodomésticos de Línea Blanca  Hacia la Creación de Valor con la …",
+                "year": 0,
+                "yearinfo": "CA López Castaño - repositorio.unal.edu.co",
+                "writer": [
+                    "CA López Castaño "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Diseño de un Ecosistema de Internet de las Cosas para el Hogar Conectado Integrando Electrodomésticos de Línea Blanca  Hacia la Creación de Valor con la ….pdf",
+                "file_url": "http://repositorio.unal.edu.co/bitstream/handle/unal/80598/75078014.2021.pdf?sequence=2\u0026isAllowed=y"
+            }
+        ],
+        "url": "https://scholar.google.de/scholar?cites=860539204185866777\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+        "file": "Behind the blackbox of digital business models.pdf",
+        "file_url": "https://scholarspace.manoa.hawaii.edu/bitstream/10125/64298/1/0451.pdf"
+    },
+    {
+        "name": "Linking Technology Management Capabilities Perspective with the Management of Technology Platforms  a literature review and preliminary framework",
+        "year": 2021,
+        "yearinfo": "S Venter, SSS Grobbelaar - 2021 IEEE International …, 2021 - ieeexplore.ieee.org",
+        "writer": [
+            "SSS Grobbelaar"
+        ],
+        "cites_nr": 0,
+        "cites": null,
+        "url": "",
+        "file": "",
+        "file_url": ""
+    },
+    {
+        "name": "Knowledge management  more than a buzzword",
+        "year": 2006,
+        "yearinfo": "F Wijnhoven - Knowledge integration, 2006 - Springer",
+        "writer": [
+            "F Wijnhoven"
+        ],
+        "cites_nr": 37,
+        "cites": [
+            {
+                "name": "A problem-solving ontology for human-centered cyber physical production systems",
+                "year": 2018,
+                "yearinfo": "F Ansari, M Khobreh, U Seidenberg, W Sihn - CIRP Journal of …, 2018 - Elsevier",
+                "writer": [
+                    "F Ansari",
+                    "M Khobreh",
+                    "W Sihn"
+                ],
+                "cites_nr": 76,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=3306219154048082186\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Textual meta-analysis of maintenance management's knowledge assets",
+                "year": 2014,
+                "yearinfo": "F Ansari, P Uhr, M Fathi - International Journal of Services …, 2014 - inderscienceonline.com",
+                "writer": [
+                    "F Ansari"
+                ],
+                "cites_nr": 24,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=15711380838138893516\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Systems engineering, systems thinking, and learning  a case study in space industry",
+                "year": 2013,
+                "yearinfo": "HA Moser - 2013 - books.google.com",
+                "writer": [
+                    "HA Moser"
+                ],
+                "cites_nr": 24,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=17676174754060501746\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Dynamics of knowledge assets and change management perspectives",
+                "year": 2013,
+                "yearinfo": "S Nasiri, F Ansari, M Fathi - IEEE International Conference on …, 2013 - ieeexplore.ieee.org",
+                "writer": [
+                    "S Nasiri",
+                    "F Ansari"
+                ],
+                "cites_nr": 16,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=8662491843590340936\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Dynamics of knowledge assets and change management perspectives.pdf",
+                "file_url": "https://www.researchgate.net/profile/Fazel-Ansari/publication/261238826_Dynamics_of_knowledge_assets_and_change_management_perspectives/links/5a982f0a45851535bce0b722/Dynamics-of-knowledge-assets-and-change-management-perspectives.pdf"
+            },
+            {
+                "name": "Manufacturing knowledge work  The European perspective",
+                "year": 2008,
+                "yearinfo": "F Wijnhoven - Methods and tools for effective knowledge life-cycle …, 2008 - Springer",
+                "writer": [
+                    "F Wijnhoven"
+                ],
+                "cites_nr": 15,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=12683265429365186046\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Manufacturing knowledge work  The European perspective.pdf",
+                "file_url": "https://www.researchgate.net/profile/Fons-Wijnhoven/publication/226364323_Manufacturing_Knowledge_Work_The_European_Perspective/links/00b4952ce5f9ac14c9000000/Manufacturing-Knowledge-Work-The-European-Perspective.pdf"
+            },
+            {
+                "name": "An analysis of knowledge management process for SMEs in developing countries  A case study of SMEs in India and Thailand",
+                "year": 2012,
+                "yearinfo": "K Choochote - International Journal of Information and Education …, 2012 - ijiet.org",
+                "writer": [
+                    "K Choochote"
+                ],
+                "cites_nr": 14,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=7369961930215990718\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "An analysis of knowledge management process for SMEs in developing countries  A case study of SMEs in India and Thailand.pdf",
+                "file_url": "http://www.ijiet.org/papers/119-K0015.pdf"
+            },
+            {
+                "name": "Advanced knowledge management concept for sustainable environmental integration",
+                "year": 2010,
+                "yearinfo": "FA Ch, A Holland, M Fathi - 2010 IEEE 9th International …, 2010 - ieeexplore.ieee.org",
+                "writer": [
+                    "FA Ch, A Holland, M Fathi "
+                ],
+                "cites_nr": 13,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=8388813653563669305\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Advanced knowledge management concept for sustainable environmental integration.pdf",
+                "file_url": "https://www.researchgate.net/profile/Fazel-Ansari/publication/224242607_Advanced_Knowledge_Management_Concept_for_Sustainable_Environmental_Integration/links/5643835a08ae9f9c13e04afd/Advanced-Knowledge-Management-Concept-for-Sustainable-Environmental-Integration.pdf"
+            },
+            {
+                "name": "Creative design through knowledge clustering and case-based reasoning",
+                "year": 2020,
+                "yearinfo": "W Liu, R Tan, G Cao, F Yu, H Li - Engineering with Computers, 2020 - Springer",
+                "writer": [
+                    "W Liu, R Tan, G Cao, F Yu, H Li "
+                ],
+                "cites_nr": 14,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=3358530686858626041\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Knowledge sharing differences between engineering functional teams  an empirical investigation",
+                "year": 2012,
+                "yearinfo": "IC Lin, R Seidel, A Shekar, M Shahbazpour… - Journal of Information …, 2012 - World Scientific",
+                "writer": [
+                    "M Shahbazpour"
+                ],
+                "cites_nr": 11,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=14338240727076471428\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Business Innovation in Asia  Knowledge and Technology Networks from Japan",
+                "year": 2009,
+                "yearinfo": "D McNamara - 2009 - taylorfrancis.com",
+                "writer": [
+                    "D McNamara"
+                ],
+                "cites_nr": 11,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=481178876706799083\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Evolution of Intelligent Quality Management Process Based on Using Performance Quality Indicators.",
+                "year": 2011,
+                "yearinfo": "F Ansari, M Fathi, U Seidenberg - Wissensmanagement, 2011 - researchgate.net",
+                "writer": [
+                    "F Ansari"
+                ],
+                "cites_nr": 11,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=1015517158210110534\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Evolution of Intelligent Quality Management Process Based on Using Performance Quality Indicators..pdf",
+                "file_url": "https://www.researchgate.net/profile/Fazel-Ansari/publication/220927038_Evolution_of_Intelligent_Quality_Management_Process_Based_on_Using_Performance_Quality_Indicators/links/558413a308ae8bf4ba7258e4/Evolution-of-Intelligent-Quality-Management-Process-Based-on-Using-Performance-Quality-Indicators.pdf"
+            },
+            {
+                "name": "From knowledge activities to knowledge scenarios  cases in five Irish software SMEs",
+                "year": 2014,
+                "yearinfo": "H Ciara, A Frédéric - International Journal of Management …, 2014 - inderscienceonline.com",
+                "writer": [
+                    "H Ciara",
+                    "A Frédéric"
+                ],
+                "cites_nr": 11,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=9051915825436337197\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "From knowledge activities to knowledge scenarios  cases in five Irish software SMEs.pdf",
+                "file_url": "https://www.researchgate.net/profile/Frederic-Adam-3/publication/263372776_From_Knowledge_Activities_to_Knowledge_Scenarios_Cases_in_Five_Irish_Software_SMEs/links/56d3997c08ae4d8d64a77b82/From-Knowledge-Activities-to-Knowledge-Scenarios-Cases-in-Five-Irish-Software-SMEs.pdf"
+            },
+            {
+                "name": "Knowledge capture and retrieval in construction projects",
+                "year": 2011,
+                "yearinfo": "IIA Falqi - 2011 - core.ac.uk",
+                "writer": [
+                    "IIA Falqi"
+                ],
+                "cites_nr": 8,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=11805837319418500986\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Knowledge capture and retrieval in construction projects.pdf",
+                "file_url": "https://core.ac.uk/download/pdf/77035171.pdf"
+            },
+            {
+                "name": "Integrating knowledge management in the context of evidence based learning  Two concept models aimed at facilitating the assessment and acquisition of job …",
+                "year": 2013,
+                "yearinfo": "ST Mol, G Kismihók, F Ansari, M Dornhöfer - Integration of Practice …, 2013 - Springer",
+                "writer": [
+                    "ST Mol",
+                    "G Kismihók",
+                    "F Ansari",
+                    "M Dornhöfer"
+                ],
+                "cites_nr": 7,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=2767637600415441852\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Developing an algebraic model for administrating preventive maintenance cost of production machines",
+                "year": 2012,
+                "yearinfo": "F Ansari, M Fathi, U Seidenberg - Proceedings of 4th World …, 2012 - researchgate.net",
+                "writer": [
+                    "F Ansari"
+                ],
+                "cites_nr": 6,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=4918663724444238244\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Developing an algebraic model for administrating preventive maintenance cost of production machines.pdf",
+                "file_url": "https://www.researchgate.net/profile/Fazel-Ansari/publication/260793275_Developing_an_Algebraic_Model_for_Administrating_Preventive_Maintenance_Cost_of_Production_Machines/links/564384a008ae54697fb2efd8/Developing-an-Algebraic-Model-for-Administrating-Preventive-Maintenance-Cost-of-Production-Machines.pdf"
+            },
+            {
+                "name": "Ontology enhanced representing and reasoning of job specific knowledge to identify skill balance",
+                "year": 2017,
+                "yearinfo": "M Khobreh - 2017 - dspace.ub.uni-siegen.de",
+                "writer": [
+                    "M Khobreh"
+                ],
+                "cites_nr": 4,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=12714087444451377599\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Ontology enhanced representing and reasoning of job specific knowledge to identify skill balance.pdf",
+                "file_url": "https://dspace.ub.uni-siegen.de/handle/ubsi/1242"
+            },
+            {
+                "name": "Towards Integration of a Knowledge-Based Approach into SHM",
+                "year": 0,
+                "yearinfo": "Y Niu, I Buethe, F Ansari, M Fathi… - Proceedings of 5th …, 2013 - 2013.nde-reliability.de",
+                "writer": [
+                    "F Ansari"
+                ],
+                "cites_nr": 2,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=15909076491166453511\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Towards Integration of a Knowledge-Based Approach into SHM.pdf",
+                "file_url": "http://2013.nde-reliability.de/portals/nde-reliability2013/BB/poster/p26.pdf"
+            },
+            {
+                "name": "Information policies and practices of knowledge management (KM) as related to the development of the Global Aviation Information Network (GAIN)  An …",
+                "year": 2006,
+                "yearinfo": "JS Forrest - 2006 - search.proquest.com",
+                "writer": [
+                    "JS Forrest "
+                ],
+                "cites_nr": 2,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=15882849526925456310\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Information policies and practices of knowledge management (KM) as related to the development of the Global Aviation Information Network (GAIN)  An ….pdf",
+                "file_url": "https://nsuworks.nova.edu/cgi/viewcontent.cgi?article=1524\u0026context=gscis_etd/"
+            },
+            {
+                "name": "Managing knowledge related to structural and cohesion funds by universities",
+                "year": 2014,
+                "yearinfo": "AM Bud, RL Nistor - Managerial Challenges of the …, 2014 - search.proquest.com",
+                "writer": [
+                    "RL Nistor"
+                ],
+                "cites_nr": 2,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=6668759615255291371\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Knowledge Management Approach for Enhancing of Urban Health Equity",
+                "year": 2010,
+                "yearinfo": "M Khobreh, F Ansari, S Nasiri - The 11th European Conference on …, 2010 - researchgate.net",
+                "writer": [
+                    "M Khobreh",
+                    "F Ansari",
+                    "S Nasiri"
+                ],
+                "cites_nr": 2,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=5890587082843281906\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Knowledge Management Approach for Enhancing of Urban Health Equity.pdf",
+                "file_url": "https://www.researchgate.net/profile/Fazel-Ansari/publication/279445902_Knowledge_Management_Approach_for_Enhancing_of_Urban_Health_Equity/links/5aa436eb0f7e9badd9a9af6c/Knowledge-Management-Approach-for-Enhancing-of-Urban-Health-Equity.pdf"
+            },
+            {
+                "name": "Knowledge Management and New Product Development  Implementation Solutions for Medium-sized Knowledge-Intensive Organisations",
+                "year": 2013,
+                "yearinfo": "I Lin - 2013 - researchspace.auckland.ac.nz",
+                "writer": [
+                    "I Lin "
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=6916036364733314889\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Knowledge Management and New Product Development  Implementation Solutions for Medium-sized Knowledge-Intensive Organisations.pdf",
+                "file_url": "https://researchspace.auckland.ac.nz/bitstream/handle/2292/22274/whole.pdf?sequence=2\u0026isAllowed=y"
+            },
+            {
+                "name": "Dynamic knowledge assets management to interactive problem solving and sustained learning  a collaborative CBR system in chronic and palliative care",
+                "year": 2018,
+                "yearinfo": "S Nasiri - 2018 - dspace.ub.uni-siegen.de",
+                "writer": [
+                    "S Nasiri"
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=15359311156401640328\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Dynamic knowledge assets management to interactive problem solving and sustained learning  a collaborative CBR system in chronic and palliative care.pdf",
+                "file_url": "https://dspace.ub.uni-siegen.de/handle/ubsi/1308"
+            },
+            {
+                "name": "Adding Knowledge Management Perspective to Business Process Management",
+                "year": 2011,
+                "yearinfo": "B Kucharski, E Szczerbicki - … , Borzemski L., Grzech A., Świątek J …, 2011 - academia.edu",
+                "writer": [
+                    "E Szczerbicki"
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=1125204786876260443\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Adding Knowledge Management Perspective to Business Process Management.pdf",
+                "file_url": "https://www.academia.edu/download/77258769/ISAT2011_1.pdf#page=107"
+            },
+            {
+                "name": "Implizites Wissen für die Beschaffung internetbasierter aufgabenspezifischer Informationen",
+                "year": 2007,
+                "yearinfo": "DK Franzen - 2007 - core.ac.uk",
+                "writer": [
+                    "DK Franzen "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Implizites Wissen für die Beschaffung internetbasierter aufgabenspezifischer Informationen.pdf",
+                "file_url": "https://core.ac.uk/download/pdf/36618608.pdf"
+            },
+            {
+                "name": "F hrungskr „ftenachfolge in Banken  Erfolgsfaktoren des Wissensmanagements beim F hrungswechsel",
+                "year": 2012,
+                "yearinfo": "M Plaikner - 2012 - books.google.com",
+                "writer": [
+                    "M Plaikner "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Knowledge and Knowledge Management",
+                "year": 2021,
+                "yearinfo": "M Zieba - Understanding Knowledge-Intensive Business …, 2021 - Springer",
+                "writer": [
+                    "M Zieba"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "NECESSITY OF APPLYING KNOWLEDGE MANAGEMENT TOWARDS URBAN HEALTH EQUITY",
+                "year": 0,
+                "yearinfo": "M Khobreh, FA Ch, S Nasiri - researchgate.net",
+                "writer": [
+                    "M Khobreh",
+                    "S Nasiri"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "NECESSITY OF APPLYING KNOWLEDGE MANAGEMENT TOWARDS URBAN HEALTH EQUITY.pdf",
+                "file_url": "https://www.researchgate.net/profile/Fazel-Ansari/publication/290326237_Necessity_of_applying_Knowledge_Management_towards_Urban_Health_Equity/links/5aa436980f7e9badd9a9af66/Necessity-of-applying-Knowledge-Management-towards-Urban-Health-Equity.pdf"
+            },
+            {
+                "name": "An emotion-based model of criminal investigators' competences in Polícia de Segurança Pública",
+                "year": 2018,
+                "yearinfo": "RFRMC Moura - 2018 - repositorio.iscte-iul.pt",
+                "writer": [
+                    "RFRMC Moura"
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=6348261479322520179\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "An emotion-based model of criminal investigators' competences in Polícia de Segurança Pública.pdf",
+                "file_url": "https://repositorio.iscte-iul.pt/bitstream/10071/15831/4/phd_rui_coelho_moura.pdf"
+            },
+            {
+                "name": "Support  The WAVES Strategy",
+                "year": 2014,
+                "yearinfo": "HA Moser - Systems Engineering, Systems Thinking, and Learning, 2014 - Springer",
+                "writer": [
+                    "HA Moser"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Evaluating Quality of Open Source Components",
+                "year": 2018,
+                "yearinfo": "HF Kluitenberg - 2018 - essay.utwente.nl",
+                "writer": [
+                    "HF Kluitenberg "
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=7003489596054467237\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Evaluating Quality of Open Source Components.pdf",
+                "file_url": "http://essay.utwente.nl/74704/1/kluitenberg_master_thesis_bit.pdf"
+            },
+            {
+                "name": "The Interdependence of Knowledge Absorptive and Disseminative Capacities  An Explanatory Framework",
+                "year": 2019,
+                "yearinfo": "F Golzadeh Kermani - 2019 - etheses.whiterose.ac.uk",
+                "writer": [
+                    "F Golzadeh Kermani "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "The Interdependence of Knowledge Absorptive and Disseminative Capacities  An Explanatory Framework.pdf",
+                "file_url": "https://etheses.whiterose.ac.uk/25472/1/Farshid%20Golzadeh%20Kermani-November%202019.docx"
+            },
+            {
+                "name": "A framework for knowledge capture and recovery in whole life costing practice.",
+                "year": 2017,
+                "yearinfo": "NY Tobin - 2017 - rgu-repository.worktribe.com",
+                "writer": [
+                    "NY Tobin "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "A framework for knowledge capture and recovery in whole life costing practice..pdf",
+                "file_url": "https://rgu-repository.worktribe.com/preview/297156/TOBIN%202017%20A%20framework%20for%20knowledge%20capture.pdf"
+            },
+            {
+                "name": "Systems Thinking, and Learning",
+                "year": 0,
+                "yearinfo": "HA Moser - Springer",
+                "writer": [
+                    "HA Moser "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "A Principled Approach to Collaborative Knowledge Creation in Service Industries",
+                "year": 2017,
+                "yearinfo": "MM Jahantab - 2017 - pureportal.coventry.ac.uk",
+                "writer": [
+                    "MM Jahantab "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "A Principled Approach to Collaborative Knowledge Creation in Service Industries.pdf",
+                "file_url": "https://pureportal.coventry.ac.uk/files/42116682/Jahantab2017.pdf"
+            },
+            {
+                "name": "Contradiction-Driven Theme-and-Key-Event Analysis",
+                "year": 2014,
+                "yearinfo": "HA Moser - Systems Engineering, Systems Thinking, and Learning, 2014 - Springer",
+                "writer": [
+                    "HA Moser"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Meta-analysis of knowledge assets for continuous improvement of maintenance cost controlling",
+                "year": 2014,
+                "yearinfo": "F Ansari Chaharsoughi - 2014 - dspace.ub.uni-siegen.de",
+                "writer": [
+                    "F Ansari Chaharsoughi"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Meta-analysis of knowledge assets for continuous improvement of maintenance cost controlling.pdf",
+                "file_url": "https://dspace.ub.uni-siegen.de/handle/ubsi/840"
+            },
+            {
+                "name": "The Role of Knowledge Management in the Organizations",
+                "year": 2012,
+                "yearinfo": "RM Matei - Annals Constantin Brancusi U. Targu Jiu, Letters \u0026 Soc …, 2012 - HeinOnline",
+                "writer": [
+                    "RM Matei "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "The Role of Knowledge Management in the Organizations.pdf",
+                "file_url": "https://www.utgjiu.ro/revista/lit/pdf/2012-04/18_RAMONA_MIHAELA_MATEI.pdf"
+            }
+        ],
+        "url": "https://scholar.google.de/scholar?cites=11801859989563994341\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+        "file": "Knowledge management  more than a buzzword.pdf",
+        "file_url": "https://www.academia.edu/download/3253684/Organizing_the_Toolbox-Typology_and_Alignment_of_KI_Solutions.pdf#page=12"
+    },
+    {
+        "name": "Developing organizational agility through IT capability and KM capability  The moderating effects of organizational climate",
+        "year": 2013,
+        "yearinfo": "Z Cai, Q Huang, H Liu, RM Davison, L Liang - 2013 - scholar.archive.org",
+        "writer": [
+            "Z Cai",
+            "Q Huang",
+            "H Liu",
+            "RM Davison"
+        ],
+        "cites_nr": 32,
+        "cites": [
+            {
+                "name": "Impact of organizational culture values on organizational agility",
+                "year": 2017,
+                "yearinfo": "CM Felipe, JL Roldán, AL Leal-Rodríguez - Sustainability, 2017 - mdpi.com",
+                "writer": [
+                    "CM Felipe",
+                    "JL Roldán",
+                    "AL Leal-Rodríguez"
+                ],
+                "cites_nr": 216,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=16646745671286180503\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Impact of organizational culture values on organizational agility.pdf",
+                "file_url": "https://www.mdpi.com/2071-1050/9/12/2354/pdf"
+            },
+            {
+                "name": "Unlocking the drivers of big data analytics value in firms",
+                "year": 2019,
+                "yearinfo": "N Côrte-Real, P Ruivo, T Oliveira, A Popovič - Journal of Business …, 2019 - Elsevier",
+                "writer": [
+                    "P Ruivo",
+                    "T Oliveira",
+                    "A Popovič"
+                ],
+                "cites_nr": 120,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=11823870056963022130\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Unlocking the drivers of big data analytics value in firms.pdf",
+                "file_url": "https://translateyar.ir/wp-content/uploads/2020/02/Unlocking.pdf"
+            },
+            {
+                "name": "Organizational agility conceptual model",
+                "year": 2018,
+                "yearinfo": "R Žitkienė, M Deksnys - 2018 - repository.mruni.eu",
+                "writer": [
+                    "R Žitkienė, M Deksnys "
+                ],
+                "cites_nr": 86,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=10917691490449716386\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Organizational agility conceptual model.pdf",
+                "file_url": "https://repository.mruni.eu/bitstream/handle/007/15370/29296000.pdf?sequence=1\u0026isAllowed=y"
+            },
+            {
+                "name": "Pros and cons of implementing Industry 4.0 for the organizations  a review and synthesis of evidence",
+                "year": 2020,
+                "yearinfo": "M Sony - Production \u0026 Manufacturing Research, 2020 - Taylor \u0026 Francis",
+                "writer": [
+                    "M Sony"
+                ],
+                "cites_nr": 66,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=13970133950437330921\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Pros and cons of implementing Industry 4.0 for the organizations  a review and synthesis of evidence.pdf",
+                "file_url": "/scholar?output=instlink\u0026q=info:6Q9xnM_i38EJ:scholar.google.com/\u0026hl=de\u0026oe=ASCII\u0026as_sdt=2005\u0026sciodt=0,5\u0026scillfp=5651596474483970523\u0026oi=lle"
+            },
+            {
+                "name": "Information technology capabilities and organizational agility  The mediating effects of open innovation capabilities",
+                "year": 2018,
+                "yearinfo": "J Cepeda, J Arias-Pérez - Multinational Business Review, 2018 - emerald.com",
+                "writer": [
+                    "J Cepeda",
+                    "J Arias-Pérez"
+                ],
+                "cites_nr": 64,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=16091332286622904155\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Implementing sustainable operational excellence in organizations  an integrative viewpoint",
+                "year": 2019,
+                "yearinfo": "M Sony - Production \u0026 Manufacturing Research, 2019 - Taylor \u0026 Francis",
+                "writer": [
+                    "M Sony"
+                ],
+                "cites_nr": 43,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=10230893885917462741\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Implementing sustainable operational excellence in organizations  an integrative viewpoint.pdf",
+                "file_url": "/scholar?output=instlink\u0026q=info:1YDTnMhv-40J:scholar.google.com/\u0026hl=de\u0026oe=ASCII\u0026as_sdt=2005\u0026sciodt=0,5\u0026scillfp=8792420663640195751\u0026oi=lle"
+            },
+            {
+                "name": "The effect of human IT capability on organizational agility  an empirical analysis",
+                "year": 2017,
+                "yearinfo": "S Panda, SK Rath - Management Research Review, 2017 - emerald.com",
+                "writer": [
+                    "S Panda",
+                    "SK Rath"
+                ],
+                "cites_nr": 38,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=4428669846882474413\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Knowledge Management Capability and Firm Performance  the Mediating Role of Organizational Agility.",
+                "year": 2014,
+                "yearinfo": "H Liu, D Song, Z Cai - PACIS, 2014 - Citeseer",
+                "writer": [
+                    "H Liu",
+                    "Z Cai"
+                ],
+                "cites_nr": 30,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=11895478452091970804\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Knowledge Management Capability and Firm Performance  the Mediating Role of Organizational Agility..pdf",
+                "file_url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1062.8413\u0026rep=rep1\u0026type=pdf"
+            },
+            {
+                "name": "Information technology capability, knowledge management capability, and organizational agility  The role of environmental factors",
+                "year": 2021,
+                "yearinfo": "S Panda, SK Rath - Journal of Management \u0026 Organization, 2021 - cambridge.org",
+                "writer": [
+                    "S Panda",
+                    "SK Rath"
+                ],
+                "cites_nr": 29,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=13700736450390532549\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Diving into the relationship of information technology and organizational agility  a meta-analysis",
+                "year": 2016,
+                "yearinfo": "D Leonhardt, M Mandrella, LM Kolbe - 2016 - researchgate.net",
+                "writer": [
+                    "M Mandrella"
+                ],
+                "cites_nr": 21,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=6941142686106022588\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Diving into the relationship of information technology and organizational agility  a meta-analysis.pdf",
+                "file_url": "https://www.researchgate.net/profile/Daniel-Leonhardt-3/publication/309741604_Diving_into_the_Relationship_of_Information_Technology_and_Organizational_Agility_A_Meta-Analysis/links/58514ee408ae95fd8e155e62/Diving-into-the-Relationship-of-Information-Technology-and-Organizational-Agility-A-Meta-Analysis.pdf"
+            },
+            {
+                "name": "A text mining-based review of the literature on dynamic capabilities perspective in information systems research",
+                "year": 2020,
+                "yearinfo": "M Talafidaryani - Management Research Review, 2020 - emerald.com",
+                "writer": [
+                    "M Talafidaryani "
+                ],
+                "cites_nr": 18,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=15467927631242234269\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Modelling the relationship between information technology infrastructure and organizational agility  A study in the context of India",
+                "year": 2018,
+                "yearinfo": "S Panda, SK Rath - Global Business Review, 2018 - journals.sagepub.com",
+                "writer": [
+                    "S Panda",
+                    "SK Rath"
+                ],
+                "cites_nr": 22,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=2333740260581565809\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "The impact of information technology capability, business intelligence use and collaboration capability on organizational performance among public listed …",
+                "year": 2018,
+                "yearinfo": "TA Ping, CV Chinn, LY Yin… - Global Business and …, 2018 - academia.edu",
+                "writer": [
+                    "TA Ping, CV Chinn, LY Yin… "
+                ],
+                "cites_nr": 12,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=13390816046685313769\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "The impact of information technology capability, business intelligence use and collaboration capability on organizational performance among public listed ….pdf",
+                "file_url": "https://www.academia.edu/download/57680241/V10N1_19.pdf"
+            },
+            {
+                "name": "Organizational agility in high growth companies",
+                "year": 2018,
+                "yearinfo": "M Deksnys - 2018 - repository.mruni.eu",
+                "writer": [
+                    "M Deksnys "
+                ],
+                "cites_nr": 6,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=7253785451738295364\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Organizational agility in high growth companies.pdf",
+                "file_url": "https://repository.mruni.eu/bitstream/handle/007/15317/Mindaugas_Deksnys_MRU_disertacija_WEB.pdf?sequence=2"
+            },
+            {
+                "name": "Strategic IT-business alignment capability and organizational performance  roles of organizational agility and environmental factors",
+                "year": 2021,
+                "yearinfo": "S Panda - Journal of Asia Business Studies, 2021 - emerald.com",
+                "writer": [
+                    "S Panda"
+                ],
+                "cites_nr": 5,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=12480032840046947201\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "IT 能力与市场响应性的关系研究",
+                "year": 2015,
+                "yearinfo": "陈猛， 刘和福， 魏少波 - 管理学报, 2015 - cqvip.com",
+                "writer": [
+                    "陈猛， 刘和福， 魏少波 "
+                ],
+                "cites_nr": 3,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=2091514406109255306\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "共享心智模式, 过程敏捷性与团队绩效关系研究",
+                "year": 2015,
+                "yearinfo": "孙彤彤， 夏维力， 魏星集 - 科技进步与对策, 2015 - kjjb.org",
+                "writer": [
+                    "孙彤彤， 夏维力， 魏星集 "
+                ],
+                "cites_nr": 3,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=17622314783393174434\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "共享心智模式, 过程敏捷性与团队绩效关系研究.pdf",
+                "file_url": "http://www.kjjb.org/CN/article/downloadArticleFile.do?attachType=PDF\u0026id=7897"
+            },
+            {
+                "name": "Organizational Strategic Capabilities, Compliance with Regulations and Competitive Advantage of Commercial Banks in Kenya",
+                "year": 2020,
+                "yearinfo": "JG KAMAU - 2020 - repository.kemu.ac.ke",
+                "writer": [
+                    "JG KAMAU "
+                ],
+                "cites_nr": 2,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=11994328738843111713\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Organizational Strategic Capabilities, Compliance with Regulations and Competitive Advantage of Commercial Banks in Kenya.pdf",
+                "file_url": "http://repository.kemu.ac.ke:8080/xmlui/bitstream/handle/123456789/853/James%20Gathogo%20Kamau%20Thesis.pdf?sequence=1\u0026isAllowed=y"
+            },
+            {
+                "name": "Strategic Agility  A Panacea for Organizational Sustainability Focus on Selected Management Development Institutions (MDIs) in Nigeria Perspective",
+                "year": 2020,
+                "yearinfo": "AI Otsupius, AA Akintaro - Nigerian Academy of Management …, 2020 - namj.tamn-ng.org",
+                "writer": [
+                    "AI Otsupius"
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=13263342422140670691\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Strategic Agility  A Panacea for Organizational Sustainability Focus on Selected Management Development Institutions (MDIs) in Nigeria Perspective.pdf",
+                "file_url": "https://namj.tamn-ng.org/index.php/home/article/download/14/11"
+            },
+            {
+                "name": "Relationships of technical, semantic, and organizational factors on electronic government information systems interoperability in Jordan",
+                "year": 2018,
+                "yearinfo": "NAA Sulehat - 2018 - etd.uum.edu.my",
+                "writer": [
+                    "NAA Sulehat"
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=746485607137447500\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Relationships of technical, semantic, and organizational factors on electronic government information systems interoperability in Jordan.pdf",
+                "file_url": "https://etd.uum.edu.my/7985/2/s900976_02.pdf"
+            },
+            {
+                "name": "Raw Material Market Disruptions During COVID-19  How Agility Can Create a Competitive Advantage?",
+                "year": 2022,
+                "yearinfo": "IF Zamfir - Proceedings of the International Conference on …, 2022 - sciendo.com",
+                "writer": [
+                    "IF Zamfir "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "The Relationship between Organizational Entrepreneurship and Organizational Agility with Knowledge Management Mediation (Marvdasht Boys and Girls Technical …",
+                "year": 2020,
+                "yearinfo": "H AflakiFard, M Ghale Noee - Journal of New Approaches in …, 2020 - jedu.miau.ac.ir",
+                "writer": [
+                    "H AflakiFard, M Ghale Noee "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Improve the Information Technology Infrastructure at Saudia Airlines by Adapting and Implementing Agile Project Management Methodology",
+                "year": 0,
+                "yearinfo": "IT Aseeri - platform.almanhal.com",
+                "writer": [
+                    "IT Aseeri "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "STRATEGIC AGILITY  A PANACEA FOR ORGANIZATIONAL SUSTAINABILITY MANAGEMENT DEVELOPMENT INSTITUTIONS (MDIS) IN NIGERIA …",
+                "year": 0,
+                "yearinfo": "A Otsupius - The Academy of Management Nigeria (TAMN) - researchgate.net",
+                "writer": [
+                    "A Otsupius"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "STRATEGIC AGILITY  A PANACEA FOR ORGANIZATIONAL SUSTAINABILITY MANAGEMENT DEVELOPMENT INSTITUTIONS (MDIS) IN NIGERIA ….pdf",
+                "file_url": "https://www.researchgate.net/profile/Ali-Abubakar-2/publication/362902518_13th-Conference-Proceedings-Complete/links/63062a775eed5e4bd1180480/13th-Conference-Proceedings-Complete.pdf#page=1304"
+            },
+            {
+                "name": "DEVELOPMENT OF THE LLaS GGGG LL GLLLS GGGGS LGGLGGGG GG SGLGGG GG LL ADVANTAGES (OF (COMPETITIVE SHARIA",
+                "year": 0,
+                "yearinfo": "LNB Cahyono - research.unissula.ac.id",
+                "writer": [
+                    "LNB Cahyono "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "DEVELOPMENT OF THE LLaS GGGG LL GLLLS GGGGS LGGLGGGG GG SGLGGG GG LL ADVANTAGES (OF (COMPETITIVE SHARIA.pdf",
+                "file_url": "http://research.unissula.ac.id/bo/reviewer/210416055/62847th_aicif.pdf"
+            },
+            {
+                "name": "",
+                "year": 2017,
+                "yearinfo": "M Mandrella - 2017 - Cuvillier Verlag",
+                "writer": [
+                    "M Mandrella"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": ".pdf",
+                "file_url": "https://cuvillier.de/uploads/preview/public_file/10806/9783736996953_Leseprobe.pdf"
+            },
+            {
+                "name": "The effect of organisational agility as mediator in the relationship between knowledge management, and competitive advantage and innovation in sport organisations",
+                "year": 2022,
+                "yearinfo": "M Salimi, A Nazarian - International Journal of Knowledge …, 2022 - inderscienceonline.com",
+                "writer": [
+                    "M Salimi"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "The effect of organisational agility as mediator in the relationship between knowledge management, and competitive advantage and innovation in sport organisations.pdf",
+                "file_url": "https://www.researchgate.net/profile/Ali-Nazarian/publication/359778146_The_effect_of_organisational_agility_as_mediator_in_the_relationship_between_knowledge_management_and_competitive_advantage_and_innovation_in_sport_organisations/links/62e56b8d9d410c5ff371fe32/The-effect-of-organisational-agility-as-mediator-in-the-relationship-between-knowledge-management-and-competitive-advantage-and-innovation-in-sport-organisations.pdf?_sg%5B0%5D=started_experiment_milestone\u0026origin=journalDetail"
+            },
+            {
+                "name": "The Effect of Disruption Technology, and the Future Knowledge Management toward Service Innovation for Telecommunication Industry 4.0 in Indonesia",
+                "year": 0,
+                "yearinfo": "S Librita Arifiani, MM Dyah Budiastuti… - researchgate.net",
+                "writer": [
+                    "S Librita Arifiani"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "The Effect of Disruption Technology, and the Future Knowledge Management toward Service Innovation for Telecommunication Industry 4.0 in Indonesia.pdf",
+                "file_url": "https://www.researchgate.net/profile/Erika-Ravine/publication/339497341_The_Effect_of_Disruption_Technology_and_the_Future_Knowledge_Management_toward_Service_Innovation_for_Telecommunication_Industry_40_in_Indonesia/links/5e55ccbca6fdccbeba030bab/The-Effect-of-Disruption-Technology-and-the-Future-Knowledge-Management-toward-Service-Innovation-for-Telecommunication-Industry-40-in-Indonesia.pdf"
+            },
+            {
+                "name": "تحقيق جودة المنتوج باستعمال الرشاقة التنظيمية/دراسة حالة في شركة النعمان العامة",
+                "year": 2017,
+                "yearinfo": "اياد محمود الرحيم… - Journal of Economics …, 2017 - jeasiq.uobaghdad.edu.iq",
+                "writer": [
+                    "اياد محمود الرحيم… "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "تحقيق جودة المنتوج باستعمال الرشاقة التنظيمية/دراسة حالة في شركة النعمان العامة.pdf",
+                "file_url": "https://jeasiq.uobaghdad.edu.iq/index.php/JEASIQ/article/download/239/209"
+            },
+            {
+                "name": "أثـر ممارسات الإدارة بالاحتواء العالي في تعزيـز الرشاقة التنظيمية  دراسة ميدانية",
+                "year": 2021,
+                "yearinfo": "مي محمود - المجلة العربية للإدارة, 2021 - journals.ekb.eg",
+                "writer": [
+                    "مي محمود"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "أثـر ممارسات الإدارة بالاحتواء العالي في تعزيـز الرشاقة التنظيمية  دراسة ميدانية.pdf",
+                "file_url": "https://journals.ekb.eg/article_151016_398b2051590fbb4697992c31b5692e9d.pdf"
+            },
+            {
+                "name": "El concepto de agilidad organizativa como capacidad dinámica  estudio de variables antecedentes y efectos sobre el rendimiento organizativo",
+                "year": 2020,
+                "yearinfo": "CM Felipe Llanos - 2020 - idus.us.es",
+                "writer": [
+                    "CM Felipe Llanos "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "El concepto de agilidad organizativa como capacidad dinámica  estudio de variables antecedentes y efectos sobre el rendimiento organizativo.pdf",
+                "file_url": "https://idus.us.es/bitstream/handle/11441/109040/3/Felipe%20LLanos%2C%20Carmen%20Licencia.pdf?sequence=1"
+            },
+            {
+                "name": "GDISD 团队敏捷性前因后果实证研究",
+                "year": 2018,
+                "yearinfo": "孙彤彤， 殷茗， 宫淑燕 - 科技进步与对策, 2018 - kjjb.org",
+                "writer": [
+                    "孙彤彤， 殷茗， 宫淑燕 "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "GDISD 团队敏捷性前因后果实证研究.pdf",
+                "file_url": "http://www.kjjb.org/CN/article/downloadArticleFile.do?attachType=PDF\u0026id=17097"
+            }
+        ],
+        "url": "https://scholar.google.de/scholar?cites=11744328767047600174\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+        "file": "Developing organizational agility through IT capability and KM capability  The moderating effects of organizational climate.pdf",
+        "file_url": "https://scholar.archive.org/work/qkmlaqudujbd5ljgxflz3vsbtq/access/wayback/https://aisel.aisnet.org/cgi/viewcontent.cgi?referer=\u0026httpsredir=1\u0026article=1245\u0026context=pacis2013"
+    },
+    {
+        "name": "Organizational learning in the rise of machine learning",
+        "year": 2019,
+        "yearinfo": "R Afiouni - 2019 - core.ac.uk",
+        "writer": [
+            "R Afiouni "
+        ],
+        "cites_nr": 8,
+        "cites": [
+            {
+                "name": "Artificial intelligence in information systems research  A systematic literature review and research agenda",
+                "year": 2021,
+                "yearinfo": "C Collins, D Dennehy, K Conboy, P Mikalef - International Journal of …, 2021 - Elsevier",
+                "writer": [
+                    "D Dennehy",
+                    "K Conboy",
+                    "P Mikalef"
+                ],
+                "cites_nr": 100,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=3385487231249881870\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Artificial intelligence in information systems research  A systematic literature review and research agenda.pdf",
+                "file_url": "https://www.sciencedirect.com/science/article/pii/S0268401221000761"
+            },
+            {
+                "name": "Artificial intelligence and business value  a literature review",
+                "year": 2021,
+                "yearinfo": "IM Enholm, E Papagiannidis, P Mikalef… - Information Systems …, 2021 - Springer",
+                "writer": [
+                    "E Papagiannidis",
+                    "P Mikalef"
+                ],
+                "cites_nr": 44,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=6325244944493650935\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Artificial intelligence and business value  a literature review.pdf",
+                "file_url": "https://link.springer.com/article/10.1007/s10796-021-10186-w"
+            },
+            {
+                "name": "Strategi Manajemen Sumber Daya Manusia dalam Mengelola Kepemimpinan Millenial Untuk Meningkatkan Produktivitas Karyawan yang Didukung oleh Teknologi …",
+                "year": 2021,
+                "yearinfo": "YSP Ongkowijoyo - Jurnal Indonesia Sosial Teknologi, 2021 - jist.publikasiindonesia.id",
+                "writer": [
+                    "YSP Ongkowijoyo "
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=15152574152302719467\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Strategi Manajemen Sumber Daya Manusia dalam Mengelola Kepemimpinan Millenial Untuk Meningkatkan Produktivitas Karyawan yang Didukung oleh Teknologi ….pdf",
+                "file_url": "https://jist.publikasiindonesia.id/index.php/jist/article/download/171/356"
+            },
+            {
+                "name": "Nordic no more? How recent trends may prevent the Nordic organization model to adapt and develop",
+                "year": 2022,
+                "yearinfo": "P Tryding - The Learning Organization, 2022 - emerald.com",
+                "writer": [
+                    "P Tryding "
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=125524967837547226\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "THE LIFE CYCLE OF DATA LABELS IN ORGANIZATIONAL LEARNING  A CASE STUDY OF THE AUTOMOTIVE INDUSTRY",
+                "year": 2022,
+                "yearinfo": "J Eirich, D Fischer-Pressler - 2022 - aisel.aisnet.org",
+                "writer": [
+                    "J Eirich",
+                    "D Fischer-Pressler"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "THE LIFE CYCLE OF DATA LABELS IN ORGANIZATIONAL LEARNING  A CASE STUDY OF THE AUTOMOTIVE INDUSTRY.pdf",
+                "file_url": "https://www.researchgate.net/profile/Joscha-Eirich/publication/360218992_THE_LIFE_CYCLE_OF_DATA_LABELS_IN_ORGANIZATIONAL_LEARNING_A_CASE_STUDY_OF_THE_AUTOMOTIVE_INDUSTRY/links/626929678e6d637bd102a9e8/THE-LIFE-CYCLE-OF-DATA-LABELS-IN-ORGANIZATIONAL-LEARNING-A-CASE-STUDY-OF-THE-AUTOMOTIVE-INDUSTRY.pdf"
+            },
+            {
+                "name": "Artificial Intelligence in strategic marketing  Value generation and mechanisms of action",
+                "year": 2022,
+                "yearinfo": "H Singh - 2022 - ntnuopen.ntnu.no",
+                "writer": [
+                    "H Singh "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Artificial Intelligence in strategic marketing  Value generation and mechanisms of action.pdf",
+                "file_url": "https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/3018579/no.ntnu%3Ainspera%3A112046434%3A26326219.pdf?sequence=1"
+            },
+            {
+                "name": "Design and analysis overview of dual arm robots",
+                "year": -2022,
+                "yearinfo": "D Lončar, D Mijolović - Ri-STEM-2022 - researchgate.net",
+                "writer": [
+                    "D Mijolović"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Design and analysis overview of dual arm robots.pdf",
+                "file_url": "https://www.researchgate.net/profile/Sandi-Baressi-Segota/publication/361183187_RI-STEM-2022_Proceedings/links/62a1ae5655273755ebdf5c67/RI-STEM-2022-Proceedings.pdf#page=79"
+            },
+            {
+                "name": "Are we Nearly There Yet? A Desires \u0026 Realities Framework for Europe's AI Strategy",
+                "year": 2022,
+                "yearinfo": "A Polyviou, ED Zamani - Information Systems Frontiers, 2022 - Springer",
+                "writer": [
+                    "A Polyviou",
+                    "ED Zamani"
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=7405264168251944489\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "The importance of humanizing AI  using a behavioral lens to bridge the gaps between humans and machines",
+                "year": 2022,
+                "yearinfo": "A Fenwick, G Molnar - Discover Artificial Intelligence, 2022 - Springer",
+                "writer": [
+                    "A Fenwick",
+                    "G Molnar"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "The importance of humanizing AI  using a behavioral lens to bridge the gaps between humans and machines.pdf",
+                "file_url": "https://link.springer.com/article/10.1007/s44163-022-00030-8"
+            }
+        ],
+        "url": "https://scholar.google.de/scholar?cites=14586063585711958179\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+        "file": "Organizational learning in the rise of machine learning.pdf",
+        "file_url": "https://core.ac.uk/download/pdf/301385554.pdf"
+    },
+    {
+        "name": "Business process management",
+        "year": 2018,
+        "yearinfo": "A Kumar - 2018 - taylorfrancis.com",
+        "writer": [
+            "A Kumar"
+        ],
+        "cites_nr": 55,
+        "cites": [
+            {
+                "name": "Business process management architectures",
+                "year": 2007,
+                "yearinfo": "M Weske - 2007 - Springer",
+                "writer": [
+                    "M Weske"
+                ],
+                "cites_nr": 4665,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=17184533724470706459\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Business process management architectures.pdf",
+                "file_url": "http://eprints.stiperdharmawacana.ac.id/146/1/2007%20-%20%28EBOOK%29%20Business%20Process%20Management%20-%20Concept%20Language%20Architecture.pdf"
+            },
+            {
+                "name": "Efficient consistency measurement based on behavioral profiles of process models",
+                "year": 2010,
+                "yearinfo": "M Weidlich, J Mendling, M Weske - IEEE Transactions on …, 2010 - ieeexplore.ieee.org",
+                "writer": [
+                    "M Weidlich",
+                    "J Mendling",
+                    "M Weske"
+                ],
+                "cites_nr": 296,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=8236676919914345134\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Current research in risk-aware business process management―overview, comparison, and gap analysis",
+                "year": 2014,
+                "yearinfo": "S Suriadi, B Weiß, A Winkelmann… - … of the Association for …, 2014 - aisel.aisnet.org",
+                "writer": [
+                    "S Suriadi",
+                    "A Winkelmann"
+                ],
+                "cites_nr": 114,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=17396209603536983612\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Current research in risk-aware business process management―overview, comparison, and gap analysis.pdf",
+                "file_url": "https://eprints.qut.edu.au/50606/158/50606.pdf"
+            },
+            {
+                "name": "A decade of business process management conferences  personal reflections on a developing discipline",
+                "year": 2012,
+                "yearinfo": "WMP Van der Aalst - International Conference on Business Process …, 2012 - Springer",
+                "writer": [
+                    "WMP Van der Aalst"
+                ],
+                "cites_nr": 101,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=3830815618629581164\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Change propagation in process models using behavioural profiles",
+                "year": 2009,
+                "yearinfo": "M Weidlich, M Weske, J Mendling - 2009 IEEE International …, 2009 - ieeexplore.ieee.org",
+                "writer": [
+                    "M Weidlich",
+                    "M Weske",
+                    "J Mendling"
+                ],
+                "cites_nr": 92,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=15421807727720830390\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Change propagation in process models using behavioural profiles.pdf",
+                "file_url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.540.6234\u0026rep=rep1\u0026type=pdf"
+            },
+            {
+                "name": "Propagating changes between aligned process models",
+                "year": 2012,
+                "yearinfo": "M Weidlich, J Mendling, M Weske - Journal of Systems and Software, 2012 - Elsevier",
+                "writer": [
+                    "M Weidlich",
+                    "J Mendling",
+                    "M Weske"
+                ],
+                "cites_nr": 61,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=131915547244501123\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Propagating changes between aligned process models.pdf",
+                "file_url": "https://epub.wu.ac.at/3497/1/JSS12-change.pdf"
+            },
+            {
+                "name": "Process compliance measurement based on behavioural profiles",
+                "year": 2010,
+                "yearinfo": "M Weidlich, A Polyvyanyy, N Desai… - … Conference on Advanced …, 2010 - Springer",
+                "writer": [
+                    "M Weidlich",
+                    "A Polyvyanyy",
+                    "N Desai"
+                ],
+                "cites_nr": 61,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=1572033815016810540\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Process compliance measurement based on behavioural profiles.pdf",
+                "file_url": "https://link.springer.com/content/pdf/10.1007/978-3-642-13094-6_38.pdf"
+            },
+            {
+                "name": "Incremental declarative process mining",
+                "year": 2010,
+                "yearinfo": "M Cattafi, E Lamma, F Riguzzi, S Storari - Smart Information and …, 2010 - Springer",
+                "writer": [
+                    "E Lamma",
+                    "F Riguzzi"
+                ],
+                "cites_nr": 24,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=6279890895076750578\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Incremental declarative process mining.pdf",
+                "file_url": "https://www.researchgate.net/profile/Zdzislaw-Kowalczuk/publication/239578832_Designing_Optimal_Operational-Point_Trajectories_Using_an_Intelligent_Sub-strategy_Agent-Based_Approach/links/0c9605318ed575e5bb000000/Designing-Optimal-Operational-Point-Trajectories-Using-an-Intelligent-Sub-strategy-Agent-Based-Approach.pdf#page=114"
+            },
+            {
+                "name": "Computation of behavioural profiles of process models",
+                "year": 2009,
+                "yearinfo": "M Weidlich, J Mendling, M Weske - Business Process Technology …, 2009 - researchgate.net",
+                "writer": [
+                    "M Weidlich",
+                    "J Mendling",
+                    "M Weske"
+                ],
+                "cites_nr": 21,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=8109171100167805978\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Computation of behavioural profiles of process models.pdf",
+                "file_url": "https://www.researchgate.net/profile/Jan-Mendling/publication/228704722_Computation_of_Behavioural_Profiles_of_Processes_Models/links/09e4150a26bf98f342000000/Computation-of-Behavioural-Profiles-of-Processes-Models.pdf"
+            },
+            {
+                "name": "Modeling iot-aware business processes-a state of the art report",
+                "year": 2018,
+                "yearinfo": "N Brouns, S Tata, H Ludwig, ES Asensio… - arXiv preprint arXiv …, 2018 - arxiv.org",
+                "writer": [
+                    "S Tata",
+                    "H Ludwig"
+                ],
+                "cites_nr": 22,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=13281766256872165745\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Modeling iot-aware business processes-a state of the art report.pdf",
+                "file_url": "https://arxiv.org/pdf/1811.00652"
+            },
+            {
+                "name": "User-centered design and fast prototyping of an ambient assisted living system for elderly people",
+                "year": 2009,
+                "yearinfo": "S Kieffer, JYL Lawson, B Macq - 2009 Sixth International …, 2009 - ieeexplore.ieee.org",
+                "writer": [
+                    "S Kieffer",
+                    "B Macq"
+                ],
+                "cites_nr": 14,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=3659107822810036273\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Representing business processes  conceptual model and design methodology",
+                "year": 2008,
+                "yearinfo": "M Chinosi - Universita degli Studi dell'Insubria Dipartimento di …, 2008 - academia.edu",
+                "writer": [
+                    "M Chinosi"
+                ],
+                "cites_nr": 13,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=12033099928738740032\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Representing business processes  conceptual model and design methodology.pdf",
+                "file_url": "https://www.academia.edu/download/7557584/MicheleChinosi_PhD_reduced.pdf"
+            },
+            {
+                "name": "Human resource allocation or recommendation based on multi-factor criteria in on-demand and batch scenarios",
+                "year": 2018,
+                "yearinfo": "M Arias, J Munoz-Gama, M Sepúlveda… - European Journal of …, 2018 - portal.so.ucr.ac.cr",
+                "writer": [
+                    "M Arias",
+                    "J Munoz-Gama",
+                    "M Sepúlveda"
+                ],
+                "cites_nr": 16,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=9574479912927643051\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Human resource allocation or recommendation based on multi-factor criteria in on-demand and batch scenarios.pdf",
+                "file_url": "https://portal.so.ucr.ac.cr/sites/default/files/documents/2018_Human%20Resource%20Allocation%20or%20Recommendation%20Based%20in%20Multi-factor%20Criterion%20in%20On-demand%20and%20Batch%20Scenarios.pdf"
+            },
+            {
+                "name": "Semantic business process modeling",
+                "year": 2014,
+                "yearinfo": "I Markovic - 2014 - books.google.com",
+                "writer": [
+                    "I Markovic "
+                ],
+                "cites_nr": 13,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=18232721621859501374\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Semantic business process modeling.pdf",
+                "file_url": "https://books.google.de/books?hl=de\u0026lr=\u0026id=4WTIDws-F9gC\u0026oi=fnd\u0026pg=PA3\u0026ots=gspVBnjV45\u0026sig=wgwPd5aINu5YwOklVvZd1lieYEE"
+            },
+            {
+                "name": "Effective management  Developing yourself, others and organizations",
+                "year": 2020,
+                "yearinfo": "D Sternad - 2020 - Springer",
+                "writer": [
+                    "D Sternad "
+                ],
+                "cites_nr": 9,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=1469182835716689411\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Research challenges on person-centric flows.",
+                "year": 2010,
+                "yearinfo": "T Unger, H Eberle, F Leymann - ZEUS, 2010 - researchgate.net",
+                "writer": [
+                    "F Leymann"
+                ],
+                "cites_nr": 7,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=15983517190360643041\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Research challenges on person-centric flows..pdf",
+                "file_url": "https://www.researchgate.net/profile/Sebastian-Wagner-4/publication/42599945_On_Designing_a_People-oriented_Constraint-based_Workflow_Language/links/54b91a500cf269d8cbf73111/On-Designing-a-People-oriented-Constraint-based-Workflow-Language.pdf#page=97"
+            },
+            {
+                "name": "Integrating Data for Business Process Management.",
+                "year": 2009,
+                "yearinfo": "HL Truong, S Dustdar - IEEE Data Eng. Bull., 2009 - Citeseer",
+                "writer": [
+                    "HL Truong",
+                    "S Dustdar"
+                ],
+                "cites_nr": 7,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=12130881572083454380\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Integrating Data for Business Process Management..pdf",
+                "file_url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.183.76\u0026rep=rep1\u0026type=pdf#page=50"
+            },
+            {
+                "name": "Beautiful workflows  a matter of taste?",
+                "year": 2013,
+                "yearinfo": "WMP Van Der Aalst, M Westergaard… - The Beauty of Functional …, 2013 - Springer",
+                "writer": [
+                    "WMP Van Der Aalst",
+                    "M Westergaard"
+                ],
+                "cites_nr": 6,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=9043289658412778418\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Beautiful workflows  a matter of taste?.pdf",
+                "file_url": "http://www.padsweb.rwth-aachen.de/wvdaalst/old/publications/p749.pdf"
+            },
+            {
+                "name": "Data impact analysis in business processes",
+                "year": 2020,
+                "yearinfo": "A Tsoury, P Soffer, I Reinhartz-Berger - Business \u0026 Information Systems …, 2020 - Springer",
+                "writer": [
+                    "A Tsoury",
+                    "P Soffer",
+                    "I Reinhartz-Berger"
+                ],
+                "cites_nr": 5,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=15616521066136977555\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Data impact analysis in business processes.pdf",
+                "file_url": "https://core.ac.uk/download/pdf/301387120.pdf"
+            },
+            {
+                "name": "Evolution of enterprise systems architectures",
+                "year": 2019,
+                "yearinfo": "M Weske - Business Process Management, 2019 - Springer",
+                "writer": [
+                    "M Weske"
+                ],
+                "cites_nr": 6,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=14317289647379118026\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "",
+                "year": 2018,
+                "yearinfo": "D Rodríguez, E Molina - Advances in Science, Technology and Engineering …, 2018",
+                "writer": [
+                    "D Rodríguez, E Molina "
+                ],
+                "cites_nr": 2,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=15783994395265776591\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Business Capability-centric Management of Services and Process Models.",
+                "year": 2017,
+                "yearinfo": "W Derguech - BPM (Demos), 2017 - researchgate.net",
+                "writer": [
+                    "W Derguech"
+                ],
+                "cites_nr": 2,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=6282116274372668015\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Business Capability-centric Management of Services and Process Models..pdf",
+                "file_url": "https://www.researchgate.net/profile/Wassim-Derguech/publication/312878994_Business_capability-centric_management_of_services_and_processes_models/links/5888b12aa6fdcc9a35c10e78/Business-capability-centric-management-of-services-and-processes-models.pdf"
+            },
+            {
+                "name": "",
+                "year": 2014,
+                "yearinfo": "J Pérez Santiago - 2014 - … Central “Marta Abreu” de Las Villas",
+                "writer": [
+                    "J Pérez Santiago "
+                ],
+                "cites_nr": 2,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=9394075880339078189\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "A measure consistency method for overlapping correspondence of workflow nets based on relation profiles partner matrix",
+                "year": 2021,
+                "yearinfo": "M Wang, P Zhao - IEEE Access, 2021 - ieeexplore.ieee.org",
+                "writer": [
+                    "M Wang",
+                    "P Zhao"
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=17936544506382767568\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "A measure consistency method for overlapping correspondence of workflow nets based on relation profiles partner matrix.pdf",
+                "file_url": "https://ieeexplore.ieee.org/iel7/6287639/9312710/09443186.pdf"
+            },
+            {
+                "name": "Improving the quality of the analysis process of technical documentation in an aerospace organization",
+                "year": 2021,
+                "yearinfo": "AM Ţîţu, AB Pop - International Journal of Mechatronics and Applied …, 2021 - ijomam.com",
+                "writer": [
+                    "AM Ţîţu",
+                    "AB Pop"
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=695362749341585797\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Improving the quality of the analysis process of technical documentation in an aerospace organization.pdf",
+                "file_url": "https://ijomam.com/wp-content/uploads/2021/07/pag.-175-181_IMPROVING-THE-QUALITY-OF-THE-ANALYSIS-PROCESS-OF-TECHNICAL-DOCUMENTATION-IN-AEROSPACE-ORGANIZATION.pdf"
+            },
+            {
+                "name": "Budgeting Integration with a Business Strategy and Accounting System in Business Process Management-Case Study of Ukrainian Company.",
+                "year": 2019,
+                "yearinfo": "V Yatsenko, Y Kudriavets - ICTERI Workshops, 2019 - ceur-ws.org",
+                "writer": [
+                    "V Yatsenko"
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=11190406424794370812\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Budgeting Integration with a Business Strategy and Accounting System in Business Process Management-Case Study of Ukrainian Company..pdf",
+                "file_url": "http://ceur-ws.org/Vol-2393/paper_307.pdf"
+            },
+            {
+                "name": "Structural Matching of Process Models for Change Detection",
+                "year": 2009,
+                "yearinfo": "M Fazal-Baqaie - 2009 - Citeseer",
+                "writer": [
+                    "M Fazal-Baqaie"
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=14835322655742594534\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Structural Matching of Process Models for Change Detection.pdf",
+                "file_url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.674.6838\u0026rep=rep1\u0026type=pdf"
+            },
+            {
+                "name": "Web-based Editor for YAWL.",
+                "year": 2013,
+                "yearinfo": "F Mannhardt - YAWL Symposium, 2013 - ceur-ws.org",
+                "writer": [
+                    "F Mannhardt"
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=12330627763817788162\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Web-based Editor for YAWL..pdf",
+                "file_url": "http://ceur-ws.org/Vol-982/YAWL2013-Paper09.pdf"
+            },
+            {
+                "name": "Techniques for reuse in business process modeling in public administration",
+                "year": 2017,
+                "yearinfo": "W Derguech, E Curry, S Bhiri - Government 3.0–Next Generation …, 2017 - Springer",
+                "writer": [
+                    "W Derguech",
+                    "E Curry",
+                    "S Bhiri"
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=16542993076346204500\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Process business modelling of emerging security threats with BPMN extension",
+                "year": 2021,
+                "yearinfo": "T Krym, Ł Chomątek, A Poniszewska-Marańda - 2021 - cybersecurity.fsu.edu",
+                "writer": [
+                    "Ł Chomątek",
+                    "A Poniszewska-Marańda"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Process business modelling of emerging security threats with BPMN extension.pdf",
+                "file_url": "https://cybersecurity.fsu.edu/wisp/wp-content/uploads/2021/12/WISP2021_paper_25.pdf"
+            },
+            {
+                "name": "A probabilistic approach to the stochastic fluid cash management balance problem",
+                "year": 2022,
+                "yearinfo": "Y Barron - Annals of Operations Research, 2022 - Springer",
+                "writer": [
+                    "Y Barron"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Business Workflow Optimization Through Process Model Redesign",
+                "year": 2020,
+                "yearinfo": "A Kumar, R Liu - IEEE Transactions on Engineering …, 2020 - ieeexplore.ieee.org",
+                "writer": [
+                    "R Liu"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Business Workflow Optimization Through Process Model Redesign.pdf",
+                "file_url": "https://www.researchgate.net/profile/Akhil-Kumar-11/publication/346434710_Business_Workflow_Optimization_Through_Process_Model_Redesign/links/6009c2f045851553a05fcff9/Business-Workflow-Optimization-Through-Process-Model-Redesign.pdf"
+            },
+            {
+                "name": "Laboratory Performance Modeling using Petri Nets in National Standardization Agency in Indonesia",
+                "year": 2022,
+                "yearinfo": "N Aloysius, M Siallagan… - International …, 2022 - journals.researchsynergypress.com",
+                "writer": [
+                    "N Aloysius, M Siallagan… "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Laboratory Performance Modeling using Petri Nets in National Standardization Agency in Indonesia.pdf",
+                "file_url": "https://journals.researchsynergypress.com/index.php/ijmesh/article/download/985/446"
+            },
+            {
+                "name": "Governance and Conceptual, Logical and Installed Architecture Alignment Using Work Products and Workflow",
+                "year": 2009,
+                "yearinfo": "J Ramanathan, R Ramnath - Co-Engineering Applications and …, 2009 - igi-global.com",
+                "writer": [
+                    "R Ramnath"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Semantic business process modeling  facilitating the design and verification of conceptual process models",
+                "year": 2010,
+                "yearinfo": "I Marković - 2010 - core.ac.uk",
+                "writer": [
+                    "I Marković "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Semantic business process modeling  facilitating the design and verification of conceptual process models.pdf",
+                "file_url": "https://core.ac.uk/download/pdf/197553934.pdf"
+            },
+            {
+                "name": "MODELING OF BUSINESS PROCESSES IN COMPANY MANAGEMENT.",
+                "year": 2022,
+                "yearinfo": "M Karmanov, I Kiseleva, V Kuznetsov… - Revista Gestão \u0026 …, 2022 - search.ebscohost.com",
+                "writer": [
+                    "M Karmanov, I Kiseleva, V Kuznetsov… "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Customer service process development through information and knowledge management",
+                "year": 2018,
+                "yearinfo": "A Saari - 2018 - trepo.tuni.fi",
+                "writer": [
+                    "A Saari "
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=2490320901742009080\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Customer service process development through information and knowledge management.pdf",
+                "file_url": "https://trepo.tuni.fi/bitstream/handle/123456789/26560/Saari.pdf?sequence=4"
+            },
+            {
+                "name": "Process Managing the Study Abroad Experience  An Innovative Framework",
+                "year": 2022,
+                "yearinfo": "Y Custodio-Bachiller, P Busch, G Guzman - 2022 - ibimapublishing.com",
+                "writer": [
+                    "Y Custodio-Bachiller",
+                    "P Busch",
+                    "G Guzman"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Process Managing the Study Abroad Experience  An Innovative Framework.pdf",
+                "file_url": "https://ibimapublishing.com/articles/JOKM/2022/489606/489606.pdf"
+            },
+            {
+                "name": "Strategies to Reduce Costs Associated with Hospital Readmissions",
+                "year": 2020,
+                "yearinfo": "A Zakaria - 2020 - search.proquest.com",
+                "writer": [
+                    "A Zakaria "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Strategies to Reduce Costs Associated with Hospital Readmissions.pdf",
+                "file_url": "https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=9703\u0026context=dissertations"
+            },
+            {
+                "name": "(In) effective Thesis Writing and Supervision (Lost) Opportunity for Learning",
+                "year": 2021,
+                "yearinfo": "MN Bastika, BM Bhandari - Studies in ELT and Applied Linguistics, 2021 - nepjol.info",
+                "writer": [
+                    "MN Bastika, BM Bhandari "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "(In) effective Thesis Writing and Supervision (Lost) Opportunity for Learning.pdf",
+                "file_url": "https://www.nepjol.info/index.php/seltal/article/download/40604/30918"
+            },
+            {
+                "name": "Action research to evaluate and improve IT Incident Management in the case company through Business Process Management methods",
+                "year": 2022,
+                "yearinfo": "L Eskola - 2022 - theseus.fi",
+                "writer": [
+                    "L Eskola "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Action research to evaluate and improve IT Incident Management in the case company through Business Process Management methods.pdf",
+                "file_url": "https://www.theseus.fi/bitstream/handle/10024/753306/Eskola_Lauri.pdf?sequence=2"
+            },
+            {
+                "name": "Data Engineering",
+                "year": 0,
+                "yearinfo": "D Cohn, R Hull, WMP van der Aalst, RS Mans… - Citeseer",
+                "writer": [
+                    "R Hull",
+                    "WMP van der Aalst",
+                    "RS Mans"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Data Engineering.pdf",
+                "file_url": "https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.183.76\u0026rep=rep1\u0026type=pdf"
+            },
+            {
+                "name": "AIS Electronic Library (AISeL)",
+                "year": 0,
+                "yearinfo": "T Krym, L Chomątek, A Poniszewska-Marańda - aisel.aisnet.org",
+                "writer": [
+                    "A Poniszewska-Marańda"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Improving the administrative decision-making of organizations in Iraq using information security",
+                "year": 2020,
+                "yearinfo": "MS Rashid, WA Mhmood, T wala Aldeen - Journal of Baghdad College of …, 2020 - iasj.net",
+                "writer": [
+                    "MS Rashid, WA Mhmood, T wala Aldeen "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Improving the administrative decision-making of organizations in Iraq using information security.pdf",
+                "file_url": "https://www.iasj.net/iasj/download/d075545d51247346"
+            },
+            {
+                "name": "Methodology for the Design of a Modular Process Structure Using Communality Matrices",
+                "year": 2021,
+                "yearinfo": "S Perau, C Doelle, M Riesener, G Schuh - Congress of the German …, 2021 - Springer",
+                "writer": [
+                    "S Perau, C Doelle, M Riesener, G Schuh "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Kiinteistönhallinnan toiminnanohjausjärjestelmän käytettävyyden parantaminen",
+                "year": 2019,
+                "yearinfo": "T Inkiläinen - 2019 - theseus.fi",
+                "writer": [
+                    "T Inkiläinen "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Kiinteistönhallinnan toiminnanohjausjärjestelmän käytettävyyden parantaminen.pdf",
+                "file_url": "https://www.theseus.fi/bitstream/handle/10024/266340/Taru_Inkilainen.pdf?sequence=2"
+            },
+            {
+                "name": "Procesní analýza firmy BDO TAX as",
+                "year": 2020,
+                "yearinfo": "J Šuška - 2020 - dspace.vsb.cz",
+                "writer": [
+                    "J Šuška "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Implementace notace BPMN a Petriho sítí pro podporu metodiky Lean manufacturing",
+                "year": 0,
+                "yearinfo": "RNDZ Priščáková, BA Srna - theses.cz",
+                "writer": [
+                    "RNDZ Priščáková, BA Srna "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Implementace notace BPMN a Petriho sítí pro podporu metodiky Lean manufacturing.pdf",
+                "file_url": "https://theses.cz/id/yhyh2m/zaverecna_prace.pdf"
+            },
+            {
+                "name": "Metodika pro zvýšení výkonnosti podpůrných procesů českých nemocnic",
+                "year": 2010,
+                "yearinfo": "M Kovalová - 2010 - digilib.k.utb.cz",
+                "writer": [
+                    "M Kovalová "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Metodika pro zvýšení výkonnosti podpůrných procesů českých nemocnic.pdf",
+                "file_url": "http://digilib.k.utb.cz/bitstream/handle/10563/45989/kovalov%C3%A1_2021_dp.pdf?sequence=1"
+            },
+            {
+                "name": "Διερεύνηση της οργανωτικής ικανότητας και της ποιότητας υπηρεσιών των αθλητικών συλλόγων για άτομα με αναπηρία στην Ελλάδα",
+                "year": 2020,
+                "yearinfo": "Π Γραικίνης-Ευαγγελινός - 2020 - didaktorika.gr",
+                "writer": [
+                    "Π Γραικίνης"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Marco de trabajo basado en BPM y LEAN para la automatización del proceso de Trámite de carné único de la Universidad Privada Antenor Orrego",
+                "year": 0,
+                "yearinfo": "ED Ávila Valdivia, JL Cabieses Esquivel - 2022 - 200.62.226.186",
+                "writer": [
+                    "ED Ávila Valdivia, JL Cabieses Esquivel "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Marco de trabajo basado en BPM y LEAN para la automatización del proceso de Trámite de carné único de la Universidad Privada Antenor Orrego.pdf",
+                "file_url": "http://200.62.226.186/bitstream/20.500.12759/9138/1/REP_ELIAS.%C3%81VILA_JORGE.CABIESES_MARCO.DE.TRABAJO.pdf"
+            },
+            {
+                "name": "Nivel de efectividad bajo el modelo Deming en un proceso de mantenimiento de una empresa minera en la región Cajamarca, 2020",
+                "year": 2021,
+                "yearinfo": "MF Uribe Apaza - 2021 - repositorio.upn.edu.pe",
+                "writer": [
+                    "MF Uribe Apaza "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Nivel de efectividad bajo el modelo Deming en un proceso de mantenimiento de una empresa minera en la región Cajamarca, 2020.pdf",
+                "file_url": "https://repositorio.upn.edu.pe/bitstream/handle/11537/26255/Uribe%20Apaza%20Miguel%20Fortunato.pdf?sequence=1"
+            },
+            {
+                "name": "Process analysis of MRI imaging–Case  Mehiläinen NEO",
+                "year": 2021,
+                "yearinfo": "O Kajander - 2021 - utupub.fi",
+                "writer": [
+                    "O Kajander "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Process analysis of MRI imaging–Case  Mehiläinen NEO.pdf",
+                "file_url": "https://www.utupub.fi/bitstream/handle/10024/152700/Oskari_Kajander_gradu.pdf?sequence=1"
+            },
+            {
+                "name": "PROGETTO E IMPLEMENTAZIONE DI UN SIMULATORE DI PROCESSI BASATO SU BPMN E BPSIM",
+                "year": 0,
+                "yearinfo": "F POGGI, R CANDIDO - core.ac.uk",
+                "writer": [
+                    "F POGGI"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "PROGETTO E IMPLEMENTAZIONE DI UN SIMULATORE DI PROCESSI BASATO SU BPMN E BPSIM.pdf",
+                "file_url": "https://core.ac.uk/download/pdf/211576401.pdf"
+            },
+            {
+                "name": "",
+                "year": 2021,
+                "yearinfo": "EOB Lessa, IVDP Gonzalez - Qualitas Revista Eletrônica, 2021",
+                "writer": [
+                    "IVDP Gonzalez"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            }
+        ],
+        "url": "https://scholar.google.de/scholar?cites=10432979679114380315\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+        "file": "Business process management.pdf",
+        "file_url": "http://ndl.ethernet.edu.et/bitstream/123456789/88446/1/10.1007_978-3-662-56509-4.pdf"
+    },
+    {
+        "name": "Social media for disaster situations  Methods, opportunities and challenges",
+        "year": 2017,
+        "yearinfo": "A Mukkamala, R Beck - 2017 IEEE Global Humanitarian …, 2017 - ieeexplore.ieee.org",
+        "writer": [
+            "A Mukkamala",
+            "R Beck"
+        ],
+        "cites_nr": 5,
+        "cites": [
+            {
+                "name": "Using localized Twitter activity to assess harmful algal bloom impacts of Karenia brevis in Florida, USA",
+                "year": 2021,
+                "yearinfo": "A Skripnikov, N Wagner, J Shafer, M Beck, E Sherwood… - Harmful Algae, 2021 - Elsevier",
+                "writer": [
+                    "A Skripnikov",
+                    "M Beck",
+                    "E Sherwood"
+                ],
+                "cites_nr": 5,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=8156206754104870101\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "A New Method to Detect the Development Situation of Disasters Based on Social Media Co-word Network",
+                "year": 2020,
+                "yearinfo": "Y WANG, M LI, X FU, S SHAO, H LIU - 武汉大学学报● 信息科学版, 2020 - ch.whu.edu.cn",
+                "writer": [
+                    "Y WANG, M LI, X FU, S SHAO, H LIU "
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=14042266225512905507\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "A New Method to Detect the Development Situation of Disasters Based on Social Media Co-word Network.pdf",
+                "file_url": "http://ch.whu.edu.cn/en/article/doi/10.13203/j.whugis20190054"
+            },
+            {
+                "name": "Understanding COVID-19 Public Sentiment Towards Public Health Policies Using Social Media Data",
+                "year": 2021,
+                "yearinfo": "O Figueira, Y Hatori, L Liang, C Chye… - 2021 IEEE Global …, 2021 - ieeexplore.ieee.org",
+                "writer": [
+                    "O Figueira"
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=9384625428453808475\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Understanding COVID-19 Public Sentiment Towards Public Health Policies Using Social Media Data.pdf",
+                "file_url": "https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1213\u0026context=cseng_senior"
+            },
+            {
+                "name": "Examining Community Vulnerabilities through multi-scale geospatial analysis of social media activity during Hurricane Irma",
+                "year": 2022,
+                "yearinfo": "AM Forati, R Ghose - International Journal of Disaster Risk Reduction, 2022 - Elsevier",
+                "writer": [
+                    "AM Forati",
+                    "R Ghose"
+                ],
+                "cites_nr": 2,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=5463768253122972405\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Social Media for Development  An exploratory study of social media use in development activities by Dutch development NGOs",
+                "year": 2019,
+                "yearinfo": "S Sheombar - 2019 - e-space.mmu.ac.uk",
+                "writer": [
+                    "S Sheombar"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Social Media for Development  An exploratory study of social media use in development activities by Dutch development NGOs.pdf",
+                "file_url": "https://e-space.mmu.ac.uk/626055/1/MMU%20PhD%20thesis%20with%20front%20cover%20-%20Sheombar.pdf"
+            },
+            {
+                "name": "AI CHATBOT using Web Speech API and Node. Js",
+                "year": 2022,
+                "yearinfo": "PVKV Prasad, NV Krishna… - … on Sustainable Computing …, 2022 - ieeexplore.ieee.org",
+                "writer": [
+                    "PVKV Prasad, NV Krishna… "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            }
+        ],
+        "url": "https://scholar.google.de/scholar?cites=13382167423506662282\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+        "file": "Social media for disaster situations  Methods, opportunities and challenges.pdf",
+        "file_url": "https://pure.itu.dk/portal/files/82523692/Social_media_Challenges_Oppurtunities_camera_ready_final.pdf"
+    },
+    {
+        "name": "Inspection coming due! how to determine the service interval of your processes!",
+        "year": 2016,
+        "yearinfo": "J Manderscheid, D Reißner, M Röglinger - International Conference on …, 2016 - Springer",
+        "writer": [
+            "D Reißner",
+            "M Röglinger"
+        ],
+        "cites_nr": 7,
+        "cites": [
+            {
+                "name": "Exploring the intersection of business process improvement and BPM capability development  A research agenda",
+                "year": 2017,
+                "yearinfo": "M Lehnert, A Linhart, M Roeglinger - Business Process Management …, 2017 - emerald.com",
+                "writer": [
+                    "M Roeglinger"
+                ],
+                "cites_nr": 47,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=3419587153180696450\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "PRISM–a predictive risk monitoring approach for business processes",
+                "year": 2016,
+                "yearinfo": "R Conforti, S Fink, J Manderscheid… - … Conference on Business …, 2016 - Springer",
+                "writer": [
+                    "R Conforti"
+                ],
+                "cites_nr": 36,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=2276133788284603247\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "PRISM–a predictive risk monitoring approach for business processes.pdf",
+                "file_url": "https://www.academia.edu/download/56831991/1.BPM_2016__LNCS_Volume_Number_9850.pdf#page=394"
+            },
+            {
+                "name": "Data-driven process prioritization in process networks",
+                "year": 2017,
+                "yearinfo": "W Kratsch, J Manderscheid, D Reißner… - Decision Support …, 2017 - Elsevier",
+                "writer": [
+                    "D Reißner"
+                ],
+                "cites_nr": 17,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=43163344699185934\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Prioritization of interconnected processes",
+                "year": 2018,
+                "yearinfo": "M Lehnert, M Röglinger, J Seyfried - Business \u0026 Information Systems …, 2018 - Springer",
+                "writer": [
+                    "M Röglinger"
+                ],
+                "cites_nr": 14,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=13204250581053547992\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Prioritization of interconnected processes.pdf",
+                "file_url": "https://core.ac.uk/download/pdf/301374057.pdf"
+            },
+            {
+                "name": "Supra‐nutritional levels of α‐tocopherol maintain the oxidative stability of n‐3 long‐chain fatty acid enriched subcutaneous fat and frozen loin, but not of dry …",
+                "year": 2016,
+                "yearinfo": "E Vossen, E Claeys, K Raes… - Journal of the …, 2016 - Wiley Online Library",
+                "writer": [
+                    "K Raes"
+                ],
+                "cites_nr": 9,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=11458757455897139239\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "MAKE THE BEST OUT OF WHAT YOU HAVE–A LITERATURE REVIEW ON PROCESS PRIORITIZATION",
+                "year": 2019,
+                "yearinfo": "M Fischer, K Fuchs - 2019 - scholar.archive.org",
+                "writer": [
+                    "M Fischer"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "MAKE THE BEST OUT OF WHAT YOU HAVE–A LITERATURE REVIEW ON PROCESS PRIORITIZATION.pdf",
+                "file_url": "https://scholar.archive.org/work/j76ho44tpbgi3fvqbmg43gjtqa/access/wayback/https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1065\u0026context=ecis2019_rip"
+            },
+            {
+                "name": "Machine Learning for Predictive Business Process Monitoring",
+                "year": 2016,
+                "yearinfo": "J Seyfried - 2016 - academia.edu",
+                "writer": [
+                    "J Seyfried "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Machine Learning for Predictive Business Process Monitoring.pdf",
+                "file_url": "https://www.academia.edu/download/52919623/vbm_final.pdf"
+            }
+        ],
+        "url": "https://scholar.google.de/scholar?cites=11693651848651294697\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+        "file": "Inspection coming due! how to determine the service interval of your processes!.pdf",
+        "file_url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.727.396\u0026rep=rep1\u0026type=pdf"
+    },
+    {
+        "name": "Strategic alignment and the implementation of a knowledge management system  a social representation perspective",
+        "year": 2012,
+        "yearinfo": "A Dulipovici, D Robey - 2012 45th Hawaii International …, 2012 - ieeexplore.ieee.org",
+        "writer": [
+            "A Dulipovici",
+            "D Robey"
+        ],
+        "cites_nr": 4,
+        "cites": [
+            {
+                "name": "IT alignment in public organizations  a systematic literature review",
+                "year": 2017,
+                "yearinfo": "L Rusu, GM Jonathan - Information Technology Governance in Public …, 2017 - Springer",
+                "writer": [
+                    "L Rusu",
+                    "GM Jonathan"
+                ],
+                "cites_nr": 29,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=6441266678899275840\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Knowledge management system in industries",
+                "year": 2018,
+                "yearinfo": "PNM Kamal, N Buniyamin - 2018 4th International Conference …, 2018 - ieeexplore.ieee.org",
+                "writer": [
+                    "N Buniyamin"
+                ],
+                "cites_nr": 6,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=59713367291246232\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Knowledge management system in industries.pdf",
+                "file_url": "https://www.researchgate.net/profile/Putri-Kamal/publication/332824623_Knowledge_Management_System_in_Industries/links/5cff13f2a6fdccd13091c81e/Knowledge-Management-System-in-Industries.pdf"
+            },
+            {
+                "name": "The design and implementation of knowledge management systems in academic libraries to enable knowledge management processes  A case study of Makerere …",
+                "year": 2016,
+                "yearinfo": "S Manafu - 2016 - repository.up.ac.za",
+                "writer": [
+                    "S Manafu "
+                ],
+                "cites_nr": 2,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=16906198911668106830\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "The design and implementation of knowledge management systems in academic libraries to enable knowledge management processes  A case study of Makerere ….pdf",
+                "file_url": "https://repository.up.ac.za/bitstream/handle/2263/62110/Manafu_Design_2016.pdf?sequence=1"
+            },
+            {
+                "name": "Extending Two-Dimensional Knowledge Management System Theory with Organizational Activity Systems' Workflow Dynamics",
+                "year": 2016,
+                "yearinfo": "DF Ladd - 2016 - search.proquest.com",
+                "writer": [
+                    "DF Ladd "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Extending Two-Dimensional Knowledge Management System Theory with Organizational Activity Systems' Workflow Dynamics.pdf",
+                "file_url": "https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=4408\u0026context=dissertations"
+            }
+        ],
+        "url": "https://scholar.google.de/scholar?cites=12655682813455479261\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+        "file": "Strategic alignment and the implementation of a knowledge management system  a social representation perspective.pdf",
+        "file_url": "https://www.researchgate.net/profile/Alina-Dulipovici/publication/232620939_Strategic_Alignment_and_the_Implementation_of_a_Knowledge_Management_System_A_Social_Representation_Perspective_PDF/links/57e92ee208ae113df5206532/Strategic-Alignment-and-the-Implementation-of-a-Knowledge-Management-System-A-Social-Representation-Perspective-PDF.pdf"
+    },
+    {
+        "name": "Innovating on a Dime  Design Science for Small Teams",
+        "year": 2011,
+        "yearinfo": "M Rohde, D Sundaram - 2011 - aisel.aisnet.org",
+        "writer": [
+            "M Rohde",
+            "D Sundaram"
+        ],
+        "cites_nr": 1,
+        "cites": [
+            {
+                "name": "The Missing Link  Towards Connected, Flexible, Open and Productive Systems for Knowledge-Driven Organizations",
+                "year": 2014,
+                "yearinfo": "M Rohde - 2014 - researchspace.auckland.ac.nz",
+                "writer": [
+                    "M Rohde"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "The Missing Link  Towards Connected, Flexible, Open and Productive Systems for Knowledge-Driven Organizations.pdf",
+                "file_url": "https://researchspace.auckland.ac.nz/bitstream/handle/2292/21766/whole.pdf?sequence=2"
+            }
+        ],
+        "url": "https://scholar.google.de/scholar?cites=16905401034994973600\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+        "file": "Innovating on a Dime  Design Science for Small Teams.pdf",
+        "file_url": "https://scholar.archive.org/work/oog4d46quvbpph2bn7teekrta4/access/wayback/http://aisel.aisnet.org:80/cgi/viewcontent.cgi?article=1223\u0026context=ecis2011"
+    },
+    {
+        "name": "Forgetting to learn and learning to forget  the call for organizational unlearning",
+        "year": 2022,
+        "yearinfo": "M Mull, C Duffy, D Silberman - European Journal of Training and …, 2022 - emerald.com",
+        "writer": [
+            "M Mull",
+            "C Duffy",
+            "D Silberman"
+        ],
+        "cites_nr": 0,
+        "cites": null,
+        "url": "",
+        "file": "",
+        "file_url": ""
+    },
+    {
+        "name": "Achieving social IT alignment through the orchestration of IT assets  an interpretive case study",
+        "year": 2021,
+        "yearinfo": "C Pelletier, AM Croteau, L Raymond… - Information Systems …, 2021 - Taylor \u0026 Francis",
+        "writer": [
+            "C Pelletier",
+            "AM Croteau",
+            "L Raymond"
+        ],
+        "cites_nr": 5,
+        "cites": [
+            {
+                "name": "IT-enabled organizational transformation  a structured literature review",
+                "year": 2020,
+                "yearinfo": "J vom Brocke, AM Schmid, A Simons… - Business Process …, 2020 - emerald.com",
+                "writer": [
+                    "J vom Brocke",
+                    "AM Schmid"
+                ],
+                "cites_nr": 20,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=8052430481207821024\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "IT-enabled organizational transformation  a structured literature review.pdf",
+                "file_url": "https://www.researchgate.net/profile/Jan-Vom-Brocke/publication/345674240_IT-enabled_organizational_transformation_a_structured_literature_review/links/5faa8470299bf10f733527de/IT-enabled-organizational-transformation-a-structured-literature-review.pdf"
+            },
+            {
+                "name": "The impact of national culture on strategic IT alignment  a multiple-case study of subsidiaries of multinational corporations",
+                "year": 2021,
+                "yearinfo": "GB Adaba, DW Wilson, J Sims - Information Systems Management, 2021 - Taylor \u0026 Francis",
+                "writer": [
+                    "GB Adaba",
+                    "J Sims"
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=14329482218390810547\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "The impact of national culture on strategic IT alignment  a multiple-case study of subsidiaries of multinational corporations.pdf",
+                "file_url": "https://www.researchgate.net/profile/Godfried-Adaba/publication/353526481_The_Impact_of_National_Culture_on_Strategic_IT_Alignment_A_Multiple-case_Study_of_Subsidiaries_of_Multinational_Corporations/links/6101b57b1e95fe241a95b83c/The-Impact-of-National-Culture-on-Strategic-IT-Alignment-A-Multiple-case-Study-of-Subsidiaries-of-Multinational-Corporations.pdf"
+            },
+            {
+                "name": "Evolving competencies to align electronic medical records–a dynamic resource-based perspective on hospitals' co-evolutionary information systems …",
+                "year": 2022,
+                "yearinfo": "P Walraven, R van de Wetering, R Helms… - Journal of Health …, 2022 - emerald.com",
+                "writer": [
+                    "P Walraven",
+                    "R van de Wetering",
+                    "R Helms"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Evolving competencies to align electronic medical records–a dynamic resource-based perspective on hospitals' co-evolutionary information systems ….pdf",
+                "file_url": "https://www.emerald.com/insight/content/doi/10.1108/JHOM-10-2021-0379/full/html"
+            },
+            {
+                "name": "A Theoretical Model for Defining Prerequisites of the IT-Business Alignment in the Social Dimension",
+                "year": 2022,
+                "yearinfo": "R Khlebnikov, P Malyzhenkov - International Workshop on Model-Driven …, 2022 - Springer",
+                "writer": [
+                    "P Malyzhenkov"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "A New Approach to the Social Dimension of IT Business Alignment",
+                "year": 2021,
+                "yearinfo": "R Khlebnikov, P Malyzhenkov - International Conference on Advanced …, 2021 - Springer",
+                "writer": [
+                    "P Malyzhenkov"
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=18333903220918692694\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Implementação de um Sistema de Informação numa Fintech  o caso da Finantech",
+                "year": 2021,
+                "yearinfo": "FS Silva - 2021 - repositorio-aberto.up.pt",
+                "writer": [
+                    "FS Silva "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Implementação de um Sistema de Informação numa Fintech  o caso da Finantech.pdf",
+                "file_url": "https://repositorio-aberto.up.pt/bitstream/10216/136119/2/495381.pdf"
+            }
+        ],
+        "url": "https://scholar.google.de/scholar?cites=6126694050190047668\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+        "file": "Achieving social IT alignment through the orchestration of IT assets  an interpretive case study.pdf",
+        "file_url": "https://depot-e.uqtr.ca/id/eprint/9517/1/PELLETIER_C_85_ED.pdf"
+    },
+    {
+        "name": "Organizational and managerial challenges for public actors working towards becoming a smart city-A case study of the City of Stockholm",
+        "year": 2018,
+        "yearinfo": "E Björck, F Österlin - 2018 - lup.lub.lu.se",
+        "writer": [
+            "E Björck, F Österlin "
+        ],
+        "cites_nr": 1,
+        "cites": [
+            {
+                "name": "JOURNAL OF SOCIAL AND HUMANITIES SCIENCES RESEARCH",
+                "year": 2017,
+                "yearinfo": "ÖGDM KARA, A YAYLI - SCIENCES, 2017 - jshsr.org",
+                "writer": [
+                    "ÖGDM KARA, A YAYLI "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "JOURNAL OF SOCIAL AND HUMANITIES SCIENCES RESEARCH.pdf",
+                "file_url": "http://www.jshsr.org/Makaleler/1901358586_4_2017_JSHSR_4-14.ID244.%20Mikail%20KARA%20\u0026%20Ali%20YAYLI_1599-1620.pdf"
+            }
+        ],
+        "url": "https://scholar.google.de/scholar?cites=12779136660522820229\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+        "file": "Organizational and managerial challenges for public actors working towards becoming a smart city-A case study of the City of Stockholm.pdf",
+        "file_url": "https://lup.lub.lu.se/student-papers/record/8937011/file/8937012.pdf"
+    },
+    {
+        "name": "Alliance capability  Exploration of its path dependent development",
+        "year": 2008,
+        "yearinfo": "S Kupke, C Lattemann - … : Journal of the Iberoamerican Academy of …, 2008 - emerald.com",
+        "writer": [
+            "S Kupke",
+            "C Lattemann"
+        ],
+        "cites_nr": 18,
+        "cites": [
+            {
+                "name": "The globalization of Chinese enterprises",
+                "year": 2012,
+                "yearinfo": "C Lattemann, I Alon, J Chang… - Thunderbird …, 2012 - Wiley Online Library",
+                "writer": [
+                    "C Lattemann",
+                    "I Alon"
+                ],
+                "cites_nr": 31,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=16132734566097485750\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "The globalization of Chinese enterprises.pdf",
+                "file_url": "https://scholarship.rollins.edu/cgi/viewcontent.cgi?article=1259\u0026context=as_facpub"
+            },
+            {
+                "name": "Kompetenzmanagement und dynamic capabilities  Eine empirische Fallstudie bei einem Unternehmen aus der Automobilzulieferindustrie",
+                "year": 2014,
+                "yearinfo": "M Rost - 2014 - books.google.com",
+                "writer": [
+                    "M Rost"
+                ],
+                "cites_nr": 11,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=12975870439717810294\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Entstehung von Kooperationsfähigkeit  Eine theoretische und empirische Analyse am Beispiel technologieorientierter Unternehmen",
+                "year": 2011,
+                "yearinfo": "A Rasmus - 2011 - books.google.com",
+                "writer": [
+                    "A Rasmus "
+                ],
+                "cites_nr": 6,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=6757422664511440177\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "The impact of sustainability reporting on company performance  the Philippine perspective",
+                "year": 2016,
+                "yearinfo": "TML Ebdane - Journal of Asia Entrepreneurship and …, 2016 - search.proquest.com",
+                "writer": [
+                    "TML Ebdane"
+                ],
+                "cites_nr": 6,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=2366997654680462632\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Dealing with surprise attacks  Decomposing ERM as a dynamic capability to handle crises",
+                "year": 2021,
+                "yearinfo": "VC Venkatesh, M Dasgupta, A Prashar… - Journal of Small …, 2021 - emerald.com",
+                "writer": [
+                    "M Dasgupta",
+                    "A Prashar"
+                ],
+                "cites_nr": 6,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=10336785446003390374\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Capacidades dinâmicas  contribuições e tendências",
+                "year": 2020,
+                "yearinfo": "W Cadrazco-Parra, Á Zapata-Domínguez… - Revista Lasallista de …, 2020 - scielo.org.co",
+                "writer": [
+                    "Á Zapata-Domínguez"
+                ],
+                "cites_nr": 7,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=3415386953356007886\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Capacidades dinâmicas  contribuições e tendências.pdf",
+                "file_url": "http://www.scielo.org.co/pdf/rlsi/v17n1/1794-4449-rlsi-17-01-325.pdf"
+            },
+            {
+                "name": "Emergenz organisationaler Fähigkeiten",
+                "year": 2009,
+                "yearinfo": "S Kupke, C Lattemann - Zeitschrift für Management, 2009 - Springer",
+                "writer": [
+                    "S Kupke",
+                    "C Lattemann"
+                ],
+                "cites_nr": 2,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=16596144148254047529\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "The expected roles of applying the coopetition strategy in the development of the value Network",
+                "year": 2022,
+                "yearinfo": "YM Khadir, KAA Ibrahim - AL-Anbar University journal of …, 2022 - aujeas.uoanbar.edu.iq",
+                "writer": [
+                    "YM Khadir, KAA Ibrahim "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "The expected roles of applying the coopetition strategy in the development of the value Network.pdf",
+                "file_url": "https://aujeas.uoanbar.edu.iq/article_172772_98cf2f83720bfbd7d9609da21f169af6.pdf"
+            },
+            {
+                "name": "The role of alliance capabilities in alliance portfolio management",
+                "year": 2009,
+                "yearinfo": "V Panfilii - 2009 - lutpub.lut.fi",
+                "writer": [
+                    "V Panfilii "
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=626960869221191538\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "The role of alliance capabilities in alliance portfolio management.pdf",
+                "file_url": "https://lutpub.lut.fi/bitstream/handle/10024/45520/nbnfi-fe200906081595.pdf?sequence=1"
+            },
+            {
+                "name": "The antecedents and impact of alliance management capabilities and the moderating role of social capital  evidence from the Libyan family business sector",
+                "year": 2019,
+                "yearinfo": "A Nasr - 2019 - eprints.hud.ac.uk",
+                "writer": [
+                    "A Nasr "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "The antecedents and impact of alliance management capabilities and the moderating role of social capital  evidence from the Libyan family business sector.pdf",
+                "file_url": "http://eprints.hud.ac.uk/id/eprint/34904/1/Nasr%20THESIS.pdf"
+            },
+            {
+                "name": "Horizontal Cooperation In The New Zealand Road Transport Industry  Can sharing the load deliver efficiency, profitability, and sustainability?",
+                "year": 2015,
+                "yearinfo": "G Jeffcoat, C Basnet - Journal of Asia Entrepreneurship and …, 2015 - search.proquest.com",
+                "writer": [
+                    "G Jeffcoat, C Basnet "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Capacidades dinámicas  aportes y tendencias",
+                "year": 2020,
+                "yearinfo": "Á Zapata Domínguez, W Cadrazco Parra… - 2020 - repository.unilasallista.edu.co",
+                "writer": [
+                    "Á Zapata Domínguez"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Capacidades dinámicas  aportes y tendencias.pdf",
+                "file_url": "http://repository.unilasallista.edu.co/dspace/bitstream/10567/2783/1/2313-Texto%20del%20art%C3%ADculo-210212262-1-10-20200825.pdf"
+            },
+            {
+                "name": "Capacidades dinámicas",
+                "year": 0,
+                "yearinfo": "W Cadrazco-Parra, Á Zapata-Domínguez… - 179.1.108.245",
+                "writer": [
+                    "Á Zapata-Domínguez"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "الادوار المرتقبة لتطبيق استارتيجية التعاون التنافسي في تطوير شبكة القيمة",
+                "year": 2018,
+                "yearinfo": "م. د. يونس محمد خضر - 2018 - ufds.uofallujah.edu.iq",
+                "writer": [
+                    "م. د. يونس محمد خضر"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "الادوار المرتقبة لتطبيق استارتيجية التعاون التنافسي في تطوير شبكة القيمة.pdf",
+                "file_url": "http://ufds.uofallujah.edu.iq/dspace/bitstream/123456789/1213/1/%D8%A8%D8%AD%D8%AB%20%D8%A7%D9%84%D8%A7%D8%AF%D9%88%D8%A7%D8%B1%20%D8%A7%D9%84%D9%85%D8%B1%D8%AA%D9%82%D8%A8%D8%A9%20%D8%A7%D9%84%D9%85%D9%86%D8%B4%D9%88%D8%B1.pdf"
+            },
+            {
+                "name": "INFLUENCIA DE LA ESTRUCTURA Y DIVERSIDAD EN LOS EQUIPOS DIRECTIVOS SOBRE LA ORIENTACIÓN A COOPERAR DE LAS EMPRESAS …",
+                "year": 2016,
+                "yearinfo": "JCP Calatayud - 2016 - core.ac.uk",
+                "writer": [
+                    "JCP Calatayud "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "INFLUENCIA DE LA ESTRUCTURA Y DIVERSIDAD EN LOS EQUIPOS DIRECTIVOS SOBRE LA ORIENTACIÓN A COOPERAR DE LAS EMPRESAS ….pdf",
+                "file_url": "https://core.ac.uk/download/pdf/75988891.pdf"
+            },
+            {
+                "name": "",
+                "year": 2016,
+                "yearinfo": "JC Pla Calatayud - 2016",
+                "writer": [
+                    "JC Pla Calatayud "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "نظرية المباراة  لماذا تتبنـي المنظمات استـراتيجية التعاون التنافسـي الإلکتـرونـي؟ دراسة تحليلية لآراء عينة من المديـريـن في شرکات خدمات الإنتـرنت في مدينة أربيل، إقليم …",
+                "year": 2017,
+                "yearinfo": "يونس محمد خضر السبعاوي, يونس محمد خضر… - المجلة العربية …, 2017 - aja.journals.ekb.eg",
+                "writer": [
+                    "يونس محمد خضر السبعاوي, يونس محمد خضر… "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "نظرية المباراة  لماذا تتبنـي المنظمات استـراتيجية التعاون التنافسـي الإلکتـرونـي؟ دراسة تحليلية لآراء عينة من المديـريـن في شرکات خدمات الإنتـرنت في مدينة أربيل، إقليم ….pdf",
+                "file_url": "https://aja.journals.ekb.eg/article_17536_5693dadd4e556925fc26605d67ab7ec6.pdf"
+            },
+            {
+                "name": "واقع عممية التعاون التنافسي الإلكتروني",
+                "year": 2018,
+                "yearinfo": "م. د. يونس محمد خضر - 2018 - ufds.uofallujah.edu.iq",
+                "writer": [
+                    "م. د. يونس محمد خضر "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "واقع عممية التعاون التنافسي الإلكتروني.pdf",
+                "file_url": "http://ufds.uofallujah.edu.iq/dspace/bitstream/123456789/1211/1/%D8%A7%D9%84%D8%A8%D8%AD%D8%AB%20%D9%83%D8%A7%D9%85%D9%84%20%D9%85%D9%86%20%D9%85%D9%88%D9%82%D8%B9%20%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%A9.pdf"
+            }
+        ],
+        "url": "https://scholar.google.de/scholar?cites=12502102599286192811\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+        "file": "",
+        "file_url": ""
+    },
+    {
+        "name": "A knowledge-sharing approach to organizational change  A critical discourse analysis",
+        "year": 2004,
+        "yearinfo": "L Treleaven - Organizations as Knowledge Systems, 2004 - Springer",
+        "writer": [
+            "L Treleaven "
+        ],
+        "cites_nr": 36,
+        "cites": [
+            {
+                "name": "Trust and knowledge sharing in green supply chains",
+                "year": 2008,
+                "yearinfo": "JH Cheng, CH Yeh, CW Tu - Supply chain management: An …, 2008 - emerald.com",
+                "writer": [
+                    "CH Yeh"
+                ],
+                "cites_nr": 669,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=593347453322170058\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Trust and knowledge sharing in green supply chains.pdf",
+                "file_url": "https://www.researchgate.net/profile/Jao-Hong-Cheng/publication/242025459_Trust_and_knowledge_sharing_in_green_supply_chains/links/0deec527a4effc0939000000/Trust-and-knowledge-sharing-in-green-supply-chains.pdf"
+            },
+            {
+                "name": "Learning organization and competitive advantage-An integrated approach",
+                "year": 2015,
+                "yearinfo": "M Farrukh, A Waheed - Journal of Asian Business Strategy, 2015 - archive.aessweb.com",
+                "writer": [
+                    "M Farrukh",
+                    "A Waheed"
+                ],
+                "cites_nr": 83,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=1716410833900251526\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Learning organization and competitive advantage-An integrated approach.pdf",
+                "file_url": "https://archive.aessweb.com/index.php/5006/article/download/4150/6416"
+            },
+            {
+                "name": "Loss of organizational knowledge  From supporting clients to serving head office",
+                "year": 2005,
+                "yearinfo": "L Treleaven, C Sykes - Journal of Organizational Change …, 2005 - emerald.com",
+                "writer": [
+                    "C Sykes"
+                ],
+                "cites_nr": 76,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=17028925105263859035\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Feminism in community  Adult education for transformation",
+                "year": 2015,
+                "yearinfo": "LM English, CJ Irving - Feminism in Community, 2015 - brill.com",
+                "writer": [
+                    "LM English"
+                ],
+                "cites_nr": 66,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=11937371988928440935\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Critical action research and organizational ethnography",
+                "year": 2009,
+                "yearinfo": "C Sykes, L Treleaven - … : Studying the complexities of everyday life, 2009 - books.google.com",
+                "writer": [
+                    "C Sykes"
+                ],
+                "cites_nr": 50,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=18145167372367427898\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Critical action research and organizational ethnography.pdf",
+                "file_url": "https://www.researchgate.net/file.PostFileLoader.html?id=56a087215f7f7107118b4584\u0026assetKey=AS%3A320233095532547%401453360928626#page=228"
+            },
+            {
+                "name": "Reflexive texts  Issues of knowledge, power, and discourse in researching gender and learning",
+                "year": 2008,
+                "yearinfo": "LM English, CJ Irving - Adult Education Quarterly, 2008 - journals.sagepub.com",
+                "writer": [
+                    "LM English"
+                ],
+                "cites_nr": 37,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=5376230743134501189\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Essential changes for knowledge management establishment in a country  a macro perspective",
+                "year": 2007,
+                "yearinfo": "M Jafari, P Akhavan - European Business Review, 2007 - emerald.com",
+                "writer": [
+                    "M Jafari",
+                    "P Akhavan"
+                ],
+                "cites_nr": 32,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=4885310874938756408\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Essential changes for knowledge management establishment in a country  a macro perspective.pdf",
+                "file_url": "https://www.academia.edu/download/36850539/KM_Establishment_in_a_Country.pdf"
+            },
+            {
+                "name": "Partnering for research  A critical discourse analysis",
+                "year": 2008,
+                "yearinfo": "CJ Irving, LM English - Studies in Continuing Education, 2008 - Taylor \u0026 Francis",
+                "writer": [
+                    "LM English"
+                ],
+                "cites_nr": 29,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=8490322484587487941\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Partnering for research  A critical discourse analysis.pdf",
+                "file_url": "https://www.tandfonline.com/doi/pdf/10.1080/01580370802097702"
+            },
+            {
+                "name": "The terror speaks  inside Pakistan's terrorism discourse and national action plan",
+                "year": 2018,
+                "yearinfo": "PH Sahill - Studies in Conflict \u0026 Terrorism, 2018 - Taylor \u0026 Francis",
+                "writer": [
+                    "PH Sahill"
+                ],
+                "cites_nr": 21,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=1699878889040920189\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "The terror speaks  inside Pakistan's terrorism discourse and national action plan.pdf",
+                "file_url": "https://www.researchgate.net/profile/Pamir-Sahill/publication/312573713_The_Terror_Speaks_Inside_Pakistan%27s_Terrorism_Discourse_and_National_Action_Plan/links/60cb4973299bf1cd71d607e1/The-Terror-Speaks-Inside-Pakistans-Terrorism-Discourse-and-National-Action-Plan.pdf"
+            },
+            {
+                "name": "Financial literacy and academics  A critical discourse analysis",
+                "year": 2012,
+                "yearinfo": "L English - Canadian Journal for the Study of Adult Education, 2012 - cjsae.library.dal.ca",
+                "writer": [
+                    "L English"
+                ],
+                "cites_nr": 11,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=13115848757194426864\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Financial literacy and academics  A critical discourse analysis.pdf",
+                "file_url": "https://cjsae.library.dal.ca/index.php/cjsae/article/download/462/pdf/"
+            },
+            {
+                "name": "Activism and women's NGOs in Turkey  Civil society, feminism and politics",
+                "year": 2019,
+                "yearinfo": "AÖ Keysan - 2019 - books.google.com",
+                "writer": [
+                    "AÖ Keysan"
+                ],
+                "cites_nr": 10,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=16551576633501360595\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Leading in the learning organization",
+                "year": 2009,
+                "yearinfo": "J Baldomir - Leadership Advance Online, 2009 - regent.edu",
+                "writer": [
+                    "J Baldomir "
+                ],
+                "cites_nr": 7,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=2124329374462253623\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Leading in the learning organization.pdf",
+                "file_url": "https://www.regent.edu/acad/global/publications/lao/issue_17/LAO_IssXVII_Baldomir.pdf"
+            },
+            {
+                "name": "Power, Resistance, and Informal pathways  Lifelong Learning in Feminist Nonprofit Organisations",
+                "year": 2011,
+                "yearinfo": "LM English - Gendered Choices, 2011 - Springer",
+                "writer": [
+                    "LM English"
+                ],
+                "cites_nr": 3,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=7799652548364140019\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Power, Resistance, and Informal pathways  Lifelong Learning in Feminist Nonprofit Organisations.pdf",
+                "file_url": "https://www.academia.edu/download/40029021/my_chapter_in_Jackson.pdf"
+            },
+            {
+                "name": "Managerialism at work  a case study of buckets, bureaucrats and bullying",
+                "year": 2005,
+                "yearinfo": "C Sykes, L Treleaven - Excess \u0026 Organization, 2005 - academia.edu",
+                "writer": [
+                    "C Sykes, L Treleaven "
+                ],
+                "cites_nr": 3,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=13945436221131222517\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "Managerialism at work  a case study of buckets, bureaucrats and bullying.pdf",
+                "file_url": "https://www.academia.edu/download/8272392/10.1.1.120.7710.pdf#page=241"
+            },
+            {
+                "name": "A sensemaking approach to knowledge management in organisations for information systems change",
+                "year": 2004,
+                "yearinfo": "C Jerram - 2004 - researchdirect.westernsydney.edu …",
+                "writer": [
+                    "C Jerram"
+                ],
+                "cites_nr": 3,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=11498786614683296507\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "A sensemaking approach to knowledge management in organisations for information systems change.pdf",
+                "file_url": "https://researchdirect.westernsydney.edu.au/islandora/object/uws:591/datastream/PDF/view"
+            },
+            {
+                "name": "Relationship between senior and junior researcher  Challenges and opportunities for knowledge creating and sharing",
+                "year": 2017,
+                "yearinfo": "K Gorela, R Biloslavo - Organizational Culture and Behavior …, 2017 - igi-global.com",
+                "writer": [
+                    "R Biloslavo"
+                ],
+                "cites_nr": 3,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=11072396318984242665\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Knowledge as a source of power in real estate organisations",
+                "year": 2012,
+                "yearinfo": "S Pemsel, G Blomé - 2012 - diva-portal.org",
+                "writer": [
+                    "S Pemsel"
+                ],
+                "cites_nr": 3,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=14013039060445908764\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Grillo, Eric (Ed.)(2005). Power without Domination. Dialogism and the Empowering Property of Communication",
+                "year": 2010,
+                "yearinfo": "A Lischinsky - Journal of Language and Politics, 2010 - jbe-platform.com",
+                "writer": [
+                    "A Lischinsky"
+                ],
+                "cites_nr": 2,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=1038047330561733820\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Factors Affecting Knowledge Sharing (KS) in Jordanian Pharmaceutical Companies",
+                "year": 2012,
+                "yearinfo": "R Kharabsheh, I Magableh… - European Conference on …, 2012 - search.proquest.com",
+                "writer": [
+                    "R Kharabsheh"
+                ],
+                "cites_nr": 2,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=2979623591167357753\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "",
+                "year": 2007,
+                "yearinfo": "LM English, CJ Irving - 2007 - Education-Line",
+                "writer": [
+                    "LM English"
+                ],
+                "cites_nr": 2,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=862217968693130852\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "",
+                "year": 2015,
+                "yearinfo": "AC Nair, S Ramalingam, A Ravi - International Journal of Economic Research, 2015",
+                "writer": [
+                    "AC Nair, S Ramalingam, A Ravi "
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=7759567313082428948\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "O compartilhamento do conhecimento, a capacidade absortiva ea inovação nos relacionamentos interorganizacionais do tipo de terceirização de tecnologia da …",
+                "year": 2015,
+                "yearinfo": "RR Faoro - 2015 - repositorio.ucs.br",
+                "writer": [
+                    "RR Faoro "
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=2261233566928775221\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "O compartilhamento do conhecimento, a capacidade absortiva ea inovação nos relacionamentos interorganizacionais do tipo de terceirização de tecnologia da ….pdf",
+                "file_url": "https://repositorio.ucs.br/xmlui/bitstream/handle/11338/920/Tese%20Roberta%20Rodrigues%20Faoro.pdf?sequence=1\u0026isAllowed=y"
+            },
+            {
+                "name": "Feminism in Community",
+                "year": 2015,
+                "yearinfo": "CJ Irving, LM English - 2015 - books.google.com",
+                "writer": [
+                    "LM English"
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=16954916514521178945\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "",
+                "year": 2014,
+                "yearinfo": "SA Mahmood, SW Siddiqui, M Junaid - 2014",
+                "writer": [
+                    "SA Mahmood, SW Siddiqui, M Junaid "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "",
+                "year": 2010,
+                "yearinfo": "E Grillo - 2010",
+                "writer": [
+                    "E Grillo "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "The creation of competitive advantage  a Māori learning organisation's marketing strategy",
+                "year": 2016,
+                "yearinfo": "S Mehana - 2016 - openrepository.aut.ac.nz",
+                "writer": [
+                    "S Mehana "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "The creation of competitive advantage  a Māori learning organisation's marketing strategy.pdf",
+                "file_url": "https://openrepository.aut.ac.nz/bitstream/handle/10292/9903/MehanaSN.pdf?sequence=3"
+            },
+            {
+                "name": "",
+                "year": 2019,
+                "yearinfo": "S ACADIA, JA BARTLETT - Libraries that Learn …, 2019 - American Library Association",
+                "writer": [
+                    "S ACADIA"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "",
+                "year": 0,
+                "yearinfo": "NM Patel, NK Patel - Synergy: Journal of Management, Authors Guidelines …",
+                "writer": [
+                    "NM Patel",
+                    "NK Patel"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "How to foster inter-organisational knowledge sharing on the Knowledge Sharing Centre-platform",
+                "year": 0,
+                "yearinfo": "D van Tuijl - knowledgesharingcentre.com",
+                "writer": [
+                    "D van Tuijl "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "How to foster inter-organisational knowledge sharing on the Knowledge Sharing Centre-platform.pdf",
+                "file_url": "https://www.knowledgesharingcentre.com/wp-content/uploads/2021/11/Master-Thesis-Dennis-van-Tuijl-Publication-Version.pdf"
+            },
+            {
+                "name": "Engendering\" civil society\"?, Discourses of women's organisations in Turkey",
+                "year": 2015,
+                "yearinfo": "A OÌ zguÌ r Keysan - 2015 - stax.strath.ac.uk",
+                "writer": [
+                    "A OÌ zguÌ r Keysan "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Engendering\" civil society\"?, Discourses of women's organisations in Turkey.pdf",
+                "file_url": "http://stax.strath.ac.uk/downloads/3b5918966"
+            },
+            {
+                "name": "Establishing the Merger of a Tertiary Education System in Public Discourse  The Case of the New Zealand Institute of Skills and Technology.",
+                "year": 2022,
+                "yearinfo": "BRJ Hannigan, N Asmatullayeva - Knowledge Cultures, 2022 - ceeol.com",
+                "writer": [
+                    "BRJ Hannigan, N Asmatullayeva "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Organizational Aspects of Learning for Sustainability in Local Government",
+                "year": 2011,
+                "yearinfo": "C Pusztai - 2011 - csabapusztai.com",
+                "writer": [
+                    "C Pusztai "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Organizational Aspects of Learning for Sustainability in Local Government.pdf",
+                "file_url": "http://csabapusztai.com/wp/wp-content/uploads/PUSZTAI_Publication_B_Thesis_ENG.pdf"
+            },
+            {
+                "name": "화주기업과 3 자 물류기업의 신뢰 형성에 영향을 미치는 요인에 관한 연구  상하이의 중국기업을 대상으로",
+                "year": 2009,
+                "yearinfo": "이명무， 유승훈， 김윤호 - 한국 SCM 학회지, 2009 - dbpia.co.kr",
+                "writer": [
+                    "이명무， 유승훈， 김윤호 "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "중등 화학 수업에서 스마트 기기를 활용한 개념 적응적 개별화 학습과 소집단 학습의 효과",
+                "year": 2017,
+                "yearinfo": "윤정현 - 2017 - s-space.snu.ac.kr",
+                "writer": [
+                    "윤정현 "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "중등 화학 수업에서 스마트 기기를 활용한 개념 적응적 개별화 학습과 소집단 학습의 효과.pdf",
+                "file_url": "https://s-space.snu.ac.kr/bitstream/10371/136945/1/000000146642.pdf"
+            },
+            {
+                "name": "Οι οργανισμοί που μαθαίνουν στον τομέα υγείας  η περίπτωση των νοσοκομείων του ΕΣΥ της Περιφέρειας Πελοποννήσου",
+                "year": 2014,
+                "yearinfo": "Ε Πολυχρονοπούλου - 2014 - amitos.library.uop.gr",
+                "writer": [
+                    "Ε Πολυχρονοπούλου "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Οι οργανισμοί που μαθαίνουν στον τομέα υγείας  η περίπτωση των νοσοκομείων του ΕΣΥ της Περιφέρειας Πελοποννήσου.pdf",
+                "file_url": "https://amitos.library.uop.gr/xmlui/bitstream/handle/123456789/2304/%20.%20.%20.%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20.pdf?sequence=1"
+            },
+            {
+                "name": "Plano de negócios  Fisiostation",
+                "year": 2020,
+                "yearinfo": "NHMD Carreira - 2020 - repositorio.ipl.pt",
+                "writer": [
+                    "NHMD Carreira "
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Plano de negócios  Fisiostation.pdf",
+                "file_url": "https://repositorio.ipl.pt/bitstream/10400.21/12880/1/Disserta%C3%A7%C3%A3o%20NunoCarreira_20160162%20-%20DOCUMENTO%20FINAL.pdf"
+            }
+        ],
+        "url": "https://scholar.google.de/scholar?cites=9820991333216145927\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+        "file": "",
+        "file_url": ""
+    },
+    {
+        "name": "Exploring How Hotel Organizations Use Social Media-An International Qualitative Study.",
+        "year": 2017,
+        "yearinfo": "K Högberg - MCIS, 2017 - aisel.aisnet.org",
+        "writer": [
+            "K Högberg"
+        ],
+        "cites_nr": 1,
+        "cites": [
+            {
+                "name": "Digital Marketing in Rural Hotels in Portugal",
+                "year": 2022,
+                "yearinfo": "FA Ferreira, A Melo, C Castro - Advances in Tourism, Technology and …, 2022 - Springer",
+                "writer": [
+                    "FA Ferreira",
+                    "C Castro"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "",
+                "file_url": ""
+            }
+        ],
+        "url": "https://scholar.google.de/scholar?cites=3128710634449878700\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+        "file": "Exploring How Hotel Organizations Use Social Media-An International Qualitative Study..pdf",
+        "file_url": "https://core.ac.uk/download/pdf/301373752.pdf"
+    },
+    {
+        "name": "Achieving superior performance in international markets  the roles of organizational agility and absorptive capacity",
+        "year": 2022,
+        "yearinfo": "HE Cho, I Jeong, E Kim, J Cho - Journal of Business \u0026 Industrial …, 2022 - emerald.com",
+        "writer": [
+            "HE Cho, I Jeong, E Kim, J Cho "
+        ],
+        "cites_nr": 1,
+        "cites": [
+            {
+                "name": "The role of supply chain resilience and absorptive capacity in the relationship between marketing–supply chain management alignment and firm performance  A …",
+                "year": 2022,
+                "yearinfo": "MA Salam, S Bajaba - Journal of Business \u0026 Industrial Marketing, 2022 - emerald.com",
+                "writer": [
+                    "MA Salam",
+                    "S Bajaba"
+                ],
+                "cites_nr": 1,
+                "cites": null,
+                "url": "https://scholar.google.de/scholar?cites=4399169879837029139\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+                "file": "",
+                "file_url": ""
+            },
+            {
+                "name": "Quality functions' use of customer feedback as activation triggers for absorptive capacity and value co-creation",
+                "year": 2022,
+                "yearinfo": "I Gremyr, A Birch-Jensen, M Kumar… - International Journal of …, 2022 - emerald.com",
+                "writer": [
+                    "I Gremyr",
+                    "A Birch-Jensen",
+                    "M Kumar"
+                ],
+                "cites_nr": 0,
+                "cites": null,
+                "url": "",
+                "file": "Quality functions' use of customer feedback as activation triggers for absorptive capacity and value co-creation.pdf",
+                "file_url": "https://www.emerald.com/insight/content/doi/10.1108/IJOPM-11-2021-0692/full/html"
+            }
+        ],
+        "url": "https://scholar.google.de/scholar?cites=12188158491241961491\u0026as_sdt=2005\u0026sciodt=0,5\u0026hl=de\u0026oe=ASCII",
+        "file": "",
+        "file_url": ""
+    }
+]
